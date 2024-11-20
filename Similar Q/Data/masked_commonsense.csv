@@ -1,0 +1,101 @@
+original_question,masked_question,nouns,noun_count
+"Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?",Miranda () () sure () () () () () () () () knew () () () () stop moving () smelly feet () () () () problem () () () () told () do () (),"['Miranda', 'sure', 'doing', 'knew', 'stop', 'moving', 'smelly', 'feet', 'problem', 'do']",10
+"The police busted down his door, he realized only then he was just the pawn in his partner's grander what?",() police busted () () door () () realized () () () () () () pawn () () partner () grander () (),"['police', 'busted', 'door', 'realized', 'pawn', 'partner', 'grander']",7
+What kind of wine list can I expect to see in Paris?,() kind () wine list () () expect () see () Paris (),"['kind', 'wine', 'list', 'expect', 'see', 'Paris']",6
+What performance is expected of a student in school sessions?,() performance () expected () () student () school sessions (),"['performance', 'expected', 'student', 'school', 'sessions']",5
+"The man was crass and rude, all the what in the office filed a complaint together?",() man () crass () rude () () () () () () office filed () complaint () (),"['man', 'crass', 'rude', 'office', 'filed', 'complaint']",6
+If a human is sleepy what can they do to feel more alert?,() () human () sleepy () () () do () feel () alert (),"['human', 'sleepy', 'do', 'feel', 'alert']",5
+"When a person is convicted of committing murder, what happend to them?",() () person () convicted () committing murder () () happend () () (),"['person', 'convicted', 'committing', 'murder', 'happend']",5
+What is the hope of going fishing?,() () () hope () going fishing (),"['hope', 'going', 'fishing']",3
+What does reading letters produce when one is unaware of a condition?,() () reading letters produce () () () unaware () () condition (),"['reading', 'letters', 'produce', 'unaware', 'condition']",5
+Everyone is ordinary but we are often told we are what?,Everyone () ordinary () () () () told () () () (),"['Everyone', 'ordinary', 'told']",3
+"If there are people watching a priest, what is he doing?",() () are people watching () priest () () () () doing (),"['are', 'people', 'watching', 'priest', 'doing']",5
+What old models are likely to be made of wood?,() old models () likely () () made () wood (),"['old', 'models', 'likely', 'made', 'wood']",5
+"If an apple tree were in the North, where would it be?",() () apple tree () () () North () () () () () (),"['apple', 'tree', 'North']",3
+"The bald eagle has been a protected species, this is in part due to a dwindling what?",() bald eagle () () () protected species () () () () part () () () dwindling () (),"['bald', 'eagle', 'protected', 'species', 'part', 'dwindling']",6
+What could you add a line to?,() () () add () line () (),"['add', 'line']",2
+Going in an air conditioned room to cool off is a good way to get what from hot weather?,Going () () air conditioned room () cool () () () good way () () () () hot weather (),"['Going', 'air', 'conditioned', 'room', 'cool', 'good', 'way', 'hot', 'weather']",9
+Where might a snake drop from?,() () () snake drop () (),"['snake', 'drop']",2
+"Sam treasured his freedom.  When he became a POW, he tried to escape from what?",Sam treasured () freedom () () () became () POW () () tried () escape () () (),"['Sam', 'treasured', 'freedom', 'became', 'POW', 'tried', 'escape']",7
+"Though nearby, an apple from an apple tree where would be an imported product to the USA?",() () () () apple () () apple tree () () () () imported product () () USA (),"['apple', 'apple', 'tree', 'imported', 'product', 'USA']",6
+"If a cottage is above the cloud line, where is it?",() () cottage () () () cloud line () () () () (),"['cottage', 'cloud', 'line']",3
+What do most people hope to achieve when playing sports?,() () most people hope () achieve () playing sports (),"['most', 'people', 'hope', 'achieve', 'playing', 'sports']",6
+When you haven't seen someone since they were young and years have passed what has happened to them?,() () () () seen someone () () () young () years () passed () () happened () () (),"['seen', 'someone', 'young', 'years', 'passed', 'happened']",6
+"The man wanted a new ottoman, so where did he look?",() man wanted () new ottoman () () () () () look (),"['man', 'wanted', 'new', 'ottoman', 'look']",5
+Where are there more telephone booths?,() are () more telephone booths (),"['are', 'more', 'telephone', 'booths']",4
+Where does a car belong?,() () () car belong (),"['car', 'belong']",2
+Where do most birds put eggs?,() () most birds put eggs (),"['most', 'birds', 'put', 'eggs']",4
+"Playing tennis requires at least one opponent, a ball, and a what?",Playing tennis requires () least () opponent () () ball () () () () (),"['Playing', 'tennis', 'requires', 'least', 'opponent', 'ball']",6
+What would you be doing if you are having lunch?,() () () () doing () () () having lunch (),"['doing', 'having', 'lunch']",3
+A hinged door is not always found in which room of the house?,() hinged door () () () found () () room () () house (),"['hinged', 'door', 'found', 'room', 'house']",5
+Why could someone fall down after eating lunch?,() () someone fall () () eating lunch (),"['someone', 'fall', 'eating', 'lunch']",4
+What is the opposite of ambiguous?,() () () opposite () ambiguous (),"['opposite', 'ambiguous']",2
+What do people feel when something good happens?,() () people feel () something good happens (),"['people', 'feel', 'something', 'good', 'happens']",5
+A modern farmer needs many skills common for who in order to manage finances and increase sales?,() modern farmer needs many skills common () () () order () manage finances () increase () (),"['modern', 'farmer', 'needs', 'many', 'skills', 'common', 'order', 'manage', 'finances', 'increase']",10
+Where in your office would you store a highlight that you don't use often?,() () () office () () store () highlight () () () () use () (),"['office', 'store', 'highlight', 'use']",4
+"She loved the music so much, how did she describe it?",() loved () music () () () () () () describe () (),"['loved', 'music', 'describe']",3
+Where would you store potato chips in their home?,() () () store potato chips () () home (),"['store', 'potato', 'chips', 'home']",4
+Why do people want to swim in the heat?,() () people want () swim () () heat (),"['people', 'want', 'swim', 'heat']",4
+"A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?",() snake () () something () want () come () () () plane () () () () () likely () happen () () () mother () (),"['snake', 'something', 'want', 'come', 'plane', 'likely', 'happen', 'mother']",8
+Where is known for powerful storms from the ocean?,() () known () powerful storms () () ocean (),"['known', 'powerful', 'storms', 'ocean']",4
+Thousands of companies and a rosebush call what place home?,Thousands () companies () () rosebush call () place () (),"['Thousands', 'companies', 'rosebush', 'call', 'place']",5
+Where could you see an advertisement while reading news?,() () () see () advertisement () reading news (),"['see', 'advertisement', 'reading', 'news']",4
+Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?,Most people () () () say () () mean () () () twisty () () () () want () avoid conflict () () have () use () brain () () want () understand () () () most people due () (),"['Most', 'people', 'say', 'mean', 'want', 'avoid', 'conflict', 'have', 'use', 'brain', 'want', 'understand', 'most', 'people', 'due']",15
+"The children were going to play, the parents encouraged it hoping it resulted in what?",() children () going () play () () parents encouraged () hoping () resulted () () (),"['children', 'going', 'play', 'parents', 'encouraged', 'hoping', 'resulted']",7
+If you entire body is experiencing fatigue what would you do at the end of the day?,() () entire body () experiencing fatigue () () () do () () end () () day (),"['entire', 'body', 'experiencing', 'fatigue', 'do', 'end', 'day']",7
+"if you cogitate on something for a long time, you can get this feeling?",() () cogitate () something () () long time () () () get () feeling (),"['cogitate', 'something', 'long', 'time', 'get', 'feeling']",6
+"After answering questions from the press for hours, what did the police chief feel?",() answering questions () () press () hours () () () () police chief feel (),"['answering', 'questions', 'press', 'hours', 'police', 'chief', 'feel']",7
+"A lawyer is taking care of proposals, what are they trying to do?",() lawyer () taking care () proposals () () () () trying () do (),"['lawyer', 'taking', 'care', 'proposals', 'trying', 'do']",6
+"When you want to go to bed with a pretty girl and want to get warm, what do you need to do?",() () want () go () bed () () pretty () () want () get warm () () () () need () do (),"['want', 'go', 'bed', 'pretty', 'want', 'get', 'warm', 'need', 'do']",9
+"It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do?",() () () teachers job () help students commit () () new skills () () () () teachers main job () () classroom () help students do (),"['teachers', 'job', 'help', 'students', 'commit', 'new', 'skills', 'teachers', 'main', 'job', 'classroom', 'help', 'students', 'do']",14
+Where is aberdeen in the US located?,() () aberdeen () () US located (),"['aberdeen', 'US', 'located']",3
+Where do students stick gum in school?,() () students stick gum () school (),"['students', 'stick', 'gum', 'school']",4
+What is a method expressing yourself while making an object of lasting beauty?,() () () method expressing () () making () object () lasting beauty (),"['method', 'expressing', 'making', 'object', 'lasting', 'beauty']",6
+James was dedicated to contemplating things.  What did he seek?,James () dedicated () contemplating things () () () () seek (),"['James', 'dedicated', 'contemplating', 'things', 'seek']",5
+Where could I buy some chocolate?,() () () buy () chocolate (),"['buy', 'chocolate']",2
+"The police saw the moving car, what did they know the suspect was doing?",() police saw () moving car () () () () know () suspect () doing (),"['police', 'saw', 'moving', 'car', 'know', 'suspect', 'doing']",7
+Where are you normally when you take a bath?,() () () () () () take () bath (),"['take', 'bath']",2
+where can someone get a new chess set?,() () someone get () new chess set (),"['someone', 'get', 'new', 'chess', 'set']",5
+"When he was a small child he called the giraffe mascot a cow, it was a fond memory of the now defunct what?",() () () () small child () called () giraffe mascot () cow () () () () fond memory () () () defunct () (),"['small', 'child', 'called', 'giraffe', 'mascot', 'cow', 'fond', 'memory', 'defunct']",9
+Where do lizards like to sun themselves?,() () lizards like () sun () (),"['lizards', 'like', 'sun']",3
+Which state are you in if you're at a tennis court in a mitten-shaped state?,() state () () () () () () () () tennis court () () mitten () shaped state (),"['state', 'tennis', 'court', 'mitten', 'shaped', 'state']",6
+Where are you if your reading magazines while waiting for a vehicle on rails?,() () () () () reading magazines () waiting () () vehicle () rails (),"['reading', 'magazines', 'waiting', 'vehicle', 'rails']",5
+Where might a bureau be in charge?,() () () bureau () () charge (),"['bureau', 'charge']",2
+What kind of leave did the manager assign all nonessential personnel?,() kind () leave () () manager assign () nonessential personnel (),"['kind', 'leave', 'manager', 'assign', 'nonessential', 'personnel']",6
+When you meet interesting people your contacts list is likely to do what?,() () meet interesting people () contacts list () likely () do () (),"['meet', 'interesting', 'people', 'contacts', 'list', 'likely', 'do']",7
+What place could have one back garden?,() place () have () back garden (),"['place', 'have', 'back', 'garden']",4
+Where does a cast act?,() () () cast act (),"['cast', 'act']",2
+"Bill wants to make a fortune while sailing in the Caribbean, what should he look for?",Bill wants () make () fortune () sailing () () Caribbean () () () () look () (),"['Bill', 'wants', 'make', 'fortune', 'sailing', 'Caribbean', 'look']",7
+If you have plenty to eat when you have lunch you'll do what?,() () have plenty () eat () () have lunch () () do () (),"['have', 'plenty', 'eat', 'have', 'lunch', 'do']",6
+James was an American horse. He thought his home was too hot.  Where might he have lived?,James () () American horse () () thought () home () () hot () () () () () lived (),"['James', 'American', 'horse', 'thought', 'home', 'hot', 'lived']",7
+"The person was glad that his father had helped him.   If his father wasn't there, he'd have been what?",() person () glad () () father () helped () () () () father () () () () () () () () () (),"['person', 'glad', 'father', 'helped', 'father']",5
+What does the D in DRC stand for?,() () () D () DRC stand () (),"['D', 'DRC', 'stand']",3
+After a long day of teaching and an afternoon of grading homework the teacher was hungry so she began to what?,() () long day () teaching () () afternoon () grading homework () teacher () hungry () () began () () (),"['long', 'day', 'teaching', 'afternoon', 'grading', 'homework', 'teacher', 'hungry', 'began']",9
+"James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",James spent () () () () cottage trying () capture () beauty () () landscape () () () () () good () () () () () () good () () () () () () () good () (),"['James', 'spent', 'days', 'cottage', 'trying', 'capture', 'beauty', 'landscape', 'good', 'good']",10
+Where is a good place for a safabed to be so it can also be used for seating?,() () () good place () () safabed () () () () () () () used () seating (),"['good', 'place', 'safabed', 'used', 'seating']",5
+Where are things sometimes organized by a card catalog?,() () things () organized () () card catalog (),"['things', 'organized', 'card', 'catalog']",4
+Where are you when an employee brings you cooked potatoes?,() () () () () employee brings () cooked potatoes (),"['employee', 'brings', 'cooked', 'potatoes']",4
+"Jeremy is mastering a music scale, where should he find books on the matter?",Jeremy () mastering () music scale () () () () find books () () matter (),"['Jeremy', 'mastering', 'music', 'scale', 'find', 'books', 'matter']",7
+What would a person do to help someone that is not able to speak coherently?,() () () person do () help someone () () () able () speak () (),"['person', 'do', 'help', 'someone', 'able', 'speak']",6
+What would you put a spoon into after you finish eating?,() () () put () spoon () () () finish eating (),"['put', 'spoon', 'finish', 'eating']",4
+Where does something get weighed on a scale in order to determine a price?,() () something () weighed () () scale () order () determine () price (),"['something', 'weighed', 'scale', 'order', 'determine', 'price']",6
+If the though of performing makes you anxious what do you suffer from?,() () () () performing makes () anxious () () () suffer () (),"['performing', 'makes', 'anxious', 'suffer']",4
+What is a reason to pay your television bill?,() () () reason () pay () television bill (),"['reason', 'pay', 'television', 'bill']",4
+"If a couple is having financial issues, buying products can lead to what?",() () couple () having financial issues () buying products () lead () () (),"['couple', 'having', 'financial', 'issues', 'buying', 'products', 'lead']",7
+"After the guilty verdict in the killing the judge gave a speech, he told the murderer he was pure what?",() () guilty verdict () () killing () judge gave () speech () () told () murderer () () pure () (),"['guilty', 'verdict', 'killing', 'judge', 'gave', 'speech', 'told', 'murderer', 'pure']",9
+"Matt had issues controlling his anger, what did he do when someone set him off?",Matt had issues controlling () anger () () () () do () someone set () () (),"['Matt', 'had', 'issues', 'controlling', 'anger', 'do', 'someone', 'set']",8
+What can help you with an illness?,() () help () () () illness (),"['help', 'illness']",2
+Where will a bullet projectile be found during a war?,() () () bullet projectile () found () () war (),"['bullet', 'projectile', 'found', 'war']",4
+"She was playing violin with the hope of recording it someday, what did she want to do with her talent?",() () playing violin () () hope () recording () () () () () () want () do () () talent (),"['playing', 'violin', 'hope', 'recording', 'want', 'do', 'talent']",7
+What might be the result of a season of successful skiing?,() () () () result () () season () successful skiing (),"['result', 'season', 'successful', 'skiing']",4
+"Working in the vegetable garden everyday is good for you, you get to spend time where?",Working () () vegetable garden everyday () good () () () () get () spend time () (),"['Working', 'vegetable', 'garden', 'everyday', 'good', 'get', 'spend', 'time']",8
+What type of water transportation is human powered?,() type () water transportation () human powered (),"['type', 'water', 'transportation', 'human', 'powered']",5
+"If you saw a fish break the surface of the water and flap its fins in the air, you might think it is doing what?",() () saw () fish break () surface () () water () flap () fins () () air () () () think () () () () (),"['saw', 'fish', 'break', 'surface', 'water', 'flap', 'fins', 'air', 'think']",9
+Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along?,() () () find () computer user () () visiting () foreign city () () () bring () own computer () (),"['find', 'computer', 'user', 'visiting', 'foreign', 'city', 'bring', 'own', 'computer']",9
+When you're getting drunk and stumbling what might you be feeling?,() () () getting drunk () stumbling () () () () feeling (),"['getting', 'drunk', 'stumbling', 'feeling']",4
+"The man was sick of secular consumerism, what life did he seek instead?",() man () sick () secular consumerism () () life () () seek () (),"['man', 'sick', 'secular', 'consumerism', 'life', 'seek']",6
+Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?,Joe learned () relaxing exercises () () therapist () () () centered () () sort () action (),"['Joe', 'learned', 'relaxing', 'exercises', 'therapist', 'centered', 'sort', 'action']",8
+James turned on his computer and the monitor lit on the room.  What might his body do as he stands there?,James turned () () computer () () monitor lit () () room () () () () body do () () stands () (),"['James', 'turned', 'computer', 'monitor', 'lit', 'room', 'body', 'do', 'stands']",9
+If an insurance adjuster finds your claim incorrect they will do what?,() () insurance adjuster finds () claim incorrect () () do () (),"['insurance', 'adjuster', 'finds', 'claim', 'incorrect', 'do']",6
+Bill loved riding his bike and did it all the time.  He had trouble going up hills and sometimes pushed himself to the point of what?,Bill () riding () bike () did () () () time () () had trouble going () hills () () pushed () () () point () () (),"['Bill', 'riding', 'bike', 'did', 'time', 'had', 'trouble', 'going', 'hills', 'pushed', 'point']",11
+"After I urinate and flush the toilet and wash my hands, what should I do next?",() () urinate () flush () toilet () wash () hands () () () () do () (),"['urinate', 'flush', 'toilet', 'wash', 'hands', 'do']",6
