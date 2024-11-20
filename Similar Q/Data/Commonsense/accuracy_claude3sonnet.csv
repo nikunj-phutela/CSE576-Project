@@ -1,0 +1,193 @@
+original_question,masked_question,generated_question,matched,similarity_score
+"Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?",Miranda () () sure () () () () () () () () knew () () () () stop moving () smelly feet () () () () problem () () () () told () do () (),Miranda was not sure how to get her dog to stop moving its smelly feet around the room which was a problem until her friend told her what to do about it.,False,60
+"The police busted down his door, he realized only then he was just the pawn in his partner's grander what?",() police busted () () door () () realized () () () () () () pawn () () partner () grander () (),"Here is the completed question with the masked words replaced:
+
+The police busted down the front door when they realized the thief had stolen a valuable antique vase from the local pawn shop with his partner for a grander heist plan.",False,25
+What kind of wine list can I expect to see in Paris?,() kind () wine list () () expect () see () Paris (),What kind of wine list can you expect to see in Paris restaurants?,True,86
+What performance is expected of a student in school sessions?,() performance () expected () () student () school sessions (),"Here is the completed question with the masked sections replaced:
+
+High academic performance is expected from every student during school sessions this year.",False,52
+"The man was crass and rude, all the what in the office filed a complaint together?",() man () crass () rude () () () () () () office filed () complaint () (),The rude man's crass and rude behavior in the office filed a complaint against him.,False,75
+If a human is sleepy what can they do to feel more alert?,() () human () sleepy () () () do () feel () alert (),How do humans feel when sleepy and what can they do to feel more alert?,True,81
+"When a person is convicted of committing murder, what happend to them?",() () person () convicted () committing murder () () happend () () (),A guilty person was convicted for committing murder after what had happened in the courtroom trial?,False,71
+What is the hope of going fishing?,() () () hope () going fishing (),What is your hope for going fishing this weekend?,False,72
+What does reading letters produce when one is unaware of a condition?,() () reading letters produce () () () unaware () () condition (),"Here is the completed question with the masked words replaced:
+
+Poor eyesight when reading letters produce blurred unfocused vision unaware of the condition myopia.",False,49
+Everyone is ordinary but we are often told we are what?,Everyone () ordinary () () () () told () () () (),Everyone has an ordinary life when honestly expressed.,False,48
+"If there are people watching a priest, what is he doing?",() () are people watching () priest () () () () doing (),"Here is the completed question with the masked words replaced:
+
+Congregants in a church are people watching a priest celebrate a mass or service doing rituals.",False,45
+What old models are likely to be made of wood?,() old models () likely () () made () wood (),How old models were likely to be made of wood?,True,89
+"If an apple tree were in the North, where would it be?",() () apple tree () () () North () () () () () (),"Here is the completed question with the masked words replaced:
+
+A tall apple tree grows in the sunny North garden near the old fence.",False,40
+"The bald eagle has been a protected species, this is in part due to a dwindling what?",() bald eagle () () () protected species () () () () part () () () dwindling () (),"The bald eagle is a federally protected species in the United States. As part of conservation efforts to prevent its population from dwindling further, what measures have been taken?",False,55
+What could you add a line to?,() () () add () line () (),"Here is the completed question with the masked words replaced:
+
+How do you add a new line in a document?",False,38
+Going in an air conditioned room to cool off is a good way to get what from hot weather?,Going () () air conditioned room () cool () () () good way () () () () hot weather (),"Here is the completed question with the masked words replaced:
+
+Going from an air conditioned room to cool outside can be a good way to escape the hot weather conditions.",False,55
+Where might a snake drop from?,() () () snake drop () (),What does a venomous snake drop on its prey?,False,51
+"Sam treasured his freedom.  When he became a POW, he tried to escape from what?",Sam treasured () freedom () () () became () POW () () tried () escape () () (),Sam treasured (his) freedom (until he) became (a) POW (and) tried (to) escape (from) captivity.,False,78
+"Though nearby, an apple from an apple tree where would be an imported product to the USA?",() () () () apple () () apple tree () () () () imported product () () USA (),What is a red juicy fruit from an apple tree that is an imported product in the USA?,False,67
+"If a cottage is above the cloud line, where is it?",() () cottage () () () cloud line () () () () (),"Here is the completed question with the masked words replaced:
+
+Quaint little cottage nestled beneath the cloud line among the rolling hills",False,38
+What do most people hope to achieve when playing sports?,() () most people hope () achieve () playing sports (),What do most people hope to achieve by playing sports professionally?,True,83
+When you haven't seen someone since they were young and years have passed what has happened to them?,() () () () seen someone () () () young () years () passed () () happened () () (),Have you ever seen someone so young in years that have passed away? What happened to them?,False,76
+"The man wanted a new ottoman, so where did he look?",() man wanted () new ottoman () () () () () look (),"The completed question would be:
+
+The old man wanted a new ottoman to really tie the room together and look nice.",False,50
+Where are there more telephone booths?,() are () more telephone booths (),"Here is the completed question with the masked words replaced:
+
+There are no more telephone booths left.",False,44
+Where does a car belong?,() () () car belong (),What color does your car belong to?,False,71
+Where do most birds put eggs?,() () most birds put eggs (),What do most birds put eggs in?,True,87
+"Playing tennis requires at least one opponent, a ball, and a what?",Playing tennis requires () least () opponent () () ball () () () () (),"Playing tennis requires at least one opponent, a tennis ball, a racket, a net, and a court.",False,79
+What would you be doing if you are having lunch?,() () () () doing () () () having lunch (),"Here is the completed question with the masked words replaced:
+
+Are you still planning on going shopping before having lunch downtown?",False,41
+A hinged door is not always found in which room of the house?,() hinged door () () () found () () room () () house (),"Here is the completed question with the masked words replaced:
+
+A wooden hinged door can often be found in the bathroom of a house.",False,45
+Why could someone fall down after eating lunch?,() () someone fall () () eating lunch (),How can someone fall while eating lunch today?,False,69
+What is the opposite of ambiguous?,() () () opposite () ambiguous (),What is the antonym for clear and unambiguous meaning?,False,61
+What do people feel when something good happens?,() () people feel () something good happens (),How many people feel happy when something good happens to them?,False,76
+A modern farmer needs many skills common for who in order to manage finances and increase sales?,() modern farmer needs many skills common () () () order () manage finances () increase () (),A modern farmer needs many skills common to business in order to manage finances and increase productivity efficiently.,True,80
+Where in your office would you store a highlight that you don't use often?,() () () office () () store () highlight () () () () use () (),"Here is the completed question with the masked words replaced:
+
+What software do you office workers prefer to store and highlight text for easy use and reference?",False,46
+"She loved the music so much, how did she describe it?",() loved () music () () () () () () describe () (),"Here is the completed question with the masked words replaced:
+
+Mozart loved classical music but could you please describe his compositions?",False,36
+Where would you store potato chips in their home?,() () () store potato chips () () home (),"Here is the completed question with the masked words replaced:
+
+Grocery stores sell potato chips to take back home for snacking.",False,42
+Why do people want to swim in the heat?,() () people want () swim () () heat (),Many people want to swim during the extreme heat wave.,False,71
+"A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?",() snake () () something () want () come () () () plane () () () () () likely () happen () () () mother () (),What kind of snake would you like something to want to come on a plane and what would be most likely to happen if your mother was there?,False,66
+Where is known for powerful storms from the ocean?,() () known () powerful storms () () ocean (),"Here is the completed question with the masked words replaced:
+
+Hurricanes are known as powerful storms that form over the ocean waters.",False,46
+Thousands of companies and a rosebush call what place home?,Thousands () companies () () rosebush call () place () (),"Here is the completed question with the masked words replaced:
+
+Thousands of companies have to prune their rosebush call center staffing levels each year to trim costs.",False,44
+Where could you see an advertisement while reading news?,() () () see () advertisement () reading news (),You can often see an advertisement while reading news online.,False,74
+Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?,Most people () () () say () () mean () () () twisty () () () () want () avoid conflict () () have () use () brain () () want () understand () () () most people due () (),"Most people (tend to) (often) (typically) say (what they) (don't) mean (because of) (complex) twisty (reasoning they) (don't) want (to) avoid conflict (but instead) have (to) use (their) brain (more to) want (to) understand (others, while) most people due (to laziness)",False,19
+"The children were going to play, the parents encouraged it hoping it resulted in what?",() children () going () play () () parents encouraged () hoping () resulted () () (),"Here is the completed question with the masked words replaced:
+
+Young children are often going to the park to play outside, and their parents encouraged this activity, hoping the exercise resulted in better health and happiness.",False,4
+If you entire body is experiencing fatigue what would you do at the end of the day?,() () entire body () experiencing fatigue () () () do () () end () () day (),"Here is the completed question with the masked words replaced:
+
+What causes the entire body to experience fatigue and tiredness that does not go away by the end of the day?",False,52
+"if you cogitate on something for a long time, you can get this feeling?",() () cogitate () something () () long time () () () get () feeling (),"Here is the completed question with the masked words replaced:
+
+Do you often contemplate on something for a very long time before you can finally get a clear feeling about it?",False,51
+"After answering questions from the press for hours, what did the police chief feel?",() answering questions () () press () hours () () () () police chief feel (),"Here is the completed question with the masked words replaced:
+
+While answering questions from the press for hours, did the police chief feel frustrated?",False,64
+"A lawyer is taking care of proposals, what are they trying to do?",() lawyer () taking care () proposals () () () () trying () do (),"Here is the completed question with the masked words replaced:
+
+A lawyer is taking care of business proposals and is actively trying to do his job.",False,50
+"When you want to go to bed with a pretty girl and want to get warm, what do you need to do?",() () want () go () bed () () pretty () () want () get warm () () () () need () do (),"Here is the completed question with the masked words replaced:
+
+Do you want to go to bed because you feel pretty tired and want to get warm under the covers? You may need to do that.",False,56
+"It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do?",() () () teachers job () help students commit () () new skills () () () () teachers main job () () classroom () help students do (),"Here is the completed question with the masked words replaced:
+
+A good teacher's job is to help students acquire and develop new skills and knowledge. A teacher's main job in the classroom is to guide students through learning activities.",False,24
+Where is aberdeen in the US located?,() () aberdeen () () US located (),Scotland is Aberdeen not in the US located?,False,76
+Where do students stick gum in school?,() () students stick gum () school (),"Here is the completed question with the masked words replaced:
+
+Inconsiderate rude students stick gum under school desks",False,43
+What is a method expressing yourself while making an object of lasting beauty?,() () () method expressing () () making () object () lasting beauty (),The sculpting method expressing an artist's vision by making a three-dimensional object of lasting beauty.,False,63
+James was dedicated to contemplating things.  What did he seek?,James () dedicated () contemplating things () () () () seek (),James often dedicated time contemplating things philosophers tend to seek answers,False,68
+Where could I buy some chocolate?,() () () buy () chocolate (),How much does a bar of chocolate cost?,False,51
+"The police saw the moving car, what did they know the suspect was doing?",() police saw () moving car () () () () know () suspect () doing (),The police saw a suspicious moving car but did not know what the suspect was doing.,False,79
+Where are you normally when you take a bath?,() () () () () () take () bath (),"Here is the completed question with the masked words replaced:
+
+Children often like to take a bubble bath.",False,32
+where can someone get a new chess set?,() () someone get () new chess set (),How can someone get a new chess set today?,True,85
+"When he was a small child he called the giraffe mascot a cow, it was a fond memory of the now defunct what?",() () () () small child () called () giraffe mascot () cow () () () () fond memory () () () defunct () (),"Here is the completed question with the masked words replaced:
+
+What was the name of the small child who called the giraffe mascot a cow during that fond memory from the defunct circus?",False,59
+Where do lizards like to sun themselves?,() () lizards like () sun () (),How many green lizards like the warm sun basking outside?,False,52
+Which state are you in if you're at a tennis court in a mitten-shaped state?,() state () () () () () () () () tennis court () () mitten () shaped state (),"Here is the completed question with the masked words replaced:
+
+What U.S. state is famous for its large outdoor tennis court called the ""Mitten State"" due to its mitten-shaped geography?",False,40
+Where are you if your reading magazines while waiting for a vehicle on rails?,() () () () () reading magazines () waiting () () vehicle () rails (),How about spending your leisure time reading magazines while waiting for the train or bus to arrive on the vehicle platform beside the rails?,False,61
+Where might a bureau be in charge?,() () () bureau () () charge (),"Here is the completed question with the masked words filled in:
+
+The Internal Revenue Service bureau is in charge of collecting taxes.",False,33
+What kind of leave did the manager assign all nonessential personnel?,() kind () leave () () manager assign () nonessential personnel (),What kind of leave can a manager assign to nonessential personnel?,True,89
+When you meet interesting people your contacts list is likely to do what?,() () meet interesting people () contacts list () likely () do () (),"Here is the completed question with the masked words replaced:
+
+How can you meet interesting people for your contacts list and network more likely when you travel or go out?",False,53
+What place could have one back garden?,() place () have () back garden (),"Here is the completed question with the masked sections replaced:
+
+What place would you have for a back garden area?",False,45
+Where does a cast act?,() () () cast act (),What talented ensemble cast act together?,False,54
+"Bill wants to make a fortune while sailing in the Caribbean, what should he look for?",Bill wants () make () fortune () sailing () () Caribbean () () () () look () (),Bill wants to make a fortune by sailing around the Caribbean islands on a cruise ship and look for adventure.,False,70
+If you have plenty to eat when you have lunch you'll do what?,() () have plenty () eat () () have lunch () () do () (),Many families have plenty to eat but some still have lunch at soup kitchens and food banks to make ends meet.,False,51
+James was an American horse. He thought his home was too hot.  Where might he have lived?,James () () American horse () () thought () home () () hot () () () () () lived (),James was an American horse trainer who thought his home was too hot during the summer months and wished he lived elsewhere.,False,69
+"The person was glad that his father had helped him.   If his father wasn't there, he'd have been what?",() person () glad () () father () helped () () () () father () () () () () () () () () (),"Here is the question with the masked words completed:
+
+A young person was glad that his father had helped him with his homework. The father was a caring and supportive parent.",False,54
+What does the D in DRC stand for?,() () () D () DRC stand () (),The Democratic Republic of the Congo (DRC) stands for what?,False,54
+After a long day of teaching and an afternoon of grading homework the teacher was hungry so she began to what?,() () long day () teaching () () afternoon () grading homework () teacher () hungry () () began () () (),"After a long day of teaching classes in the afternoon and grading homework assignments, the teacher felt hungry and her stomach began to rumble.",False,74
+"James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",James spent () () () () cottage trying () capture () beauty () () landscape () () () () () good () () () () () () good () () () () () () () good () (),James spent several days at a remote cottage trying to capture the beauty of the landscape with his camera for a good photograph.,False,64
+Where is a good place for a safabed to be so it can also be used for seating?,() () () good place () () safabed () () () () () () () used () seating (),"Here is the completed question with the masked words replaced:
+
+Is a restaurant a good place to install safabed or cushioned seating areas that can be used for comfortable seating?",False,50
+Where are things sometimes organized by a card catalog?,() () things () organized () () card catalog (),"Here is the completed question with the masked words replaced:
+
+Do library things get organized by the card catalog system?",False,49
+Where are you when an employee brings you cooked potatoes?,() () () () () employee brings () cooked potatoes (),"Here is the completed question with the masked words replaced:
+
+A disgruntled former employee brings homemade cooked potatoes laced",False,47
+"Jeremy is mastering a music scale, where should he find books on the matter?",Jeremy () mastering () music scale () () () () find books () () matter (),"Here is the completed question with the masked words replaced:
+
+Jeremy is mastering the piano music scale and wants to find books on that subject matter.",False,54
+What would a person do to help someone that is not able to speak coherently?,() () () person do () help someone () () () able () speak () (),What should a deaf person do to help someone who is not able to speak their language?,True,82
+What would you put a spoon into after you finish eating?,() () () put () spoon () () () finish eating (),"Here is the completed question with the masked words replaced:
+
+Did you remember to put the dirty spoon in the sink after you finish eating lunch?",False,50
+Where does something get weighed on a scale in order to determine a price?,() () something () weighed () () scale () order () determine () price (),"Here is the completed question with the masked words replaced:
+
+How much does something you weighed on a scale in order to determine its price cost?",False,61
+If the though of performing makes you anxious what do you suffer from?,() () () () performing makes () anxious () () () suffer () (),How does public speaking make some people anxious and cause them to suffer from stage fright?,False,50
+What is a reason to pay your television bill?,() () () reason () pay () television bill (),"Here is the question with the masked words completed:
+
+What is the main reason to pay your television bill on time?",False,56
+"If a couple is having financial issues, buying products can lead to what?",() () couple () having financial issues () buying products () lead () () (),A young married couple are having financial issues after buying products on credit which lead to mounting debt.,False,67
+"After the guilty verdict in the killing the judge gave a speech, he told the murderer he was pure what?",() () guilty verdict () () killing () judge gave () speech () () told () murderer () () pure () (),"The completed question is:
+
+After the guilty verdict for the killing, the judge gave a stern speech and sternly told the murderer that his act was evil and impure in nature.",False,69
+"Matt had issues controlling his anger, what did he do when someone set him off?",Matt had issues controlling () anger () () () () do () someone set () () (),Matt had issues controlling (his) anger (and) (would) (often) (lash out) (if) someone set (him) (off).,False,69
+What can help you with an illness?,() () help () () () illness (),How can therapy and medication help treat mental health illness properly?,False,41
+Where will a bullet projectile be found during a war?,() () () bullet projectile () found () () war (),A high-velocity steel bullet projectile was found at an old war site.,False,59
+"She was playing violin with the hope of recording it someday, what did she want to do with her talent?",() () playing violin () () hope () recording () () () () () () want () do () () talent (),"Here is the completed question with the masked words replaced:
+
+Are you considering playing violin as a career? If so, what inspired your hope of recording music professionally? Do you have any role models that influenced your decision and fueled your desire to pursue this talent?",False,18
+What might be the result of a season of successful skiing?,() () () () result () () season () successful skiing (),What is the expected snowfall this winter that could result in a very successful skiing season?,False,54
+"Working in the vegetable garden everyday is good for you, you get to spend time where?",Working () () vegetable garden everyday () good () () () () get () spend time () (),"Here is the completed question with the masked words replaced:
+
+Working in a vegetable garden everyday is good exercise and a way to get fresh air and spend time outdoors.",False,51
+What type of water transportation is human powered?,() type () water transportation () human powered (),What type of water transportation is human powered?,True,100
+"If you saw a fish break the surface of the water and flap its fins in the air, you might think it is doing what?",() () saw () fish break () surface () () water () flap () fins () () air () () () think () () () () (),The dolphin gracefully saw the fish break the surface of the water and flap its fins in the air. What do you think it was trying to catch?,False,76
+Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along?,() () () find () computer user () () visiting () foreign city () () () bring () own computer () (),"Here is the completed question with the masked words replaced:
+
+How would you advise a computer user who is visiting a foreign city to securely bring their own computer and devices?",False,62
+When you're getting drunk and stumbling what might you be feeling?,() () () getting drunk () stumbling () () () () feeling (),"Here is the completed question with the masked words replaced:
+
+Are you often getting drunk and stumbling home late at night feeling nauseous?",False,52
+"The man was sick of secular consumerism, what life did he seek instead?",() man () sick () secular consumerism () () life () () seek () (),"Here is the completed question with the masked words replaced:
+
+A young man became sick of secular consumerism and decided to leave that life behind to seek spiritual enlightenment.",False,47
+Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?,Joe learned () relaxing exercises () () therapist () () () centered () () sort () action (),Joe learned deep breathing relaxing exercises from a therapist to stay calm and focused on the present centered mindfulness sort of action.,False,66
+James turned on his computer and the monitor lit on the room.  What might his body do as he stands there?,James turned () () computer () () monitor lit () () room () () () () body do () () stands () (),"Here is the question with the masked words completed:
+
+James turned on his computer and the monitor lit up the room with its bright glow on his body as he stands motionless.",False,65
+If an insurance adjuster finds your claim incorrect they will do what?,() () insurance adjuster finds () claim incorrect () () do () (),An experienced insurance adjuster finds the claim incorrect and will not approve it.,False,71
+Bill loved riding his bike and did it all the time.  He had trouble going up hills and sometimes pushed himself to the point of what?,Bill () riding () bike () did () () () time () () had trouble going () hills () () pushed () () () point () () (),Bill was riding his bike when he did this for the first time and had trouble going up hills so he pushed it at one point.,False,71
+"After I urinate and flush the toilet and wash my hands, what should I do next?",() () urinate () flush () toilet () wash () hands () () () () do () (),"You urinate, flush the toilet, wash your hands. What else do you do?",False,67
