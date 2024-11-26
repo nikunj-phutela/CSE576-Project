@@ -70,8 +70,8 @@ def seenQ_gpt_gsm8k(data):
             temperature = 0.1,
             max_tokens = 128
         )
-    response = completion["choices"][0]["message"]["content"].replace('\n', ' ')
-    result[row['question']] = response
+        response = completion["choices"][0]["message"]["content"].replace('\n', ' ')
+        result[row['question']] = response
     return result
   
 def seenQ_llama(data):
