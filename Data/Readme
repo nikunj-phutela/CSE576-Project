@@ -1,0 +1,9 @@
+Changes in column names:
+
+Commonsense:
+answerKey -> answer
+
+Masked Truthful QA: 
+original_question -> question
+question -> masked_question
+
