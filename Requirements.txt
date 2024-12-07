@@ -1,0 +1,10 @@
+stanza==1.5.0
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.21.1
+pandas>=1.3.0
+tqdm>=4.64.0
+openai>=0.27.0
+anthropic>=0.3.0
+torch>=2.0.0
+transformers>=4.28.0
+scipy>=1.7.0

@@ -1,0 +1,1192 @@
+Unnamed: 0.1,Unnamed: 0,id,question,question_concept,choices,answerKey,answer_options_formatted,answer,choices_copy,masked_options,question_answer,masked_question,masked_word_answer,extracted_terms,rel_info_generated,leakage_in_bucket,can_be_data_leakage,seen_terms
+0,8773,37eb54ff6dcbbdb70d12b7e5a1dab9e3,"Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?",feet,"['shoes', 'stay still', 'hands', 'walk', 'stink']",B,"A: shoes
+B: stay still
+C: hands
+D: walk
+E: stink",staystill,"['shoes', 'stay still', '', 'walk', 'stink']",['hands'],"Question: Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?
+Answer:
+A: shoes
+B: stay still
+C: 
+D: walk
+E: stink","Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a (), because she was told to do what?",problem,"['smelly feet', 'sure', 'just', 'knew', 'told', 'do']","The following paragraph incorporates the given key terms:
+       ""I knew that my friend was going to be late, so I just checked my watch for what felt like the hundredth time. I told him that I would wait for him, but I was starting to get a little worried. As I stood there, I couldn't help but notice the smelly feet that my friend was wearing. I was sure that he had just gotten his feet washed, but the smell was still overpowering. I tried",,False,"1.  ritual 2.  ceremony 3.  tradition 4.  custom 5.  ritual 6.  ceremony 7.  tradition 8.  custom 9.  tradition 10.  custom
+
+## Step 1: Identify the context of the sentence
+The sentence describes a situation where Miranda is unsure about what she is doing, but she knows she can't stop moving her feet. This suggests that the activity she is engaged in is likely"
+1,6125,5abe81200fb6d4d0ff7f1d9862116292,"The police busted down his door, he realized only then he was just the pawn in his partner's grander what?",pawn,"['scheme', 'chess game', 'chess set', 'business idea', 'playing chess']",A,"A: scheme
+B: chess game
+C: chess set
+D: business idea
+E: playing chess",scheme,"['scheme', 'chess game', 'chess set', 'business idea', '']",['playing chess'],"Question: The police busted down his door, he realized only then he was just the pawn in his partner's grander what?
+Answer:
+A: scheme
+B: chess game
+C: chess set
+D: business idea
+E: ","The police busted down his (), he realized only then he was just the pawn in his partner's grander what?",door,"['busted', 'realized', 'then', 'just', 'grander']","The city's reputation for being a hub for organized crime was busted when a large-scale investigation revealed a complex web of corruption and deceit. The authorities realized that the city's infrastructure was being manipulated by a powerful and secretive organization, which had infiltrated every level of government and law enforcement. The investigation was a long time coming, but it finally came to fruition when a key witness came forward and provided crucial evidence. Then, the authorities were able to piece together the evidence and build a case against the organization",Relevent Info,True,1.  (a) game 2.  (b) scheme 3.  (c) plan 4.  (d) plot 5.  (e) scam 6.  (f) trap 7.  (g) deal 8.  (h) scam 9.  (i) trap 10.  (j) plot 11.  (k) game 12.  (l) scheme 13.
+2,8387,391027d47b89cc2fd2017a865f99ccec,What kind of wine list can I expect to see in Paris?,wine list,"['restaurant', 'french', 'boston', 'canadian', 'resturant']",B,"A: restaurant
+B: french
+C: boston
+D: canadian
+E: resturant",french,"['restaurant', 'french', 'boston', 'canadian', '']",['resturant'],"Question: What kind of wine list can I expect to see in Paris?
+Answer:
+A: restaurant
+B: french
+C: boston
+D: canadian
+E: ",What () of wine list can I expect to see in Paris?,kind,"['wine list', 'kind', 'expect']","Wine List: A wine list is a document that outlines the selection of wines available for purchase at a restaurant, bar, or wine shop. It typically includes the name of the wine, the type of wine (e.g. red, white, sparkling), the vintage year, the region of origin, and the price. Wine lists can be categorized into different types, such as a wine list for a fine dining restaurant, a wine list for a casual bar, or a wine list for a wine shop",,False,Bordeaux.
+3,7151,246fa25105a6893de75b0016a830a183,What performance is expected of a student in school sessions?,student,"['michigan', 'pass course', 'better grade', 'ask questions', 'study history']",B,"A: michigan
+B: pass course
+C: better grade
+D: ask questions
+E: study history",passcourse,"['michigan', 'pass course', 'better grade', 'ask questions', '']",['study history'],"Question: What performance is expected of a student in school sessions?
+Answer:
+A: michigan
+B: pass course
+C: better grade
+D: ask questions
+E: ",What () is expected of a student in school sessions?,performance,"['school sessions', 'performance', 'sessions']","The school year is divided into two main sessions: the autumn session and the spring session. The autumn session typically begins in late August or early September and lasts until mid-December. During this time, students typically focus on completing their summer assignments and getting back into the routine of attending classes regularly. The spring session, on the other hand, usually starts in late January or early February and ends in mid-June. This session is often characterized by a more relaxed pace, allowing students to catch up on",,False,Answer:
+4,9605,720f00ce6f63996210e40d6ed37a1653,"The man was crass and rude, all the what in the office filed a complaint together?",man,"['lady', 'wifes husband', 'women', 'her', 'female person']",C,"A: lady
+B: wifes husband
+C: women
+D: her
+E: female person",women,"['lady', 'wifes husband', 'women', 'her', '']",['female person'],"Question: The man was crass and rude, all the what in the office filed a complaint together?
+Answer:
+A: lady
+B: wifes husband
+C: women
+D: her
+E: ","The () was crass and rude, all the what in the office filed a complaint together?",man,"['office', 'filed', 'complaint']","The office of the county clerk is a vital institution that plays a crucial role in the administration of justice. One of the primary functions of the office is to maintain and file official records, including court documents, property deeds, and other vital documents. In the event of a dispute or a complaint, the office of the county clerk is often the first point of contact for individuals seeking to resolve their issues. The clerk's office is responsible for filing complaints and other documents related to the dispute, which are then",,False,"1.  complaint 2.  complaint 3.  complaint 4.  complaints 5.  complaints
+The best answer is (4): complaints."
+5,324,2712fa7029d5a0d3325792eb0ab4bda1,If a human is sleepy what can they do to feel more alert?,human,"['dream dreams', 'think critically', 'cross road', 'drink coffee', 'drive a car']",D,"A: dream dreams
+B: think critically
+C: cross road
+D: drink coffee
+E: drive a car",drinkcoffee,"['dream dreams', '', 'cross road', 'drink coffee', 'drive a car']",['think critically'],"Question: If a human is sleepy what can they do to feel more alert?
+Answer:
+A: dream dreams
+B: 
+C: cross road
+D: drink coffee
+E: drive a car",If a human is sleepy what can they do to feel more ()?,alert,"['human', 'do', 'alert']","The human brain is a complex and intricate organ that is capable of incredible feats of cognition and creativity. One of the most remarkable aspects of the human brain is its ability to do complex tasks, such as solving problems, learning new skills, and adapting to new situations. However, this ability is not without its limitations. The human brain is also prone to making mistakes, and it can be easily distracted by external stimuli. Therefore, it is essential to be alert and aware of one's surroundings in order to",,False,"Refresh. Reply
+## Step 1: Identify the word to be replaced
+The word to be replaced is in parentheses: ().
+
+## Step 2: Determine the correct word to replace the blank
+The correct word to replace the blank is ""alert"".
+
+The final answer is: Alert."
+6,7205,b6a2c0d1f8e0d032f65580d1a0960078,"When a person is convicted of committing murder, what happend to them?",committing murder,"['go to jail', 'imprisonment', 'sadness', 'prosecution', 'incarceration']",E,"A: go to jail
+B: imprisonment
+C: sadness
+D: prosecution
+E: incarceration",incarceration,"['go to jail', 'imprisonment', 'sadness', '', 'incarceration']",['prosecution'],"Question: When a person is convicted of committing murder, what happend to them?
+Answer:
+A: go to jail
+B: imprisonment
+C: sadness
+D: 
+E: incarceration","When a () is convicted of committing murder, what happend to them?",person,"['person', 'murder', 'happend']","The murder of a person is a serious crime that can have severe consequences for the perpetrator. In many jurisdictions, murder is defined as the unlawful killing of another person with malice aforethought. This means that the perpetrator must have intended to kill the victim, or at least been reckless and negligent in their actions. The consequences of murder can be severe, including lengthy prison sentences and even the death penalty in some cases. In addition to the legal consequences, murder can also have a profound impact on the victim",Relevent Info,True,Punishment.
+7,5142,47f102575469628bf3ab688dfaf3938a,What is the hope of going fishing?,fishing,"['getting food', 'wet clothes', 'getting drunk', 'catching fish', 'wetness']",D,"A: getting food
+B: wet clothes
+C: getting drunk
+D: catching fish
+E: wetness",catchingfish,"['', 'wet clothes', 'getting drunk', 'catching fish', 'wetness']",['getting food'],"Question: What is the hope of going fishing?
+Answer:
+A: 
+B: wet clothes
+C: getting drunk
+D: catching fish
+E: wetness",What is the hope of going ()?,fishing,"['hope', 'going']","The concept of hope is deeply intertwined with the idea of going. Hope is the emotional state of expecting something positive to happen, often in the face of uncertainty or adversity. When we have hope, we feel a sense of optimism and confidence that a desired outcome will occur. This can manifest in various aspects of life, such as personal relationships, career goals, or even physical health. The act of going, on the other hand, implies movement, progression, and change. It can represent a transition from",,False,Hope
+8,6009,3498dae098e748ef3c2c3894896d16ac,What does reading letters produce when one is unaware of a condition?,reading letter,"['laughter', 'strain', 'realization', 'enlightenment', 'happiness']",C,"A: laughter
+B: strain
+C: realization
+D: enlightenment
+E: happiness",realization,"['laughter', '', 'realization', 'enlightenment', 'happiness']",['strain'],"Question: What does reading letters produce when one is unaware of a condition?
+Answer:
+A: laughter
+B: 
+C: realization
+D: enlightenment
+E: happiness",What does reading letters produce when one is unaware of a ()?,condition,"['reading letters', 'reading', 'unaware']","The concept of reading letters is a fundamental skill that children develop as they progress through their educational journey. Reading letters involves recognizing and understanding the relationship between letters and sounds, which is a crucial step in learning to read. When children are first introduced to reading letters, they may be unaware of the sounds that letters make, but as they practice and learn, they begin to develop an understanding of the phonetic relationship between letters and sounds.
+
+       Reading letters is not just about recognizing individual letters, but also about",,False,(a)
+9,1887,b9c088cfe0e2c07886896d922ce7c698,Everyone is ordinary but we are often told we are what?,ordinary,"['unbelievable', 'strange', 'special', 'ugly', 'exceptional']",C,"A: unbelievable
+B: strange
+C: special
+D: ugly
+E: exceptional",special,"['unbelievable', '', 'special', 'ugly', 'exceptional']",['strange'],"Question: Everyone is ordinary but we are often told we are what?
+Answer:
+A: unbelievable
+B: 
+C: special
+D: ugly
+E: exceptional",Everyone is () but we are often told we are what?,ordinary,"['ordinary', 'often']","The term ""ordinary"" refers to something that is normal, usual, or typical. It can also imply a lack of excitement or interest. In everyday language, people often use the term to describe something that is unremarkable or unexceptional. For example, ""The ordinary view from my window is of a quiet street."" In this context, the word ""ordinary"" emphasizes the lack of excitement or drama in the view.
+
+      The term ""often"" is an adverb that indicates frequency or",,False,1. happy 2. sad 3. happy 4. sad 5. happy 6. sad 7. happy 8. sad 9. 10. happy 11. sad 12. happy 13. 14. sad 15. happy 16. sad 17. happy 18. sad 19. happy 20. sad 21. 22. happy 23. 24. sad 25. happy 26. sad
+10,1507,98f35feb6c39efba204fa9d9d1a73dc3,"If there are people watching a priest, what is he doing?",priest,"['on trial', 'drink coffee', 'believe in god', 'baptise', 'say mass']",E,"A: on trial
+B: drink coffee
+C: believe in god
+D: baptise
+E: say mass",saymass,"['on trial', 'drink coffee', 'believe in god', '', 'say mass']",['baptise'],"Question: If there are people watching a priest, what is he doing?
+Answer:
+A: on trial
+B: drink coffee
+C: believe in god
+D: 
+E: say mass","If there are () watching a priest, what is he doing?",people,"['are', 'priest']","The priest is a spiritual leader who serves as a mediator between the divine and human realms. In many cultures and religions, the priest is considered a sacred figure, responsible for guiding individuals in their spiritual journeys and providing spiritual guidance. The priest's role is multifaceted, encompassing various aspects such as spiritual counseling, sacraments, and rituals. In some cultures, the priest is also responsible for performing ceremonies and rites of passage, such as weddings and funerals. The priest's authority is often derived",,False,Laughed.
+11,6271,587bdd8fd449cc518452f6b8d52b16e1,What old models are likely to be made of wood?,wood,"['car', 'tree', 'hardware store', 'lumberyard', 'boat']",E,"A: car
+B: tree
+C: hardware store
+D: lumberyard
+E: boat",boat,"['car', '', 'hardware store', 'lumberyard', 'boat']",['tree'],"Question: What old models are likely to be made of wood?
+Answer:
+A: car
+B: 
+C: hardware store
+D: lumberyard
+E: boat",What old models are likely to be made of ()?,wood,"['models', 'made', 'wood']","The wooden model of the ancient city was made by a skilled craftsman who had spent years studying the architecture of the region. The model was a precise replica of the city's layout, including intricate details such as the placement of temples, markets, and residential areas. The craftsman had used a combination of traditional woodworking techniques and modern materials to create the model, which was both durable and visually stunning. The model was intended to be a teaching tool, helping students to understand the historical context of the city",,False,Plastic.
+12,4224,9a3a2184e24740ffb5067ac25ecd6963,"If an apple tree were in the North, where would it be?",apple tree,"['alaska', 'farm yard', 'park', 'flowers', 'new jersey']",E,"A: alaska
+B: farm yard
+C: park
+D: flowers
+E: new jersey",newjersey,"['alaska', '', 'park', 'flowers', 'new jersey']",['farm yard'],"Question: If an apple tree were in the North, where would it be?
+Answer:
+A: alaska
+B: 
+C: park
+D: flowers
+E: new jersey","If an apple () were in the North, where would it be?",tree,"['apple tree', 'tree']","The apple tree, a symbol of abundance and fertility, has been a staple in many cultures for centuries. Its branches, laden with juicy red apples, have been a source of nourishment and delight for generations. The tree's roots, however, are often overlooked, playing a crucial role in its overall health and well-being. A well-maintained tree is essential for a bountiful harvest, and its roots are the foundation upon which this bounty is built.
+
+      The tree's roots, comprising",,False,North.
+13,4332,3c67815352fec6a0fdf7656ccb5b5fd5,"The bald eagle has been a protected species, this is in part due to a dwindling what?",bald eagle,"['nest', 'everglades', 'high places', 'in washington', 'natural habitat']",E,"A: nest
+B: everglades
+C: high places
+D: in washington
+E: natural habitat",naturalhabitat,"['nest', 'everglades', 'high places', 'in washington', '']",['natural habitat'],"Question: The bald eagle has been a protected species, this is in part due to a dwindling what?
+Answer:
+A: nest
+B: everglades
+C: high places
+D: in washington
+E: ","The bald eagle has been a protected species, this is in () due to a dwindling what?",part,"['bald eagle', 'bald', 'eagle', 'part']","The bald eagle is a majestic bird of prey that is native to North America. It is one of the most recognizable and iconic birds in the world, known for its distinctive white head and tail feathers, with a dark brown body and wings. The bald eagle is a protected species under the Bald and Golden Eagle Protection Act (BGEPA) and the Migratory Bird Treaty Act (MBTA), which aims to conserve and protect its habitat and prevent overhunting.
+
+      The term ""bald",,False,Population.
+14,172,e99da2b1d9ec4be89c2b42407aa5a15f,What could you add a line to?,line,"['bus stop', 'graph', 'post office', 'grass', 'play']",B,"A: bus stop
+B: graph
+C: post office
+D: grass
+E: play",graph,"['bus stop', 'graph', '', 'grass', 'play']",['post office'],"Question: What could you add a line to?
+Answer:
+A: bus stop
+B: graph
+C: 
+D: grass
+E: play",What could you add a () to?,line,"['add', 'line']","The concept of adding a line to a document or a piece of writing is a common practice in various fields, including business, education, and personal communication. In the context of business, adding a line to a contract or a proposal can be a crucial step in finalizing a deal or agreement. This can involve adding a new clause, modifying an existing one, or clarifying a specific point. In education, adding a line to a student's report card or transcript can be a way to provide additional",,False,"Example: I love to eat () food. 
+Answer: Pizza 
+
+Please go ahead and give me a sentence with a blank space and I'll complete it with a one-word answer. 
+
+Here is the sentence: I love to spend my free time reading () books. 
+Answer: Classics"
+15,6039,557237ba0b61f9a69ec696bdbb00743d,Going in an air conditioned room to cool off is a good way to get what from hot weather?,cool off,"['rest', 'go swimming', 'relief', 'calm down', 'change']",C,"A: rest
+B: go swimming
+C: relief
+D: calm down
+E: change",relief,"['rest', 'go swimming', 'relief', 'calm down', '']",['change'],"Question: Going in an air conditioned room to cool off is a good way to get what from hot weather?
+Answer:
+A: rest
+B: go swimming
+C: relief
+D: calm down
+E: ",Going in an air conditioned room to cool off is a good () to get what from hot weather?,way,"['Going', 'air', 'conditioned', 'room', 'cool', 'good', 'weather']","The summer season is known for its hot and humid weather, making it challenging to stay cool and comfortable. However, with the use of air conditioning, people can create a cool and conditioned room that provides relief from the heat. This can be achieved by installing a window unit or a central air conditioning system in a room, which can effectively lower the temperature and maintain a comfortable level of coolness. Going to a well-ventilated room can also help to reduce the heat and make the space feel cooler",Relevent Info,True,Relief.
+16,7233,91ffbe8c9cbcaa04e4ed41ba2d8f998f,Where might a snake drop from?,snake,"['tree', 'pet shops', 'feild', 'tropical forest', 'cage']",A,"A: tree
+B: pet shops
+C: feild
+D: tropical forest
+E: cage",tree,"['tree', 'pet shops', 'feild', '', 'cage']",['tropical forest'],"Question: Where might a snake drop from?
+Answer:
+A: tree
+B: pet shops
+C: feild
+D: 
+E: cage",Where might a () drop from?,snake,"['Where', 'snake']","The Amazon rainforest is a vast and diverse ecosystem that covers over 5.5 million square kilometers in South America. Spanning across nine countries, including Brazil, Peru, and Colombia, this region is home to an incredible array of plant and animal species. One of the most iconic and feared creatures in the Amazon is the snake. With over 1,500 species, snakes are a ubiquitous presence in the rainforest, and many are venomous. The anaconda, boa constrictor,",,False,Cloud.
+17,5643,120a6af76efd75ec095c053287a6c937,"Sam treasured his freedom.  When he became a POW, he tried to escape from what?",freedom,"['communism', 'oppression', 'slavery', 'bad marriage', 'captivity']",E,"A: communism
+B: oppression
+C: slavery
+D: bad marriage
+E: captivity",captivity,"['communism', 'oppression', 'slavery', 'bad marriage', '']",['captivity'],"Question: Sam treasured his freedom.  When he became a POW, he tried to escape from what?
+Answer:
+A: communism
+B: oppression
+C: slavery
+D: bad marriage
+E: ","Sam treasured his freedom.  When he became a (), he tried to escape from what?",POW,"['Sam', 'treasured', 'freedom', 'escape']","In the context of a young adult novel, the protagonist, Sam, has always felt trapped in her mundane life. She yearns for something more, something that will give her a sense of freedom and allow her to break free from the monotony of her daily routine. For Sam, this sense of freedom is closely tied to her love of art and music. She dreams of escaping the confines of her small town and exploring the world beyond. Her treasured possession, a vintage guitar, serves as a",,False,1.  Servant 2.  Soldier 3.  Citizen 4.  Prisoner 5.  King 6.  Governor 7.  Officer 8.  Governor 9.  King 10.  Citizen 11.  Servant 12.  Soldier 13.  Governor 14.  Officer 15.  King 16.  Citizen 17.  Servant 18.  Soldier 19.  Governor
+18,236,c3b6280d05a9f9c5b031fcbeaa0ce695,"Though nearby, an apple from an apple tree where would be an imported product to the USA?",apple tree,"['ohio', 'washington state', 'alaska', 'canada', 'flowers']",D,"A: ohio
+B: washington state
+C: alaska
+D: canada
+E: flowers",canada,"['ohio', '', 'alaska', 'canada', 'flowers']",['washington state'],"Question: Though nearby, an apple from an apple tree where would be an imported product to the USA?
+Answer:
+A: ohio
+B: 
+C: alaska
+D: canada
+E: flowers","Though nearby, an () from an () tree where would be an imported product to the USA?",apple,"['imported product', 'nearby', 'apple', 'imported']","The recent surge in demand for imported products has led to a significant increase in the number of goods being transported from nearby countries to our local market. One of the most popular imported products is the apple, which is sourced from countries such as China and the United States. The high demand for apples has led to a significant increase in the price of this fruit, making it a luxury item for many consumers. However, the government has taken steps to regulate the importation of apples to ensure that they are of",,False,"Maple. 
+The best answer is Maple."
+19,3350,daf313b39a95084a099ea8706f803061,"If a cottage is above the cloud line, where is it?",cottage,"['village', 'rural area', 'mountains', 'fairy story', 'valley']",C,"A: village
+B: rural area
+C: mountains
+D: fairy story
+E: valley",mountains,"['village', '', 'mountains', 'fairy story', 'valley']",['rural area'],"Question: If a cottage is above the cloud line, where is it?
+Answer:
+A: village
+B: 
+C: mountains
+D: fairy story
+E: valley","If a cottage is above the () line, where is it?",cloud,"['line', 'where']","(1) The line of sight is the direction in which an object is seen or viewed. It is the direction from the observer's eye to the object being observed. The line of sight is an important concept in various fields, including astronomy, surveying, and navigation.
+
+       (2) Line of sight is also used in the context of communication, particularly in telecommunications and broadcasting. In this context, the line of sight refers to the direct path between the transmitter and receiver, where the signal travels",,False,"Above. Reply
+The best answer is Above."
+20,5254,bfaff48744a77de1fd5e91f809d86656,What do most people hope to achieve when playing sports?,playing sports,"['an mbe', 'running', 'winning', 'have fun', 'cheat']",C,"A: an mbe
+B: running
+C: winning
+D: have fun
+E: cheat",winning,"['an mbe', '', 'winning', 'have fun', 'cheat']",['running'],"Question: What do most people hope to achieve when playing sports?
+Answer:
+A: an mbe
+B: 
+C: winning
+D: have fun
+E: cheat",What do most people hope to achieve when playing ()?,sports,"['people', 'hope', 'achieve', 'playing']","The concept of hope is a vital component of human existence, serving as a driving force that enables people to overcome adversity and strive for a better future. Hope is not just a feeling, but a mindset that allows individuals to envision a desired outcome and work towards achieving it. When people are given the opportunity to play a role in shaping their own destiny, they are more likely to feel a sense of hope and motivation to make positive changes in their lives. Playing a proactive role in one's life can be",,False,Relaxation.
+21,6087,3835b21ecc2c5c9317ea73aa57a5bc1c,When you haven't seen someone since they were young and years have passed what has happened to them?,young,"['senior', 'grow', 'mature', 'old', 'aged']",E,"A: senior
+B: grow
+C: mature
+D: old
+E: aged",aged,"['senior', 'grow', '', 'old', 'aged']",['mature'],"Question: When you haven't seen someone since they were young and years have passed what has happened to them?
+Answer:
+A: senior
+B: grow
+C: 
+D: old
+E: aged",When you haven't seen someone since they were young and () have passed what has happened to them?,years,"['When', 'young', 'happened']","Context: The young woman, Sarah, had been working at the restaurant for only a few months when a young man, Alex, walked in. She had never seen him before, but they struck up a conversation and quickly became friends. As they talked, Sarah learned that Alex had recently moved to the city from a small town in the country. He had been feeling lonely and isolated, but the chance encounter with Sarah had lifted his spirits. When they decided to grab a coffee together, Sarah realized that",,False,(a)
+22,8071,cf34c4f1f58776ea0ab49b91a35ca02c,"The man wanted a new ottoman, so where did he look?",ottoman,"['basement', 'furniture store', 'decoration', 'parlor', 'couch outlet']",B,"A: basement
+B: furniture store
+C: decoration
+D: parlor
+E: couch outlet",furniturestore,"['basement', 'furniture store', 'decoration', '', 'couch outlet']",['parlor'],"Question: The man wanted a new ottoman, so where did he look?
+Answer:
+A: basement
+B: furniture store
+C: decoration
+D: 
+E: couch outlet","The man wanted a new (), so where did he look?",ottoman,"['new ottoman', 'man', 'wanted', 'so']","The new Ottoman Empire was a major world power in the 15th century, with a vast territory that included much of Southeast Europe, Western Asia, and North Africa. The empire was founded by Osman I, a Turkish man who wanted to create a powerful state that would protect his people from the Mongols and other external threats. As the empire grew, it became a center of trade, culture, and learning, attracting scholars and merchants from all over the world. The Ottomans were known for",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+23,181,442dd2d372228b9942f55d761ef961a3,Where are there more telephone booths?,telephone booth,"['gas stations', 'city', 'london', 'train station', 'airport']",B,"A: gas stations
+B: city
+C: london
+D: train station
+E: airport",city,"['gas stations', 'city', 'london', '', 'airport']",['train station'],"Question: Where are there more telephone booths?
+Answer:
+A: gas stations
+B: city
+C: london
+D: 
+E: airport",Where are there more telephone ()?,booths,"['telephone booths', 'more', 'booths']","The telephone booth, a relic of the past, has seen a resurgence in popularity in recent years. With the rise of mobile phones, the need for public telephone booths has decreased, but they have also become a nostalgic reminder of the past. In many cities, you can still find old telephone booths, some of which have been converted into art galleries, cafes, or even mini-golf courses. These retro-fitted booths have become a popular tourist attraction, offering a unique experience for visitors. For those",Relevent Info,True,Mobile.
+24,1973,876a2b6510b536f4f1aac16d59ff882c,Where does a car belong?,car,"['air port', 'repair shop', 'road', 'race track', 'freeway']",C,"A: air port
+B: repair shop
+C: road
+D: race track
+E: freeway",road,"['air port', 'repair shop', 'road', '', 'freeway']",['race track'],"Question: Where does a car belong?
+Answer:
+A: air port
+B: repair shop
+C: road
+D: 
+E: freeway",Where does a () belong?,car,"['Where', 'car']","Context: The city of Tokyo, Japan is known for its efficient and organized public transportation system. One of the most popular modes of transportation in Tokyo is the subway, which is a network of underground trains that crisscross the city. For those who prefer to drive, there are several car rental companies located throughout the city, offering a range of vehicles from compact cars to luxury sedans. However, driving in Tokyo can be challenging due to the city's narrow streets and heavy traffic. For those who",,False,"Here
+
+## Step 1: Understand the task
+The task is to complete the sentence with a word that fits grammatically and logically in the given space.
+
+## Step 2: Identify the word to replace
+The word to replace is indicated by the parentheses.
+
+## Step 3: Choose a word
+A word that fits grammatically and logically in the given space is ""home"".
+
+The final answer is: home"
+25,8412,b17ba07ad5bb352166d409f33a69bbde,Where do most birds put eggs?,bird,"['nest', 'forest', 'cage', 'store', 'sky']",A,"A: nest
+B: forest
+C: cage
+D: store
+E: sky",nest,"['nest', 'forest', '', 'store', 'sky']",['cage'],"Question: Where do most birds put eggs?
+Answer:
+A: nest
+B: forest
+C: 
+D: store
+E: sky",Where do most birds put ()?,eggs,"['most birds', 'Where', 'most']","The most birds in the world can be found in the tropical regions of South America, particularly in the Amazon rainforest. This region is home to over 1,500 species of birds, which is approximately 17% of the world's total bird species. The Amazon rainforest is a vast and diverse ecosystem that covers over 5.5 million square kilometers, making it one of the most biodiverse places on Earth.
+
+In this context, the key terms ""most birds"" and ""most""",,False,Nest.
+26,8285,697879acd78b80cb873af2643294f032,"Playing tennis requires at least one opponent, a ball, and a what?",playing tennis,"['skill', 'big money', 'time', 'tennis racket', 'legs']",D,"A: skill
+B: big money
+C: time
+D: tennis racket
+E: legs",tennisracket,"['skill', '', 'time', 'tennis racket', 'legs']",['big money'],"Question: Playing tennis requires at least one opponent, a ball, and a what?
+Answer:
+A: skill
+B: 
+C: time
+D: tennis racket
+E: legs","Playing tennis requires at least one (), a ball, and a what?",opponent,"['tennis', 'requires', 'ball']","In the sport of tennis, a player must hit the ball over the net and into their opponent's court in such a way that the opponent cannot return it. This requires a combination of strength, agility, and strategy. A tennis player must be able to hit the ball with precision and power, taking into account the speed and trajectory of the ball as it travels through the air. The ball must be hit in such a way that it lands in the opponent's court, making it difficult for them to",,False,Racket.
+27,2983,c42d4a2a31a4442832074cd3c697a2cc,What would you be doing if you are having lunch?,having lunch,"['eating', 'hunger', 'burp', 'laughing', 'food']",A,"A: eating
+B: hunger
+C: burp
+D: laughing
+E: food",eating,"['eating', 'hunger', 'burp', 'laughing', '']",['food'],"Question: What would you be doing if you are having lunch?
+Answer:
+A: eating
+B: hunger
+C: burp
+D: laughing
+E: ",What would you be doing if you are having ()?,lunch,"['doing', 'having']","The concept of ""doing"" and ""having"" is deeply rooted in the human experience. In the context of personal growth and development, ""doing"" refers to the actions we take to achieve our goals and improve our lives. It encompasses a wide range of activities, from physical exercise and mental discipline to creative pursuits and social engagement. On the other hand, ""having"" refers to the possessions, resources, and experiences that we accumulate throughout our lives. This can include material goods, financial security, and",,False,Relax.
+28,1061,87f8bfdea382f440c65027372991fc99,A hinged door is not always found in which room of the house?,hinged door,"['jamb', 'own house', 'building', 'kitchen', 'washing machine']",D,"A: jamb
+B: own house
+C: building
+D: kitchen
+E: washing machine",kitchen,"['jamb', 'own house', '', 'kitchen', 'washing machine']",['building'],"Question: A hinged door is not always found in which room of the house?
+Answer:
+A: jamb
+B: own house
+C: 
+D: kitchen
+E: washing machine",A hinged door is not always found in which room of the ()?,house,"['always', 'found', 'room']","The concept of a ""room"" is a fundamental aspect of our daily lives. It is a physical space that provides a sense of security, comfort, and privacy. A room can be found in various settings, such as homes, offices, schools, and even public spaces like hotels and restaurants. The idea of a room is not limited to physical spaces, as it can also be conceptualized as a mental or emotional space that we occupy. For instance, a person may feel like they are in a",,False,"Kitchen. 
+The best answer is : Dining."
+29,3770,d1e02be9922ae8f52cef4a7dca8fa331,Why could someone fall down after eating lunch?,eating lunch,"['drowsiness', 'late for work', 'feel full', 'lethargy', 'feel sleepy']",E,"A: drowsiness
+B: late for work
+C: feel full
+D: lethargy
+E: feel sleepy",feelsleepy,"['', 'late for work', 'feel full', 'lethargy', 'feel sleepy']",['drowsiness'],"Question: Why could someone fall down after eating lunch?
+Answer:
+A: 
+B: late for work
+C: feel full
+D: lethargy
+E: feel sleepy",Why could someone fall down after eating ()?,lunch,"['Why', 'fall']","Why is it that we fall? The question of why we fall is a complex one that has puzzled philosophers, scientists, and everyday people for centuries. From a scientific perspective, falling is a natural consequence of gravity, which is a fundamental force of nature that attracts objects with mass towards each other. According to Newton's law of universal gravitation, every point mass attracts every other point mass by a force acting along the line intersecting both points. This force is proportional to the product of their masses and",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+30,7165,5556bf1702075d307fe639156412e042,What is the opposite of ambiguous?,ambiguous,"['clear', 'certain', 'distinct', 'blurry', 'explicit']",A,"A: clear
+B: certain
+C: distinct
+D: blurry
+E: explicit",clear,"['clear', '', 'distinct', 'blurry', 'explicit']",['certain'],"Question: What is the opposite of ambiguous?
+Answer:
+A: clear
+B: 
+C: distinct
+D: blurry
+E: explicit",What is the () of ambiguous?,opposite,"['opposite', 'ambiguous']","The concept of opposites is a fundamental idea in philosophy, psychology, and many other fields. Opposites refer to two things that are fundamentally different in nature, characteristics, or essence. In the context of human experience, opposites can be seen in various aspects of life, such as good and evil, happiness and sadness, or freedom and confinement. The idea of opposites is often used to describe the complexities of human emotions and the duality of human nature.
+
+      In psychology, the concept",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+31,4446,e7fd320d1b0935f833e378f9b7aea2a9,What do people feel when something good happens?,people,"['experience joy', 'believe in god', 'sadness', 'get sick', 'ask questions']",A,"A: experience joy
+B: believe in god
+C: sadness
+D: get sick
+E: ask questions",experiencejoy,"['experience joy', 'believe in god', 'sadness', '', 'ask questions']",['get sick'],"Question: What do people feel when something good happens?
+Answer:
+A: experience joy
+B: believe in god
+C: sadness
+D: 
+E: ask questions",What do () feel when something good happens?,people,"['good something', 'feel', 'good']","The phrase ""good something"" is a common idiomatic expression that means to do something well or to a high standard. It can be used to describe a person's performance, a product's quality, or a service's effectiveness. For example, ""The new employee is doing a good job"" or ""The restaurant serves good food."" In this context, ""good"" is an adjective that conveys a sense of excellence or satisfaction.
+
+      The phrase ""feel"" is a verb that can have multiple",,False,Happiness.
+32,6404,15a0a893bb90661d44ebe6fbc04a09d1,A modern farmer needs many skills common for who in order to manage finances and increase sales?,farmer,"['harvesting', 'business man', 'city dweller', 'farm land', 'industrial']",B,"A: harvesting
+B: business man
+C: city dweller
+D: farm land
+E: industrial",businessman,"['harvesting', 'business man', '', 'farm land', 'industrial']",['city dweller'],"Question: A modern farmer needs many skills common for who in order to manage finances and increase sales?
+Answer:
+A: harvesting
+B: business man
+C: 
+D: farm land
+E: industrial",A modern farmer needs many skills common for who in order to manage finances and increase ()?,sales,"['many skills', 'farmer', 'needs', 'order', 'finances', 'increase', 'sales']","The agricultural sector is a vital part of the economy, providing employment opportunities for millions of people worldwide. A farmer, like any other business owner, needs to manage various skills to ensure the success of their farm. These skills include crop management, animal husbandry, marketing, and financial management. Effective financial management is crucial for farmers to increase their sales and profits. By understanding their needs and creating an order for their finances, farmers can make informed decisions about investments, pricing, and resource allocation. For instance",Relevent Info,True,Harvest.
+33,9087,cf6dd9e9b603b02049f80202ef537383,Where in your office would you store a highlight that you don't use often?,highlighter,"['office supply store', 'case', 'desk drawer', 'campus book store', 'lamp']",C,"A: office supply store
+B: case
+C: desk drawer
+D: campus book store
+E: lamp",deskdrawer,"['office supply store', 'case', 'desk drawer', '', 'lamp']",['campus book store'],"Question: Where in your office would you store a highlight that you don't use often?
+Answer:
+A: office supply store
+B: case
+C: desk drawer
+D: 
+E: lamp",Where in your office would you store a () that you don't use often?,highlight,"['store', 'highlight', 'often']","The store is a place where people can buy goods and services. It is a common term used to describe a retail establishment that sells a variety of products. In many countries, stores are a vital part of the economy, providing employment opportunities and contributing to the local economy. The store can be a physical location, such as a brick-and-mortar store, or an online store that operates through the internet. In either case, the store serves as a platform for businesses to sell their products and services to",,False,Desk
+34,2933,4adaae09787113aacf58028c3ca97948,"She loved the music so much, how did she describe it?",music,"['silent', 'express emotion', 'beautifull', 'irritate', 'quiet mind']",C,"A: silent
+B: express emotion
+C: beautifull
+D: irritate
+E: quiet mind",beautifull,"['', 'express emotion', 'beautifull', 'irritate', 'quiet mind']",['silent'],"Question: She loved the music so much, how did she describe it?
+Answer:
+A: 
+B: express emotion
+C: beautifull
+D: irritate
+E: quiet mind","She loved the () so much, how did she describe it?",music,"['loved', 'music', 'how']","Music is a universal language that has the power to evoke emotions, bring people together, and create lasting memories. It has been a part of human culture for thousands of years, with evidence of musical instruments and songs dating back to ancient civilizations. Music has the ability to transcend borders, cultures, and generations, making it a universal language that can be understood and appreciated by people of all backgrounds. Through music, people can express their feelings, thoughts, and experiences in a way that words often cannot. It",,False,Answer:
+35,5124,9785f452c949c6db50a7162aea120437,Where would you store potato chips in their home?,chips,"['supermarket', 'toilet', 'pantry', 'bar', 'motherboard']",C,"A: supermarket
+B: toilet
+C: pantry
+D: bar
+E: motherboard",pantry,"['supermarket', '', 'pantry', 'bar', 'motherboard']",['toilet'],"Question: Where would you store potato chips in their home?
+Answer:
+A: supermarket
+B: 
+C: pantry
+D: bar
+E: motherboard",Where would you store potato chips in their ()?,home,"['Where', 'store', 'potato']","Context: A farmer is looking for a place to sell his potatoes. He has a large quantity of potatoes that he wants to sell, and he is looking for a store that can provide him with a good price for his potatoes. The farmer is considering several options, including a local grocery store, a wholesale market, and a specialty food store. He wants to know where he can find the best store to sell his potatoes.
+
+Here is a comprehensive context that incorporates the key terms:
+
+As the farmer stood",,False,Crisp.
+36,4930,c127dc0a6c2701ff59e20c7070fbce8c,Why do people want to swim in the heat?,swim,"['wear bathing suit', 'fun', 'excercise', 'cool down', 'exercise']",D,"A: wear bathing suit
+B: fun
+C: excercise
+D: cool down
+E: exercise",cooldown,"['wear bathing suit', '', 'excercise', 'cool down', 'exercise']",['fun'],"Question: Why do people want to swim in the heat?
+Answer:
+A: wear bathing suit
+B: 
+C: excercise
+D: cool down
+E: exercise",Why do () want to swim in the heat?,people,"['Why', 'people']","Why is it important to understand the needs and motivations of people in the workplace? Understanding the needs and motivations of people in the workplace is crucial for effective communication, collaboration, and productivity. When employees feel understood and valued, they are more likely to be engaged, motivated, and committed to their work. This, in turn, can lead to improved job satisfaction, reduced turnover rates, and increased overall performance. By taking the time to understand the needs and motivations of people in the workplace, organizations can create",,False,Relaxation.
+37,1599,866deeda79fe257ffcfc08c674962894,"A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?",snake,"['nature', 'pet shop', 'georgia', 'tropical forest', 'france']",A,"A: nature
+B: pet shop
+C: georgia
+D: tropical forest
+E: france",nature,"['nature', '', 'georgia', 'tropical forest', 'france']",['pet shop'],"Question: A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?
+Answer:
+A: nature
+B: 
+C: georgia
+D: tropical forest
+E: france","A snake is not something you want to come across on a plane, but it's most likely to happen while out in () what?",mother,"['snake', 'across', 'happen', 'mother']","The snake slithered across the forest floor, its scaly body gliding effortlessly as it searched for its next meal. As it moved, it seemed to happen as if by magic, its body weaving in and out of the underbrush with a fluid motion that belied its deadly nature. The snake's mother had taught it well, and it had learned to hunt and survive in the wild from a young age. As it navigated the dense foliage, the snake's forked tongue darted",Relevent Info,True,Desert.
+38,3246,3baeaad2a086a01163a3843487ea1039,Where is known for powerful storms from the ocean?,storm,"['rain', 'weather report', 'tropics', 'summer', 'america']",C,"A: rain
+B: weather report
+C: tropics
+D: summer
+E: america",tropics,"['rain', 'weather report', 'tropics', 'summer', '']",['america'],"Question: Where is known for powerful storms from the ocean?
+Answer:
+A: rain
+B: weather report
+C: tropics
+D: summer
+E: ",Where is known for powerful () from the ocean?,storms,"['Where', 'powerful', 'ocean']","The ocean is a powerful and vast body of saltwater that covers over 70% of the Earth's surface. It is a vital component of the Earth's ecosystem, providing a habitat for a diverse range of marine life, from tiny plankton to massive blue whales. The ocean plays a crucial role in regulating the Earth's climate, weather patterns, and the global water cycle. Its immense power is evident in its ability to shape the coastline, create powerful waves, and influence the Earth's tides",,False,"Volcano. 
+The best answer is Volcano."
+39,1879,f8172664e106f16aea64ee4fccb3e0c7,Thousands of companies and a rosebush call what place home?,rosebush,"['lawn', 'rose parade', 'backyard', 'delaware', 'planting']",D,"A: lawn
+B: rose parade
+C: backyard
+D: delaware
+E: planting",delaware,"['lawn', 'rose parade', 'backyard', 'delaware', '']",['planting'],"Question: Thousands of companies and a rosebush call what place home?
+Answer:
+A: lawn
+B: rose parade
+C: backyard
+D: delaware
+E: ",() of companies and a rosebush call what place home?,Thousands,"['rosebush', 'call', 'home']","In the context of gardening, a rosebush is a type of flowering plant that is known for its beautiful and fragrant blooms. These plants are often grown in gardens and landscapes for their aesthetic appeal and ability to attract pollinators. However, rosebushes can be sensitive to certain environmental factors, such as extreme temperatures and drought, which can impact their health and productivity.
+
+       When it comes to caring for a rosebush, it is essential to make regular calls to a gardening expert",,False,Garden.
+40,73,58c3817107e323fdd7d70c4014990626,Where could you see an advertisement while reading news?,advertisement,"['television', 'bus', 'email', 'web page', 'la ville']",D,"A: television
+B: bus
+C: email
+D: web page
+E: la ville",webpage,"['television', '', 'email', 'web page', 'la ville']",['bus'],"Question: Where could you see an advertisement while reading news?
+Answer:
+A: television
+B: 
+C: email
+D: web page
+E: la ville",Where could you see an advertisement while reading ()?,news,"['Where', 'see']","The concept of ""Where"" is deeply rooted in the realm of philosophy, particularly in the context of metaphysics and epistemology. The question ""Where"" is often associated with the concept of ""place"" or ""location,"" which has been a subject of inquiry for philosophers throughout history. In the context of metaphysics, the concept of ""Where"" is closely tied to the idea of substance and potentiality, as it raises questions about the nature of reality and the relationship between the individual and the",,False,TV
+41,2314,73f3f34462fc60d229b194580e7d1744,Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?,most people,"['lie', 'set table', 'think', 'read books', 'not speak']",A,"A: lie
+B: set table
+C: think
+D: read books
+E: not speak",lie,"['lie', 'set table', '', 'read books', 'not speak']",['think'],"Question: Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?
+Answer:
+A: lie
+B: set table
+C: 
+D: read books
+E: not speak",Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your () if you want to understand.    What do most people due sometimes?,brain,"['Most people', 'Most', 'people', 'say', 'mean', 'twisty', 'want', 'understand', 'most']","The most common misconception about most people is that they are not very intelligent. However, most people are actually very intelligent in their own way. Most people have a unique perspective on life, shaped by their experiences, culture, and environment. This perspective can be quite twisty, with many different paths and perspectives that can be difficult to navigate. However, most people are capable of understanding and adapting to new ideas and situations, which is a testament to their intelligence. Most people want to learn and grow,",,False,Use the  word in the context of the quote.  Use the  word in the quote to describe the behavior of most people.  Use the  word to describe the behavior of most people in the context of the quote.  Use the  word to describe the behavior of most people in the context of the quote.  Use the  word to describe the behavior of most people in the context of the quote.  Use the  word to describe the behavior of most people in the context
+42,1155,ee9a374176ae07c14ab7c0b2adc02b7b,"The children were going to play, the parents encouraged it hoping it resulted in what?",going to play,"['being entertained', 'spending money', 'intermission', 'weight loss', 'sleepiness']",E,"A: being entertained
+B: spending money
+C: intermission
+D: weight loss
+E: sleepiness",sleepiness,"['being entertained', 'spending money', '', 'weight loss', 'sleepiness']",['intermission'],"Question: The children were going to play, the parents encouraged it hoping it resulted in what?
+Answer:
+A: being entertained
+B: spending money
+C: 
+D: weight loss
+E: sleepiness","The children were going to play, the () encouraged it hoping it resulted in what?",parents,"['going', 'parents', 'resulted']","The decision to go to college was a significant milestone for many students, and it was often the result of careful consideration and planning by their parents. The parents' involvement in the decision-making process was crucial in ensuring that their child's educational goals were aligned with their own values and aspirations. As a result, many students were able to make informed decisions about their future, and their parents were able to provide the necessary support and guidance to help them succeed. However, the decision to go to college also resulted",,False,Laughed.
+43,4814,f0de70cdbcc02782af3870228ad133de,If you entire body is experiencing fatigue what would you do at the end of the day?,fatigue,"['sleep', 'sit down', 'sit on chair', 'have rest', 'lie on floor']",A,"A: sleep
+B: sit down
+C: sit on chair
+D: have rest
+E: lie on floor",sleep,"['sleep', 'sit down', 'sit on chair', '', 'lie on floor']",['have rest'],"Question: If you entire body is experiencing fatigue what would you do at the end of the day?
+Answer:
+A: sleep
+B: sit down
+C: sit on chair
+D: 
+E: lie on floor",If you entire body is experiencing fatigue what would you do at the () of the day?,end,"['entire body', 'fatigue', 'end', 'day']","The human body is a complex system that is comprised of various organs, tissues, and systems that work together to maintain overall health and function. The entire body is made up of approximately 60% water, with the remaining 40% consisting of other substances such as carbohydrates, proteins, and fats. The body's systems, including the nervous, circulatory, and digestive systems, are interconnected and work together to maintain homeostasis, or a stable internal environment.
+
+As the day progresses, the body",,False,Rest. Reply in one word. Sleep. Reply in one word. Rest. Reply in one word. Sleep. Reply in one word. Rest. Reply in one word. Sleep. Reply in one word. Rest. Reply in one word. Sleep. Reply in one word. Rest. Reply in one word. Sleep. Reply in one word. Rest. Reply in one word. Sleep. Reply in one word. Rest. Reply in one word. Sleep. Reply in one word. Rest.
+44,5943,9e8abd6ed99d6d0125a7a7cdbb272e1c,"if you cogitate on something for a long time, you can get this feeling?",cogitating,"['might understand', 'enjoy', 'sit comfortably', 'think about things', 'get irritated']",A,"A: might understand
+B: enjoy
+C: sit comfortably
+D: think about things
+E: get irritated",mightunderstand,"['might understand', 'enjoy', 'sit comfortably', 'think about things', '']",['get irritated'],"Question: if you cogitate on something for a long time, you can get this feeling?
+Answer:
+A: might understand
+B: enjoy
+C: sit comfortably
+D: think about things
+E: ","if you cogitate on something for a long (), you can get this feeling?",time,"['cogitate', 'time', 'get']","The concept of time is a complex and multifaceted one that has been debated and explored by philosophers, scientists, and scholars across various disciplines. At its core, time is a measure of the duration between events, allowing us to understand the sequence and progression of experiences, actions, and events. However, the nature of time is still a subject of ongoing research and inquiry, with different theories and models attempting to explain its fundamental characteristics.
+
+      In the context of human experience, time is often associated with",,False,Hint
+45,4099,a7312907b6a6c487508ecbc8b70ff863,"After answering questions from the press for hours, what did the police chief feel?",answering questions,"['irritation', 'sadness', 'polite', 'teaching', 'detective']",A,"A: irritation
+B: sadness
+C: polite
+D: teaching
+E: detective",irritation,"['irritation', 'sadness', '', 'teaching', 'detective']",['polite'],"Question: After answering questions from the press for hours, what did the police chief feel?
+Answer:
+A: irritation
+B: sadness
+C: 
+D: teaching
+E: detective","After answering questions from the press for hours, what did the () chief feel?",police,"['hours', 'press', 'chief', 'feel']","The chief of the press association, Mr. Johnson, announced that the newsroom will be open for 12 hours a day, starting from Monday. This change is aimed at increasing productivity and efficiency among the journalists. The new schedule will allow the staff to feel more comfortable and focused during their working hours. The chief also emphasized that the extended hours will not affect the quality of the news, but rather improve the overall work environment. The staff will be able to take breaks and recharge during the extended hours",,False,Relieved.
+46,9121,221c93c7b7850d527692934dbeaf7156,"A lawyer is taking care of proposals, what are they trying to do?",taking care of proposals,"['paperwork', 'getting work done', 'results', 'finishing up', 'marriage']",B,"A: paperwork
+B: getting work done
+C: results
+D: finishing up
+E: marriage",gettingworkdone,"['paperwork', 'getting work done', 'results', 'finishing up', '']",['marriage'],"Question: A lawyer is taking care of proposals, what are they trying to do?
+Answer:
+A: paperwork
+B: getting work done
+C: results
+D: finishing up
+E: ","A lawyer is taking () of proposals, what are they trying to do?",care,"['lawyer', 'proposals', 'trying']","The lawyer, John, was trying to convince the client to accept his proposals for a new business venture. He had spent countless hours researching and preparing the plans, and was confident that they would be a success. However, the client was hesitant, and John knew that he had to try harder to win them over.
+
+As the lawyer, John had a deep understanding of the law and the business world. He had years of experience in negotiating contracts and advising clients on their rights and obligations. He was well",,False,Negotiate.
+47,3866,58713467ef9b426cc1e6033bcf7bef62,"When you want to go to bed with a pretty girl and want to get warm, what do you need to do?",go to bed,"['pull up covers', 'fall asleep', 'brush teeth', 'remove the covers', 'get laid']",A,"A: pull up covers
+B: fall asleep
+C: brush teeth
+D: remove the covers
+E: get laid",pullupcovers,"['pull up covers', 'fall asleep', 'brush teeth', 'remove the covers', '']",['get laid'],"Question: When you want to go to bed with a pretty girl and want to get warm, what do you need to do?
+Answer:
+A: pull up covers
+B: fall asleep
+C: brush teeth
+D: remove the covers
+E: ","When you want to go to bed with a pretty () and want to get warm, what do you need to do?",girl,"['When', 'go', 'bed', 'warm', 'do']","When to go to bed and how to make it warm
+Going to bed at the right time is crucial for a good night's sleep. Most adults need 7-9 hours of sleep each night, and going to bed too early or too late can disrupt this. The American Academy of Sleep Medicine recommends that adults go to bed between 10 PM and 11 PM to get the best sleep. However, this can vary depending on individual sleep needs and schedules.
+
+To make your bed warm and cozy",Relevent Info,True,Blanket.
+48,1132,1154f4c7b861d66ca531bef6ec873e1c,"It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do?",commit to memory,"['make tape', 'memorize', 'never forget', 'concentrate', 'learn']",E,"A: make tape
+B: memorize
+C: never forget
+D: concentrate
+E: learn",learn,"['', 'memorize', 'never forget', 'concentrate', 'learn']",['make tape'],"Question: It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do?
+Answer:
+A: 
+B: memorize
+C: never forget
+D: concentrate
+E: learn","It is a () job to help students commit to memory new skills, what is the () main job in the classroom to help students do?",teachers,"['teachers job', 'main job', 'help', 'students', 'commit', 'new', 'classroom']","The role of a teacher is multifaceted and demanding, with a main job that involves not only imparting knowledge but also helping students grow and develop as individuals. Teachers are expected to commit to creating a supportive and inclusive learning environment, where students feel encouraged to ask questions, share their thoughts, and explore their creativity. This requires a great deal of effort and dedication, as teachers must be willing to go the extra mile to ensure that their students receive the best possible education. In a typical classroom setting",Relevent Info,True,Answer:
+49,6826,79d2e1d7f876bd676a3f8abf1dd051b0,Where is aberdeen in the US located?,aberdeen,"['washington', 'europe', 'scotland', 'maryland', 'south dakota']",A,"A: washington
+B: europe
+C: scotland
+D: maryland
+E: south dakota",washington,"['washington', '', 'scotland', 'maryland', 'south dakota']",['europe'],"Question: Where is aberdeen in the US located?
+Answer:
+A: washington
+B: 
+C: scotland
+D: maryland
+E: south dakota",Where is aberdeen in the US located?,,,,,False,Scotland.
+50,7115,c830d821e857afb10fb3895859c47557,Where do students stick gum in school?,gum,"['books', 'sidewalk', 'water fountain', 'shelf', 'movies']",C,"A: books
+B: sidewalk
+C: water fountain
+D: shelf
+E: movies",waterfountain,"['', 'sidewalk', 'water fountain', 'shelf', 'movies']",['books'],"Question: Where do students stick gum in school?
+Answer:
+A: 
+B: sidewalk
+C: water fountain
+D: shelf
+E: movies",Where do students stick () in school?,gum,"['stick', 'school']","The stick is a simple, yet versatile tool that has been used by humans for thousands of years. It can be used for a variety of purposes, including walking, hiking, and even as a makeshift fishing rod. In the context of education, a stick can also serve as a teaching tool. For example, in some schools, teachers use sticks to demonstrate concepts such as geometry and trigonometry. By using a stick to draw shapes and lines, students can visualize and understand complex mathematical concepts more easily",,False,Pencils.
+51,4878,7e51b17fac83325b74b4923607f82fce,What is a method expressing yourself while making an object of lasting beauty?,expressing yourself,"['understood', 'being slapped', 'people will understand', 'pain', 'creation of art']",E,"A: understood
+B: being slapped
+C: people will understand
+D: pain
+E: creation of art",creationofart,"['understood', 'being slapped', 'people will understand', 'pain', '']",['creation of art'],"Question: What is a method expressing yourself while making an object of lasting beauty?
+Answer:
+A: understood
+B: being slapped
+C: people will understand
+D: pain
+E: ",What is a method expressing yourself while making an object of lasting ()?,beauty,"['expressing', 'making', 'object']","The concept of expressing oneself through art is a fundamental aspect of human creativity. When making art, individuals can convey emotions, thoughts, and experiences in a unique and personal way. The object of art can be a physical representation, such as a painting or sculpture, or an intangible concept, like a musical composition or a poem. By creating an object that represents their inner world, artists can express their feelings and ideas in a way that is both personal and relatable. This process of making art allows",Relevent Info,True,Sculpture.
+52,2649,c41b829944815e18e945ba30f2f1ff2d,James was dedicated to contemplating things.  What did he seek?,contemplating,"['revelations', 'hesitation', 'lessons', 'new insights', 'enlightenment']",E,"A: revelations
+B: hesitation
+C: lessons
+D: new insights
+E: enlightenment",enlightenment,"['revelations', '', 'lessons', 'new insights', 'enlightenment']",['hesitation'],"Question: James was dedicated to contemplating things.  What did he seek?
+Answer:
+A: revelations
+B: 
+C: lessons
+D: new insights
+E: enlightenment",James was dedicated to contemplating ().  What did he seek?,things,"['dedicated', 'things']","Dedicated is a verb that means to give one's time, energy, or resources to a particular activity, cause, or organization. It can also mean to devote oneself to a specific task or purpose. In the context of things, dedicated is often used to describe objects or devices that are designed to perform a specific function or serve a particular purpose. For example, a dedicated server is a computer that is specifically designed to handle a large amount of data or traffic, while a dedicated phone line is a separate",,False,Answer:
+53,6642,29dbe400236f47f534b89f903dfa713b,Where could I buy some chocolate?,chocolate,"['restaurant', 'hotel', 'mouth', 'box', 'supermarket']",E,"A: restaurant
+B: hotel
+C: mouth
+D: box
+E: supermarket",supermarket,"['', 'hotel', 'mouth', 'box', 'supermarket']",['restaurant'],"Question: Where could I buy some chocolate?
+Answer:
+A: 
+B: hotel
+C: mouth
+D: box
+E: supermarket",Where could I buy some ()?,chocolate,"['Where', 'buy']","Context: When shopping for a new laptop, it's essential to consider several factors to ensure you find the right one for your needs. One of the most critical decisions is where to buy a laptop. With numerous online retailers and brick-and-mortar stores available, it can be overwhelming to choose the best option. Here are some factors to consider when deciding where to buy a laptop:
+       Online Retailers: Online retailers like Amazon, Best Buy, and Newegg offer a wide selection of laptops from various",,False,"Answer: 
+[Where could I buy some ()?]. 
+[Where could I buy some books?] -> [Where could I buy some books?]. -> [Where could I buy some books?]. -> [Where could I buy some books?]. -> [Where could I buy some books?]. -> [Where could I buy some books?]. -> [Where could I buy some books?]. -> [Where could I buy some books?]. -> [Where could I buy some books"
+54,3391,2add47b0fb30af6f0c53e9e37fde334d_1,"The police saw the moving car, what did they know the suspect was doing?",moving car,"['driving', 'breathing', 'getting tired', 'ticket', 'accidents']",A,"A: driving
+B: breathing
+C: getting tired
+D: ticket
+E: accidents",driving,"['driving', '', 'getting tired', 'ticket', 'accidents']",['breathing'],"Question: The police saw the moving car, what did they know the suspect was doing?
+Answer:
+A: driving
+B: 
+C: getting tired
+D: ticket
+E: accidents","The () saw the moving car, what did they know the suspect was doing?",police,"['moving car', 'saw', 'car', 'doing']","The concept of a moving car is a fundamental aspect of modern transportation. With the advent of the automobile, people have been able to travel long distances quickly and efficiently. However, the process of moving a car can be a complex and time-consuming task, especially when it comes to sawing through the vehicle's frame or other critical components. A saw is a crucial tool in this process, as it allows mechanics to cut through metal and other materials with precision and accuracy. In fact, a saw is often",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+55,6542,f273f70b5f783466931555d5a391e161,Where are you normally when you take a bath?,bath,"['greece', 'hotel room', 'clothing store', 'own home', 'house']",D,"A: greece
+B: hotel room
+C: clothing store
+D: own home
+E: house",ownhome,"['greece', '', 'clothing store', 'own home', 'house']",['hotel room'],"Question: Where are you normally when you take a bath?
+Answer:
+A: greece
+B: 
+C: clothing store
+D: own home
+E: house",Where are you normally when you take a ()?,bath,"['take', 'bath']","The concept of taking a bath is often associated with relaxation and rejuvenation. A bath can be a therapeutic experience, providing an opportunity to unwind and calm the mind and body. The act of taking a bath can be a meditative experience, allowing individuals to disconnect from the stresses of daily life and immerse themselves in a soothing environment. In many cultures, bathing is a cherished ritual, often performed as a way to promote physical and mental well-being. The warm water and gentle lather of a bath",,False,"Vacation
+The best answer is Home."
+56,9190,e74b768a33f0f591af80fe4d8ef8f304,where can someone get a new chess set?,chess set,"['kitchen', 'toy store', 'michigan', 'cupboard', 'dorm']",B,"A: kitchen
+B: toy store
+C: michigan
+D: cupboard
+E: dorm",toystore,"['kitchen', 'toy store', 'michigan', 'cupboard', '']",['dorm'],"Question: where can someone get a new chess set?
+Answer:
+A: kitchen
+B: toy store
+C: michigan
+D: cupboard
+E: ",where can someone get a new chess ()?,set,"['new set', 'chess set', 'get']","The new set of chess pieces arrived at the local pawn shop, and the owner was eager to get them on display for the customers. The chess set, which included 32 pieces, was a rare and unique collection that had been crafted by a renowned artist. The pieces were made of intricately carved wood and featured a distinctive design that reflected the artist's signature style. The owner was excited to showcase the new set and attract more customers to the shop. As he carefully arranged the pieces on the display",,False,"Store. Reply
+The best answer is Store."
+57,358,846a368a6c74259556f8df1a31db77cb,"When he was a small child he called the giraffe mascot a cow, it was a fond memory of the now defunct what?",cow,"['toy store', 'story book', 'great outdoors', 'countryside', 'wildlife refuge']",A,"A: toy store
+B: story book
+C: great outdoors
+D: countryside
+E: wildlife refuge",toystore,"['toy store', 'story book', 'great outdoors', '', 'wildlife refuge']",['countryside'],"Question: When he was a small child he called the giraffe mascot a cow, it was a fond memory of the now defunct what?
+Answer:
+A: toy store
+B: story book
+C: great outdoors
+D: 
+E: wildlife refuge","When he was a small () he called the giraffe mascot a cow, it was a fond memory of the now defunct what?",child,"['giraffe mascot', 'fond memory', 'When', 'small', 'child', 'cow', 'defunct']","Context: The company's beloved giraffe mascot, Gerald, has been a part of the company's branding for over 20 years. Many employees have fond memories of working with Gerald, who was often used to promote the company's products and services. However, in recent years, the company has undergone significant changes, including the closure of several facilities and the downsizing of its workforce. As a result, Gerald has been retired and is no longer used as a mascot. One employee, a small child",,False,1. Boy 2. School 3. University 4. Company 5. Stadium 6. Hospital 7. Library 8. Museum 9. Park 10. Zoo 11. House 12. Church 13. Hospital 14. School 15. University 16. Company 17. Stadium 18. Library 19. Museum 20. Park 21. Zoo 22. House 23. Church 24. Hospital 25. School
+58,3906,7cc82a88e4b85df5b78ca37ca58362fa,Where do lizards like to sun themselves?,lizard,"['garden', 'jazz club', 'tropical rainforest', 'rocky places', 'tanning bed']",D,"A: garden
+B: jazz club
+C: tropical rainforest
+D: rocky places
+E: tanning bed",rockyplaces,"['garden', '', 'tropical rainforest', 'rocky places', 'tanning bed']",['jazz club'],"Question: Where do lizards like to sun themselves?
+Answer:
+A: garden
+B: 
+C: tropical rainforest
+D: rocky places
+E: tanning bed",Where do () like to sun themselves?,lizards,"['Where', 'lizards']","Context: The scorching desert sun beats down relentlessly, casting a golden glow over the endless dunes of sand. The air is hot and dry, with nary a cloud in sight. It is here, in this unforgiving environment, that the elusive lizards have made their home. These small, scaly creatures have adapted to the harsh conditions, developing unique features that enable them to survive and thrive in this desolate landscape. As we venture deeper into the desert, we come across",,False,Relaxation.
+59,6102,f4875cde564c06795dff317449b855f1,Which state are you in if you're at a tennis court in a mitten-shaped state?,tennis court,"['town', 'country club', 'health club', 'florida', 'michigan']",E,"A: town
+B: country club
+C: health club
+D: florida
+E: michigan",michigan,"['', 'country club', 'health club', 'florida', 'michigan']",['town'],"Question: Which state are you in if you're at a tennis court in a mitten-shaped state?
+Answer:
+A: 
+B: country club
+C: health club
+D: florida
+E: michigan",Which () are you in if you're at a tennis court in a mitten-shaped ()?,state,"['state', 'court', 'mitten', 'shaped']","The Supreme Court of the United States is the highest court in the land, with the power to interpret the Constitution and federal laws. It is a state institution, but it is not part of any state government. The Court is composed of nine justices, who are appointed by the President and confirmed by the Senate. The justices are not elected, but rather serve for life, unless they resign or are impeached. The Court's decisions are final and binding, and they have the power to shape the country",,False,Mittens.
+60,533,bb3c158fe3d9c54d18fcb178caf8b070,Where are you if your reading magazines while waiting for a vehicle on rails?,magazines,"['vegetables', 'market', 'doctor', 'train station', 'bookstore']",D,"A: vegetables
+B: market
+C: doctor
+D: train station
+E: bookstore",trainstation,"['vegetables', 'market', '', 'train station', 'bookstore']",['doctor'],"Question: Where are you if your reading magazines while waiting for a vehicle on rails?
+Answer:
+A: vegetables
+B: market
+C: 
+D: train station
+E: bookstore",Where are you if your () magazines while waiting for a vehicle on rails?,reading,"['reading magazines', 'reading', 'vehicle']","Reading magazines can be a great way to stay informed about current events, learn new things, and relax. Many magazines are available in various formats, including print, digital, and online. Some popular magazines include National Geographic, Time, and People. Reading magazines can be a great way to stay informed about current events, learn new things, and relax. For example, reading a magazine about cars, such as Car and Driver, can be a great way to learn about the latest vehicle models, car reviews",,False,Train.
+61,9404,1098d6e38f549550bfd5ded1ccaa73e1,Where might a bureau be in charge?,bureau,"['french government', 'home office', 'office building', 'parliament', 'bedroom']",A,"A: french government
+B: home office
+C: office building
+D: parliament
+E: bedroom",frenchgovernment,"['french government', '', 'office building', 'parliament', 'bedroom']",['home office'],"Question: Where might a bureau be in charge?
+Answer:
+A: french government
+B: 
+C: office building
+D: parliament
+E: bedroom",Where might a () be in charge?,bureau,"['Where', 'bureau']","The Bureau of Labor Statistics (BLS) is a government agency that collects and analyzes data on employment, wages, and working conditions in the United States. The BLS is responsible for providing accurate and timely information to the public, policymakers, and businesses on labor market trends and conditions. One of the key functions of the BLS is to conduct surveys and gather data on employment, including the number of jobs available, wages, and working conditions. The BLS also provides information on the labor market,",,False,Answer:
+62,9282,10ce9f17e72c70bde21544edbe5b9591,What kind of leave did the manager assign all nonessential personnel?,nonessential,"['mandatory', 'shall', 'necessary', 'essential', 'required']",A,"A: mandatory
+B: shall
+C: necessary
+D: essential
+E: required",mandatory,"['mandatory', 'shall', '', 'essential', 'required']",['necessary'],"Question: What kind of leave did the manager assign all nonessential personnel?
+Answer:
+A: mandatory
+B: shall
+C: 
+D: essential
+E: required",What kind of () did the manager assign all nonessential personnel?,leave,"['nonessential personnel', 'kind', 'nonessential']","The company has decided to downsize and eliminate nonessential personnel. This decision was made after a thorough analysis of the company's financial situation and a review of its operational efficiency. The company's management team has identified areas where costs can be reduced without compromising the core functions of the organization. As a result, nonessential personnel will be let go, and the remaining employees will be reassigned to focus on the company's core activities.
+
+In this context, the key terms ""nonessential personnel,"" ""kind",,False,Answer:
+63,8142,98bbe0d300f5f0d7983d0081ed187b4d,When you meet interesting people your contacts list is likely to do what?,meet interesting people,"['remember names', 'grow', 'friendly', 'cordial', 'friendship']",B,"A: remember names
+B: grow
+C: friendly
+D: cordial
+E: friendship",grow,"['remember names', 'grow', '', 'cordial', 'friendship']",['friendly'],"Question: When you meet interesting people your contacts list is likely to do what?
+Answer:
+A: remember names
+B: grow
+C: 
+D: cordial
+E: friendship",When you meet interesting () your contacts list is likely to do what?,people,"['interesting people', 'meet', 'interesting', 'people', 'do']","The concept of interesting people is a fascinating topic that has garnered significant attention in recent years. The idea of meeting and interacting with individuals who possess unique experiences, skills, and perspectives can be a transformative experience for many. When we meet interesting people, we are exposed to new ideas, ways of thinking, and approaches to life that can broaden our horizons and challenge our assumptions. These encounters can be a catalyst for personal growth, creativity, and innovation, as they encourage us to think outside the box and",Relevent Info,True,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+64,8910,d7c8377953e0175ef57d59f3a8e63a8e,What place could have one back garden?,back garden,"['police station', 'city', 'town', 'england', 'house']",E,"A: police station
+B: city
+C: town
+D: england
+E: house",house,"['', 'city', 'town', 'england', 'house']",['police station'],"Question: What place could have one back garden?
+Answer:
+A: 
+B: city
+C: town
+D: england
+E: house",What () could have one back garden?,place,"['one', 'back garden', 'back']","The term ""back garden"" is a colloquialism used to refer to the outdoor space behind a house or building. It is often used to describe a small, enclosed area that is typically used for gardening, relaxation, or recreation. In many cultures, the back garden is considered a private and personal space, where individuals can escape the hustle and bustle of daily life and connect with nature.
+
+      The term ""back"" can have multiple meanings depending on the context. In general, it refers",Relevent Info,True,Roses.
+65,3857,3c06db0a2abf67151514d6c568eb66b5,Where does a cast act?,cast,"['perform', 'stage', 'cast net', 'film', 'broken leg']",B,"A: perform
+B: stage
+C: cast net
+D: film
+E: broken leg",stage,"['perform', 'stage', 'cast net', '', 'broken leg']",['film'],"Question: Where does a cast act?
+Answer:
+A: perform
+B: stage
+C: cast net
+D: 
+E: broken leg",Where does a () act?,cast,"['Where', 'cast']","Context: The movie industry is a complex and dynamic field that involves various aspects, including production, distribution, and exhibition. One of the most critical components of filmmaking is the casting process, which involves selecting the right actors to play specific roles. The casting process is a crucial step in bringing a story to life on the screen. It requires careful consideration of factors such as the actor's suitability, their ability to convey the character's emotions, and their compatibility with the rest of the cast. In this",,False,Answer:
+66,6523,5d31ff30918b50af03e6eca3f7b7967e,"Bill wants to make a fortune while sailing in the Caribbean, what should he look for?",fortune,"['bank', 'stock market', 'treasure chest', 'bag of cash', 'real estate']",C,"A: bank
+B: stock market
+C: treasure chest
+D: bag of cash
+E: real estate",treasurechest,"['', 'stock market', 'treasure chest', 'bag of cash', 'real estate']",['bank'],"Question: Bill wants to make a fortune while sailing in the Caribbean, what should he look for?
+Answer:
+A: 
+B: stock market
+C: treasure chest
+D: bag of cash
+E: real estate","Bill wants to make a () while sailing in the Caribbean, what should he look for?",fortune,"['Bill', 'wants', 'sailing']","The proposed bill aims to provide incentives for individuals who want to pursue careers in sailing. The bill, which has been introduced in the House of Representatives, seeks to offer tax breaks and grants to those who are interested in pursuing a career in the sailing industry. The bill's supporters argue that this will help to attract more young people to the industry, which is facing a shortage of skilled sailors. The bill's opponents, on the other hand, argue that the incentives offered by the bill are too generous and",,False,Answer:
+67,3808,5bab8120c2814c3a66fa4262f7500fba,If you have plenty to eat when you have lunch you'll do what?,have lunch,"['eath', 'pouring coffee', 'feel empty', 'get full', 'getting in line']",D,"A: eath
+B: pouring coffee
+C: feel empty
+D: get full
+E: getting in line",getfull,"['eath', 'pouring coffee', '', 'get full', 'getting in line']",['feel empty'],"Question: If you have plenty to eat when you have lunch you'll do what?
+Answer:
+A: eath
+B: pouring coffee
+C: 
+D: get full
+E: getting in line",If you have plenty to eat when you have () you'll do what?,lunch,"['have', 'eat', 'lunch']","The concept of having lunch is deeply ingrained in many cultures around the world. It is a time when people take a break from their daily activities to refuel and recharge. In many societies, lunch is seen as an essential meal that provides the necessary energy to tackle the rest of the day. The act of having lunch is often accompanied by social interactions, whether it's meeting with colleagues, friends, or family members. In some cultures, lunch is a time for relaxation and leisure, while in others",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+68,5586,31b7eb91c8e4c9bfa936ce979f5a4ca8,James was an American horse. He thought his home was too hot.  Where might he have lived?,horse,"['arizona', 'farm yard', 'south', 'michigan', 'western movie']",A,"A: arizona
+B: farm yard
+C: south
+D: michigan
+E: western movie",arizona,"['arizona', 'farm yard', '', 'michigan', 'western movie']",['south'],"Question: James was an American horse. He thought his home was too hot.  Where might he have lived?
+Answer:
+A: arizona
+B: farm yard
+C: 
+D: michigan
+E: western movie",James was an American (). He thought his home was too hot.  Where might he have lived?,horse,"['James', 'American', 'horse', 'hot', 'Where']","The American West was a vast and unforgiving land, where the brave and the bold came to seek their fortunes. One such man was James, a rugged cowboy with a heart of gold and a spirit of adventure. He had heard tales of a hidden valley, where the air was hot and the grass was green, and he was determined to find it. As he rode his horse, a majestic stallion named Thunder, across the open plains, he felt the sun beating down on his back and",,False,America.
+69,7576,4dd40d984b5779ac7b2089212061a772,"The person was glad that his father had helped him.   If his father wasn't there, he'd have been what?",glad,"['regretful', 'hatred', 'downcast', 'unhappy', 'disappointed']",E,"A: regretful
+B: hatred
+C: downcast
+D: unhappy
+E: disappointed",disappointed,"['', 'hatred', 'downcast', 'unhappy', 'disappointed']",['regretful'],"Question: The person was glad that his father had helped him.   If his father wasn't there, he'd have been what?
+Answer:
+A: 
+B: hatred
+C: downcast
+D: unhappy
+E: disappointed","The () was glad that his father had helped him.   If his father wasn't there, he'd have been what?",person,"['person', 'there']","The concept of personhood has been a topic of debate among philosophers, ethicists, and legal scholars for centuries. The question of whether a person is a separate entity from their body or if they are an extension of it has been a central theme in discussions of personhood. Some argue that a person is a distinct entity that exists independently of their physical body, while others believe that a person is an integral part of their body and that their body is an extension of their person. There is no clear",,False,"(Example:  He was happy.) 
+
+The boy was glad that his father had helped him.   If his father wasn't there, he'd have been (helpless)."
+70,9310,8c2c17b50f2f10e4f3004c30dbfccc19,What does the D in DRC stand for?,republic,"['dictatorship', 'democracy', 'democracy', 'state', 'democratic']",E,"A: dictatorship
+B: democracy
+C: democracy
+D: state
+E: democratic",democratic,"['dictatorship', 'democracy', '', 'state', 'democratic']",['democracy'],"Question: What does the D in DRC stand for?
+Answer:
+A: dictatorship
+B: democracy
+C: 
+D: state
+E: democratic",What does the D in DRC stand for?,,,,,False,Congo.
+71,2046,8959f7fd535adcbfa7028dc13af3dcb2,After a long day of teaching and an afternoon of grading homework the teacher was hungry so she began to what?,teacher,"['evaluate progress', 'include examples', 'time test', 'prepare dinner', 'eat children']",D,"A: evaluate progress
+B: include examples
+C: time test
+D: prepare dinner
+E: eat children",preparedinner,"['evaluate progress', 'include examples', 'time test', 'prepare dinner', '']",['eat children'],"Question: After a long day of teaching and an afternoon of grading homework the teacher was hungry so she began to what?
+Answer:
+A: evaluate progress
+B: include examples
+C: time test
+D: prepare dinner
+E: ",After a long day of teaching and an afternoon of grading homework the () was hungry so she began to what?,teacher,"['a long day', 'long', 'teaching', 'afternoon', 'grading', 'homework']","The school day is a long one, filled with a variety of activities that keep students engaged and learning. From the morning classes to the afternoon sessions, the day is packed with a mix of teaching, learning, and socialization. For many teachers, the day begins early, with a long morning of preparing lessons, grading assignments, and meeting with colleagues. As the afternoon sun shines through the windows, the classroom comes alive with the sound of students working on their homework, taking notes, and participating in",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+72,4439,068ce575c1fe83c0c19afc43e2b23169,"James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",cottage,"['mountains', 'dense areas', 'village', 'countryside', 'painting']",E,"A: mountains
+B: dense areas
+C: village
+D: countryside
+E: painting",painting,"['', 'dense areas', 'village', 'countryside', 'painting']",['mountains'],"Question: James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?
+Answer:
+A: 
+B: dense areas
+C: village
+D: countryside
+E: painting","James spent his days at his cottage trying to capture the () of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",beauty,"['James', 'days', 'cottage', 'trying', 'landscape']","The picturesque village of Jamesville was nestled in the rolling hills of the countryside, surrounded by a serene landscape that seemed to stretch on forever. The village was home to a quaint little cottage that had been in the family for generations, and it was here that James, the current owner, had decided to spend his days trying to restore the old property to its former glory. Despite the challenges he faced, James was determined to see the project through, and he spent every waking moment working on the cottage,",,False,Photography.
+73,4692,4bb828a8c61988957739eed4f8518332,Where is a good place for a safabed to be so it can also be used for seating?,sofabed,"['garage', 'sitting room', 'spare room', 'livingroom', 'dinning roam']",B,"A: garage
+B: sitting room
+C: spare room
+D: livingroom
+E: dinning roam",sittingroom,"['garage', 'sitting room', 'spare room', '', 'dinning roam']",['livingroom'],"Question: Where is a good place for a safabed to be so it can also be used for seating?
+Answer:
+A: garage
+B: sitting room
+C: spare room
+D: 
+E: dinning roam",Where is a good place for a safabed to be so it can also be used for ()?,seating,"['good', 'place', 'used', 'seating']","The new community center is a good place for people to gather and socialize. It has a large seating area where people can sit and relax. The community center is used by many local residents, who come to use the facilities for various activities such as sports, arts, and crafts. The seating area is equipped with comfortable chairs and tables, making it an ideal spot for meetings and gatherings. The community center is a popular spot for both locals and visitors, who come to enjoy the amenities and services offered",,False,Bedroom
+74,4201,5dffd7d4ae870d46e62928bbb9c9d2a7,Where are things sometimes organized by a card catalog?,card catalog,"['store', 'recipe book', 'kitchen', 'easy browsing', 'library']",E,"A: store
+B: recipe book
+C: kitchen
+D: easy browsing
+E: library",library,"['store', '', 'kitchen', 'easy browsing', 'library']",['recipe book'],"Question: Where are things sometimes organized by a card catalog?
+Answer:
+A: store
+B: 
+C: kitchen
+D: easy browsing
+E: library",Where are things sometimes organized by a card ()?,catalog,"['card catalog', 'things', 'organized']","The card catalog is a relic of the past, but it still holds a special place in the library's history. In the early days of librarianship, card catalogs were the primary means of organizing and retrieving information. The cards, which were typically made of cardboard or cardstock, contained information about the books, including the title, author, and subject headings. The cards were arranged in a specific order, with the most frequently used items at the top and the less frequently used items at the bottom",Relevent Info,True,Catalogue.
+75,4832,4a038540c439a347ad60b361c1cf1e62,Where are you when an employee brings you cooked potatoes?,potatoes,"['bathroom', 'cellar', 'countryside', 'restaurant', 'plate']",D,"A: bathroom
+B: cellar
+C: countryside
+D: restaurant
+E: plate",restaurant,"['', 'cellar', 'countryside', 'restaurant', 'plate']",['bathroom'],"Question: Where are you when an employee brings you cooked potatoes?
+Answer:
+A: 
+B: cellar
+C: countryside
+D: restaurant
+E: plate",Where are you when an () brings you cooked potatoes?,employee,"['cooked potatoes', 'brings', 'cooked']","The humble spud has been a staple food in many cultures for centuries. Cooked potatoes are a versatile ingredient that can be prepared in a variety of ways, from simple boiled or mashed dishes to more elaborate recipes like potato pancakes or gnocchi. The nutritional benefits of cooked potatoes are well-documented, with a medium-sized potato providing approximately 110 calories, 2 grams of protein, and 26 grams of carbohydrates. However, it's worth noting that not all cooking methods are created equal,",,False,The answer is: Home.
+76,1970,c277775dce20e98575156b8b983c258c,"Jeremy is mastering a music scale, where should he find books on the matter?",scale,"['post office', 'music store', 'assay office', 'butcher shop', ""doctor's office""]",B,"A: post office
+B: music store
+C: assay office
+D: butcher shop
+E: doctor's office",musicstore,"['post office', 'music store', '', 'butcher shop', ""doctor's office""]",['assay office'],"Question: Jeremy is mastering a music scale, where should he find books on the matter?
+Answer:
+A: post office
+B: music store
+C: 
+D: butcher shop
+E: doctor's office","Jeremy is mastering a music scale, where should he find () on the matter?",books,"['music', 'where', 'find', 'books']","Music is a universal language that has the power to evoke emotions, create connections, and bring people together. It is a form of artistic expression that can be found in various forms, including classical, jazz, rock, pop, and many others. Music has the ability to transport us to different places and times, and it is often used as a means of self-expression and communication. Whether you are looking to find new music to listen to, or simply want to explore the world of music, there are",,False,Harmonics.
+77,861,ed4685a26e896a7a6d37e8c8f787729f,What would a person do to help someone that is not able to speak coherently?,person,"['sign language', 'complete sentence', 'drink tea', 'feel angry', 'cross street']",B,"A: sign language
+B: complete sentence
+C: drink tea
+D: feel angry
+E: cross street",completesentence,"['sign language', 'complete sentence', '', 'feel angry', 'cross street']",['drink tea'],"Question: What would a person do to help someone that is not able to speak coherently?
+Answer:
+A: sign language
+B: complete sentence
+C: 
+D: feel angry
+E: cross street",What would a () do to help someone that is not able to speak coherently?,person,"['person', 'speak', 'coherently']","The ability to speak coherently is a fundamental skill that is essential for effective communication. When a person is able to speak coherently, they can convey their thoughts, ideas, and opinions in a clear and organized manner. This skill is crucial in various aspects of life, including personal relationships, professional settings, and public speaking. A person who can speak coherently is more likely to be understood and respected by others, which can lead to stronger relationships and greater success in their endeavors.
+
+In",,False,"Listen. Reply
+The final answer is: Listen."
+78,7900,e5dcb0e9ce9d020ff021e6892885292a,What would you put a spoon into after you finish eating?,spoon,"['dishwasher', 'bowl of soup', 'washing machine', 'serving dish', 'dinner']",A,"A: dishwasher
+B: bowl of soup
+C: washing machine
+D: serving dish
+E: dinner",dishwasher,"['dishwasher', 'bowl of soup', '', 'serving dish', 'dinner']",['washing machine'],"Question: What would you put a spoon into after you finish eating?
+Answer:
+A: dishwasher
+B: bowl of soup
+C: 
+D: serving dish
+E: dinner",What would you put a () into after you finish eating?,spoon,"['put', 'spoon']","The art of cooking is a delicate balance of flavors, textures, and presentation. One of the most essential tools in any kitchen is the humble spoon. A spoon is a versatile utensil that can be used for a variety of tasks, from stirring and scooping to serving and tasting. Whether you're a seasoned chef or a novice cook, a spoon is an indispensable companion in the kitchen.
+
+      When it comes to putting food on a plate, a spoon is often the first utensil that comes to",,False,The best answer is: Toothbrush.
+79,5156,cd9ee2d4be94cf10c244eebc689b8f77,Where does something get weighed on a scale in order to determine a price?,scale,"['music store', 'bathroom', 'post office', 'craft store', ""doctor's office""]",C,"A: music store
+B: bathroom
+C: post office
+D: craft store
+E: doctor's office",postoffice,"['music store', 'bathroom', 'post office', 'craft store', '']","[""doctor's office""]","Question: Where does something get weighed on a scale in order to determine a price?
+Answer:
+A: music store
+B: bathroom
+C: post office
+D: craft store
+E: ",Where does something get weighed on a scale in () to determine a price?,order,"['weighed', 'determine', 'price']","The decision to invest in a new piece of equipment for a business can be a complex one, as it involves weighing the potential benefits against the costs. One of the key factors to consider is the price of the equipment, as it can have a significant impact on the overall profitability of the business. However, the price is not the only consideration, as the decision to invest in new equipment can also have a significant impact on the business's ability to determine its future growth and success. Weighing the",,False,Answer:
+80,5866,dce47167b8dab9cf3ef1834e2b1e88dd,If the though of performing makes you anxious what do you suffer from?,performing,"['being appreciated', 'get attention', 'terror', 'stage fright', 'fear']",D,"A: being appreciated
+B: get attention
+C: terror
+D: stage fright
+E: fear",stagefright,"['being appreciated', '', 'terror', 'stage fright', 'fear']",['get attention'],"Question: If the though of performing makes you anxious what do you suffer from?
+Answer:
+A: being appreciated
+B: 
+C: terror
+D: stage fright
+E: fear",If the though of performing makes you () what do you suffer from?,anxious,"['anxious', 'suffer']","The concept of anxiety is a complex and multifaceted one, encompassing a range of emotions and experiences that can vary greatly from person to person. Anxiety can manifest in different ways, from mild feelings of nervousness to debilitating and debilitating conditions such as generalized anxiety disorder. Those who suffer from anxiety may experience a range of symptoms, including feelings of worry, fear, and apprehension, as well as physical symptoms such as rapid heartbeat, sweating, and trembling. Anxiety can also have a significant impact on",,False,Anxiety.
+81,3477,63ecae5ec728ad57ab0907229484fdd5,What is a reason to pay your television bill?,television,"['informative', 'dead', 'legal', 'entertaining', 'obsolete']",C,"A: informative
+B: dead
+C: legal
+D: entertaining
+E: obsolete",legal,"['informative', 'dead', 'legal', '', 'obsolete']",['entertaining'],"Question: What is a reason to pay your television bill?
+Answer:
+A: informative
+B: dead
+C: legal
+D: 
+E: obsolete",What is a () to pay your television bill?,reason,"['television bill', 'pay']","Paying your television bill on time is crucial to avoid late fees and penalties. A television bill is a monthly or quarterly payment made to a television service provider, such as a cable or satellite TV company, to access their programming and services. The bill typically includes the cost of the service, any additional features or channels, and any applicable taxes or fees. To pay your television bill, you can usually pay online, by phone, or in person at a local payment center. Some television service providers also",,False,Cash.
+82,9658,19eee9caa52e736b12c192071c4046f3,"If a couple is having financial issues, buying products can lead to what?",buying products,"['economic boom', 'being able to use', 'disagreements', 'spending money', 'joy']",C,"A: economic boom
+B: being able to use
+C: disagreements
+D: spending money
+E: joy",disagreements,"['economic boom', 'being able to use', 'disagreements', 'spending money', '']",['joy'],"Question: If a couple is having financial issues, buying products can lead to what?
+Answer:
+A: economic boom
+B: being able to use
+C: disagreements
+D: spending money
+E: ","If a () is having financial issues, buying products can lead to what?",couple,"['having', 'issues', 'buying', 'products']","The company has been having issues with its supply chain management, which has resulted in stockouts and delays in delivering products to customers. In an effort to address these issues, the company has decided to buy a new inventory management system that will help streamline the process and improve efficiency. The new system will enable the company to better track inventory levels, automate ordering processes, and provide real-time updates to customers. By implementing this new system, the company aims to reduce stockouts, improve delivery times, and increase",,False,Debt.
+83,505,15c68e50e58319ae935c8076cdaf48d3,"After the guilty verdict in the killing the judge gave a speech, he told the murderer he was pure what?",killing,"['wrong', 'death of', 'bad', 'negative', 'evil']",E,"A: wrong
+B: death of
+C: bad
+D: negative
+E: evil",evil,"['wrong', 'death of', 'bad', '', 'evil']",['negative'],"Question: After the guilty verdict in the killing the judge gave a speech, he told the murderer he was pure what?
+Answer:
+A: wrong
+B: death of
+C: bad
+D: 
+E: evil","After the guilty verdict in the killing the judge gave a (), he told the murderer he was pure what?",speech,"['pure what', 'guilty', 'judge', 'gave', 'speech']","The judge gave a speech to the jury, emphasizing the importance of a fair trial. He stated that the defendant was not guilty of the crime, but the prosecution had provided sufficient evidence to prove their case. The judge also highlighted the significance of the defendant's pure intentions, which were not tainted by any malicious intent. The jury was instructed to carefully consider the evidence and weigh the credibility of the witnesses. The judge concluded by emphasizing the importance of upholding the law and ensuring that justice is served. The",,False,Innocent.
+84,1485,08635abd9b1b2fbe1bd3a23f03ceff63,"Matt had issues controlling his anger, what did he do when someone set him off?",anger,"['destroy enemy', 'punch', 'cool off', 'write letter', 'illustrate point']",B,"A: destroy enemy
+B: punch
+C: cool off
+D: write letter
+E: illustrate point",punch,"['destroy enemy', 'punch', '', 'write letter', 'illustrate point']",['cool off'],"Question: Matt had issues controlling his anger, what did he do when someone set him off?
+Answer:
+A: destroy enemy
+B: punch
+C: 
+D: write letter
+E: illustrate point","Matt had () controlling his anger, what did he do when someone set him off?",issues,"['Matt', 'had', 'controlling', 'when']","When Matt had a chance to reflect on his life, he realized that he had been living in a state of emotional numbness. He had been so focused on his career and other responsibilities that he had neglected his own emotional well-being. This realization came to him when he was going through a difficult time, and he had to confront the fact that he had been controlling his emotions, suppressing his feelings, and avoiding intimacy with others. Matt had been using his work as a way to cope with his emotions",,False,"Calmly. Reply
+The answer is: Breathe."
+85,1690,5cd7f44bbf730dfae5ef2a362d2e5149,What can help you with an illness?,illness,"['elderly person', 'sick person', 'hospital', ""doctor's office"", 'stomach']",D,"A: elderly person
+B: sick person
+C: hospital
+D: doctor's office
+E: stomach",doctor'soffice,"['elderly person', '', 'hospital', ""doctor's office"", 'stomach']",['sick person'],"Question: What can help you with an illness?
+Answer:
+A: elderly person
+B: 
+C: hospital
+D: doctor's office
+E: stomach",What can help you with an ()?,illness,"['help', 'illness']","The concept of help is multifaceted and can be understood in various ways. At its core, help is an act of assistance or support that is provided to someone in need. This can take many forms, from physical aid to emotional support, and can be offered by individuals, organizations, or institutions. In the context of health and wellness, help can be particularly crucial in addressing illnesses and promoting recovery. When someone is ill, they often require assistance with daily tasks, such as managing their condition,",,False,Answer:
+86,297,390eef19c5f2b7fbd42f56cf036e1fd3,Where will a bullet projectile be found during a war?,projectile,"['battle field', 'museum', 'weapon', 'canon', 'tornado']",A,"A: battle field
+B: museum
+C: weapon
+D: canon
+E: tornado",battlefield,"['battle field', 'museum', 'weapon', '', 'tornado']",['canon'],"Question: Where will a bullet projectile be found during a war?
+Answer:
+A: battle field
+B: museum
+C: weapon
+D: 
+E: tornado",Where will a bullet () be found during a war?,projectile,"['Where', 'bullet', 'found']","The concept of ""Where"" is a fundamental question in philosophy, particularly in the context of metaphysics and epistemology. It is a question that has puzzled philosophers for centuries, and its answer has far-reaching implications for our understanding of reality, knowledge, and existence. In essence, ""Where"" is a question that seeks to identify the location or position of something in space and time.
+
+In the context of metaphysics, the concept of ""Where"" is closely tied to the idea of substance and",,False,Iraq.
+87,4977,bf1116612abf1a5948e2e3ba94bff3ae,"She was playing violin with the hope of recording it someday, what did she want to do with her talent?",play violin,"['calluses', 'playing wrong note', 'audition', 'making music', 'read music']",D,"A: calluses
+B: playing wrong note
+C: audition
+D: making music
+E: read music",makingmusic,"['calluses', '', 'audition', 'making music', 'read music']",['playing wrong note'],"Question: She was playing violin with the hope of recording it someday, what did she want to do with her talent?
+Answer:
+A: calluses
+B: 
+C: audition
+D: making music
+E: read music","She was playing violin with the hope of recording it someday, what did she want to do with her ()?",talent,"['playing', 'hope', 'recording', 'someday']","The concept of playing music is deeply rooted in the human experience, evoking emotions and fostering a sense of hope. For many, playing an instrument is a source of comfort, joy, and relaxation. The act of playing music can be a therapeutic outlet, allowing individuals to express themselves and convey their emotions in a unique and powerful way. Whether it's a solo performance or a group ensemble, playing music has the ability to bring people together, creating a sense of community and shared experience. As someone who",Relevent Info,True,Success.
+88,47,c428412a660f34965772a7389ce58e0a,What might be the result of a season of successful skiing?,skiing,"['finish line', 'broken bones', 'broken legs', 'chapped lips', 'healthy body']",E,"A: finish line
+B: broken bones
+C: broken legs
+D: chapped lips
+E: healthy body",healthybody,"['finish line', '', 'broken legs', 'chapped lips', 'healthy body']",['broken bones'],"Question: What might be the result of a season of successful skiing?
+Answer:
+A: finish line
+B: 
+C: broken legs
+D: chapped lips
+E: healthy body",What might be the () of a season of successful skiing?,result,"['season', 'successful']","The new restaurant in town, ""Taste Quest,"" has been open for a few months now, and it's been a huge success. The restaurant's unique blend of international flavors and cozy atmosphere has attracted a loyal customer base. As the seasons change, the restaurant's menu is updated to reflect the freshest ingredients available. In the spring, the menu features lighter dishes with a focus on fresh vegetables and herbs. Summer brings a variety of grilled meats and seafood options, while autumn offers hearty, comforting",,False,Answer:
+89,1086,bd9b81f43baf042635fee3b20c98e705,"Working in the vegetable garden everyday is good for you, you get to spend time where?",vegetable garden,"['backyard', 'outside', 'amusement park', 'eating', 'back yard']",B,"A: backyard
+B: outside
+C: amusement park
+D: eating
+E: back yard",outside,"['backyard', 'outside', 'amusement park', '', 'back yard']",['eating'],"Question: Working in the vegetable garden everyday is good for you, you get to spend time where?
+Answer:
+A: backyard
+B: outside
+C: amusement park
+D: 
+E: back yard","Working in the vegetable () everyday is good for you, you get to spend time where?",garden,"['vegetable garden', 'Working', 'garden', 'get', 'where']",Starting a Vegetable Garden: A Guide to Getting Started,,False,The answer is: Garden.
+90,726,a1b81a0188d5ee00088a166e3aea5446,What type of water transportation is human powered?,human,"['turn away', 'let down', 'have to sleep', 'run', 'row boat']",E,"A: turn away
+B: let down
+C: have to sleep
+D: run
+E: row boat",rowboat,"['turn away', '', 'have to sleep', 'run', 'row boat']",['let down'],"Question: What type of water transportation is human powered?
+Answer:
+A: turn away
+B: 
+C: have to sleep
+D: run
+E: row boat",What type of water () is human powered?,transportation,"['water transportation', 'human', 'powered']","Water transportation refers to the movement of people or goods by water. It involves the use of various types of vessels, such as ships, boats, and ferries, to transport goods and people across rivers, lakes, and oceans. Water transportation is an essential mode of transportation, especially in coastal regions where it provides a convenient and efficient way to move goods and people.
+
+In the context of human-powered water transportation, the focus is on using human energy to propel vessels through the water. This can be achieved",Relevent Info,True,Freshwater.
+91,3418,144d734404d15d00e048ec209eb8ed92,"If you saw a fish break the surface of the water and flap its fins in the air, you might think it is doing what?",fish,"['school together', 'pets', 'attempt to fly', 'find food', 'hatred']",C,"A: school together
+B: pets
+C: attempt to fly
+D: find food
+E: hatred",attempttofly,"['', 'pets', 'attempt to fly', 'find food', 'hatred']",['school together'],"Question: If you saw a fish break the surface of the water and flap its fins in the air, you might think it is doing what?
+Answer:
+A: 
+B: pets
+C: attempt to fly
+D: find food
+E: hatred","If you saw a () break the surface of the water and flap its fins in the air, you might think it is doing what?",fish,"['break', 'surface', 'flap', 'think', 'doing']","The concept of breaking through to a new surface or level of understanding is a common theme in various fields, including psychology, philosophy, and personal development. This process of breaking through can be likened to a flap in a bird's wing, where the bird must spread its wings and take flight to reach new heights. In psychology, this concept is often referred to as ""breaking through"" or ""reaching a new level of consciousness."" It involves overcoming obstacles and challenges to gain a deeper understanding of oneself",,False,Diving
+92,1039,f85b6ec6ad784b0664935f21877003cd,Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along?,computer user,"['school', 'hell', 'internet cafe', 'office building', 'despair']",C,"A: school
+B: hell
+C: internet cafe
+D: office building
+E: despair",internetcafe,"['school', 'hell', 'internet cafe', '', 'despair']",['office building'],"Question: Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along?
+Answer:
+A: school
+B: hell
+C: internet cafe
+D: 
+E: despair",Where might you find a computer () that is visiting a foreign city and didn't bring their own computer along?,user,"['Where', 'find', 'user', 'foreign', 'city', 'own']","Context: A tourist is planning a trip to a foreign city and is looking for a place to stay. The tourist has heard that the city has a unique and vibrant downtown area, but is having trouble finding the best location to stay. The tourist is looking for a place that is convenient for getting around the city, has easy access to public transportation, and is within walking distance to popular attractions. The tourist is also looking for a place that is safe and has a good reputation among locals and visitors alike",,False,Laptop.
+93,1974,0abf342a1e79ad512937a194474480ed,When you're getting drunk and stumbling what might you be feeling?,getting drunk,"['stumbling', 'nausea', 'fights', 'death', 'your head hit the ground']",B,"A: stumbling
+B: nausea
+C: fights
+D: death
+E: your head hit the ground",nausea,"['stumbling', 'nausea', 'fights', 'death', '']",['your head hit the ground'],"Question: When you're getting drunk and stumbling what might you be feeling?
+Answer:
+A: stumbling
+B: nausea
+C: fights
+D: death
+E: ",When you're getting () and stumbling what might you be feeling?,drunk,"['drunk', 'feeling']","The effects of being drunk can be both physical and emotional. Physically, being drunk can lead to impaired judgment, coordination, and reaction time, which can increase the risk of accidents and injuries. Emotionally, being drunk can lead to feelings of vulnerability, anxiety, and depression. Some people may feel a sense of euphoria or relaxation, but this can quickly turn into feelings of regret and guilt. The emotional impact of being drunk can be particularly challenging for those who have experienced trauma or have a",,False,Excitement.
+94,4723,28a6d37816be84e77ac79bef5a12b433,"The man was sick of secular consumerism, what life did he seek instead?",secular,"['eternal', 'married life', 'religious', 'monastic', 'unpredictable']",D,"A: eternal
+B: married life
+C: religious
+D: monastic
+E: unpredictable",monastic,"['eternal', 'married life', '', 'monastic', 'unpredictable']",['religious'],"Question: The man was sick of secular consumerism, what life did he seek instead?
+Answer:
+A: eternal
+B: married life
+C: 
+D: monastic
+E: unpredictable","The man was sick of secular consumerism, what () did he seek instead?",life,"['sick', 'consumerism', 'life', 'seek']","The phrase ""sick"" has multiple meanings depending on the context. In a medical context, it refers to a state of being unwell or diseased. However, in a cultural context, ""sick"" can also mean something that is cool or impressive, often used to describe music, fashion, or art. This dual meaning can lead to confusion and misinterpretation, especially when discussing sensitive topics like health and wellness.
+
+In the context of consumerism, the term ""sick"" can",,False,Nirvana
+95,4263,18c43c58a0e0472084ad630d4d0c1093,Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?,relaxing,"['feeling good', 'deep breathing', 'sleeping', 'taking a bath', 'fall asleep']",B,"A: feeling good
+B: deep breathing
+C: sleeping
+D: taking a bath
+E: fall asleep",deepbreathing,"['feeling good', 'deep breathing', '', 'taking a bath', 'fall asleep']",['sleeping'],"Question: Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?
+Answer:
+A: feeling good
+B: deep breathing
+C: 
+D: taking a bath
+E: fall asleep",Joe learned some relaxing exercises from his therapist.  They all centered around what () of action?,sort,"['Joe', 'relaxing', 'exercises', 'sort']","Joe is a 35-year-old man who has been feeling stressed and overwhelmed by his busy lifestyle. He has been working long hours and has been neglecting his physical and mental health. As a result, he has been experiencing anxiety and fatigue. To address these issues, Joe has decided to prioritize his health and wellness by incorporating relaxing exercises into his daily routine.
+
+      Joe has started by taking short breaks throughout the day to practice deep breathing exercises and meditation. These activities have helped him to calm his mind",Relevent Info,True,Relaxation.
+96,7001,80138b9cea63d347acdacdba0c5ed16b,James turned on his computer and the monitor lit on the room.  What might his body do as he stands there?,computer,"['see a ghost', 'become sensible', 'make decisions', 'crash', 'cast shadow']",E,"A: see a ghost
+B: become sensible
+C: make decisions
+D: crash
+E: cast shadow",castshadow,"['', 'become sensible', 'make decisions', 'crash', 'cast shadow']",['see a ghost'],"Question: James turned on his computer and the monitor lit on the room.  What might his body do as he stands there?
+Answer:
+A: 
+B: become sensible
+C: make decisions
+D: crash
+E: cast shadow",James turned on his () and the monitor lit on the room.  What might his body do as he stands there?,computer,"['James', 'lit', 'room', 'stands', 'there']","The story of James, the brother of Jesus, is a fascinating one. According to the New Testament, James was a leader in the early Christian church and was martyred in Jerusalem around 62 AD. The story of James is often lit by the light of his faith, which stood strong even in the face of persecution. In the room where he was imprisoned, James stood firm in his beliefs, refusing to renounce his faith even when faced with the threat of death. There, in the darkness",,False,Slumped.
+97,6268,d683040f7fb16669504f36845cee5cae,If an insurance adjuster finds your claim incorrect they will do what?,claim,"['forgive', 'disown reject', 'relinquish', 'deny', 'give back']",D,"A: forgive
+B: disown reject
+C: relinquish
+D: deny
+E: give back",deny,"['forgive', 'disown reject', 'relinquish', 'deny', '']",['give back'],"Question: If an insurance adjuster finds your claim incorrect they will do what?
+Answer:
+A: forgive
+B: disown reject
+C: relinquish
+D: deny
+E: ",If an () adjuster finds your claim incorrect they will do what?,insurance,"['insurance adjuster', 'adjuster', 'claim']","Insurance adjuster is a professional who investigates and settles insurance claims. They are responsible for determining the extent of damage or loss, assessing the value of the claim, and negotiating with the policyholder and other parties involved to reach a fair settlement. Insurance adjusters work for insurance companies, and their primary goal is to minimize the financial impact of a claim on the insurance company while ensuring that the policyholder receives fair compensation for their losses.
+
+In this context, an adjuster is a person who is authorized to",,False,Appeal.
+98,2989,fe780c1e09eb8ddeace179db3b3667fa,Bill loved riding his bike and did it all the time.  He had trouble going up hills and sometimes pushed himself to the point of what?,riding bike,"['falling down', 'give up', 'exhaustion', 'travelling', 'going somewhere']",C,"A: falling down
+B: give up
+C: exhaustion
+D: travelling
+E: going somewhere",exhaustion,"['falling down', '', 'exhaustion', 'travelling', 'going somewhere']",['give up'],"Question: Bill loved riding his bike and did it all the time.  He had trouble going up hills and sometimes pushed himself to the point of what?
+Answer:
+A: falling down
+B: 
+C: exhaustion
+D: travelling
+E: going somewhere",Bill loved riding his bike and did it all the ().  He had trouble going up hills and some()s pushed himself to the point of what?,time,"['loved', 'going', 'hills', 'sometimes', 'pushed', 'point']","The hills of life can be a challenging terrain to navigate, but with the right mindset and support, one can overcome the obstacles and reach the summit. Sometimes, it takes a loved one to push us to our limits, to make us realize our true potential and capabilities. This can be a difficult experience, but it can also be a transformative one, helping us to grow and develop as individuals. Going through this process can be tough, but it's worth it in the end, as it allows us",,False,1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33.
+99,3262,4940cfa669ed367ebdb9c4143cf5d60e,"After I urinate and flush the toilet and wash my hands, what should I do next?",urinate,"['flush toilet', 'dry hands', 'zip pants', 'eat', 'wash hands']",D,"A: flush toilet
+B: dry hands
+C: zip pants
+D: eat
+E: wash hands",eat,"['flush toilet', 'dry hands', '', 'eat', 'wash hands']",['zip pants'],"Question: After I urinate and flush the toilet and wash my hands, what should I do next?
+Answer:
+A: flush toilet
+B: dry hands
+C: 
+D: eat
+E: wash hands","After I urinate and flush the () and wash my hands, what should I do next?",toilet,"['urinate', 'wash', 'do']","The importance of proper hygiene practices, particularly when it comes to urinating and washing, cannot be overstated. When it comes to urinating, it is essential to do so in a clean and private environment to prevent the spread of infections and diseases. This can be achieved by washing your hands thoroughly before and after urinating, as well as using a clean and well-maintained toilet. Furthermore, it is crucial to do so in a manner that is respectful to others, such as avoiding loud noises",,False,"Reply in the 24 point font size.<font size=""24"">Clean</font>"

@@ -1,0 +1,1101 @@
+,Unnamed: 0,id,question,question_concept,choices,answerKey,answer_options_formatted,answer,choices_copy,masked_options,question_answer,masked_question,masked_word_answer
+0,8773,37eb54ff6dcbbdb70d12b7e5a1dab9e3,"Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?",feet,"['shoes', 'stay still', 'hands', 'walk', 'stink']",B,"A: shoes
+B: stay still
+C: hands
+D: walk
+E: stink",staystill,"['shoes', 'stay still', '', 'walk', 'stink']",['hands'],"Question: Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a problem, because she was told to do what?
+Answer:
+A: shoes
+B: stay still
+C: 
+D: walk
+E: stink","Miranda wasn't sure about what she was doing, she just knew that she couldn't stop moving her smelly feet. This was a (), because she was told to do what?",problem
+1,6125,5abe81200fb6d4d0ff7f1d9862116292,"The police busted down his door, he realized only then he was just the pawn in his partner's grander what?",pawn,"['scheme', 'chess game', 'chess set', 'business idea', 'playing chess']",A,"A: scheme
+B: chess game
+C: chess set
+D: business idea
+E: playing chess",scheme,"['scheme', 'chess game', 'chess set', 'business idea', '']",['playing chess'],"Question: The police busted down his door, he realized only then he was just the pawn in his partner's grander what?
+Answer:
+A: scheme
+B: chess game
+C: chess set
+D: business idea
+E: ","The police busted down his (), he realized only then he was just the pawn in his partner's grander what?",door
+2,8387,391027d47b89cc2fd2017a865f99ccec,What kind of wine list can I expect to see in Paris?,wine list,"['restaurant', 'french', 'boston', 'canadian', 'resturant']",B,"A: restaurant
+B: french
+C: boston
+D: canadian
+E: resturant",french,"['restaurant', 'french', 'boston', 'canadian', '']",['resturant'],"Question: What kind of wine list can I expect to see in Paris?
+Answer:
+A: restaurant
+B: french
+C: boston
+D: canadian
+E: ",What () of wine list can I expect to see in Paris?,kind
+3,7151,246fa25105a6893de75b0016a830a183,What performance is expected of a student in school sessions?,student,"['michigan', 'pass course', 'better grade', 'ask questions', 'study history']",B,"A: michigan
+B: pass course
+C: better grade
+D: ask questions
+E: study history",passcourse,"['michigan', 'pass course', 'better grade', 'ask questions', '']",['study history'],"Question: What performance is expected of a student in school sessions?
+Answer:
+A: michigan
+B: pass course
+C: better grade
+D: ask questions
+E: ",What () is expected of a student in school sessions?,performance
+4,9605,720f00ce6f63996210e40d6ed37a1653,"The man was crass and rude, all the what in the office filed a complaint together?",man,"['lady', 'wifes husband', 'women', 'her', 'female person']",C,"A: lady
+B: wifes husband
+C: women
+D: her
+E: female person",women,"['lady', 'wifes husband', 'women', 'her', '']",['female person'],"Question: The man was crass and rude, all the what in the office filed a complaint together?
+Answer:
+A: lady
+B: wifes husband
+C: women
+D: her
+E: ","The () was crass and rude, all the what in the office filed a complaint together?",man
+5,324,2712fa7029d5a0d3325792eb0ab4bda1,If a human is sleepy what can they do to feel more alert?,human,"['dream dreams', 'think critically', 'cross road', 'drink coffee', 'drive a car']",D,"A: dream dreams
+B: think critically
+C: cross road
+D: drink coffee
+E: drive a car",drinkcoffee,"['dream dreams', '', 'cross road', 'drink coffee', 'drive a car']",['think critically'],"Question: If a human is sleepy what can they do to feel more alert?
+Answer:
+A: dream dreams
+B: 
+C: cross road
+D: drink coffee
+E: drive a car",If a human is sleepy what can they do to feel more ()?,alert
+6,7205,b6a2c0d1f8e0d032f65580d1a0960078,"When a person is convicted of committing murder, what happend to them?",committing murder,"['go to jail', 'imprisonment', 'sadness', 'prosecution', 'incarceration']",E,"A: go to jail
+B: imprisonment
+C: sadness
+D: prosecution
+E: incarceration",incarceration,"['go to jail', 'imprisonment', 'sadness', '', 'incarceration']",['prosecution'],"Question: When a person is convicted of committing murder, what happend to them?
+Answer:
+A: go to jail
+B: imprisonment
+C: sadness
+D: 
+E: incarceration","When a () is convicted of committing murder, what happend to them?",person
+7,5142,47f102575469628bf3ab688dfaf3938a,What is the hope of going fishing?,fishing,"['getting food', 'wet clothes', 'getting drunk', 'catching fish', 'wetness']",D,"A: getting food
+B: wet clothes
+C: getting drunk
+D: catching fish
+E: wetness",catchingfish,"['', 'wet clothes', 'getting drunk', 'catching fish', 'wetness']",['getting food'],"Question: What is the hope of going fishing?
+Answer:
+A: 
+B: wet clothes
+C: getting drunk
+D: catching fish
+E: wetness",What is the hope of going ()?,fishing
+8,6009,3498dae098e748ef3c2c3894896d16ac,What does reading letters produce when one is unaware of a condition?,reading letter,"['laughter', 'strain', 'realization', 'enlightenment', 'happiness']",C,"A: laughter
+B: strain
+C: realization
+D: enlightenment
+E: happiness",realization,"['laughter', '', 'realization', 'enlightenment', 'happiness']",['strain'],"Question: What does reading letters produce when one is unaware of a condition?
+Answer:
+A: laughter
+B: 
+C: realization
+D: enlightenment
+E: happiness",What does reading letters produce when one is unaware of a ()?,condition
+9,1887,b9c088cfe0e2c07886896d922ce7c698,Everyone is ordinary but we are often told we are what?,ordinary,"['unbelievable', 'strange', 'special', 'ugly', 'exceptional']",C,"A: unbelievable
+B: strange
+C: special
+D: ugly
+E: exceptional",special,"['unbelievable', '', 'special', 'ugly', 'exceptional']",['strange'],"Question: Everyone is ordinary but we are often told we are what?
+Answer:
+A: unbelievable
+B: 
+C: special
+D: ugly
+E: exceptional",Everyone is () but we are often told we are what?,ordinary
+10,1507,98f35feb6c39efba204fa9d9d1a73dc3,"If there are people watching a priest, what is he doing?",priest,"['on trial', 'drink coffee', 'believe in god', 'baptise', 'say mass']",E,"A: on trial
+B: drink coffee
+C: believe in god
+D: baptise
+E: say mass",saymass,"['on trial', 'drink coffee', 'believe in god', '', 'say mass']",['baptise'],"Question: If there are people watching a priest, what is he doing?
+Answer:
+A: on trial
+B: drink coffee
+C: believe in god
+D: 
+E: say mass","If there are () watching a priest, what is he doing?",people
+11,6271,587bdd8fd449cc518452f6b8d52b16e1,What old models are likely to be made of wood?,wood,"['car', 'tree', 'hardware store', 'lumberyard', 'boat']",E,"A: car
+B: tree
+C: hardware store
+D: lumberyard
+E: boat",boat,"['car', '', 'hardware store', 'lumberyard', 'boat']",['tree'],"Question: What old models are likely to be made of wood?
+Answer:
+A: car
+B: 
+C: hardware store
+D: lumberyard
+E: boat",What old models are likely to be made of ()?,wood
+12,4224,9a3a2184e24740ffb5067ac25ecd6963,"If an apple tree were in the North, where would it be?",apple tree,"['alaska', 'farm yard', 'park', 'flowers', 'new jersey']",E,"A: alaska
+B: farm yard
+C: park
+D: flowers
+E: new jersey",newjersey,"['alaska', '', 'park', 'flowers', 'new jersey']",['farm yard'],"Question: If an apple tree were in the North, where would it be?
+Answer:
+A: alaska
+B: 
+C: park
+D: flowers
+E: new jersey","If an apple () were in the North, where would it be?",tree
+13,4332,3c67815352fec6a0fdf7656ccb5b5fd5,"The bald eagle has been a protected species, this is in part due to a dwindling what?",bald eagle,"['nest', 'everglades', 'high places', 'in washington', 'natural habitat']",E,"A: nest
+B: everglades
+C: high places
+D: in washington
+E: natural habitat",naturalhabitat,"['nest', 'everglades', 'high places', 'in washington', '']",['natural habitat'],"Question: The bald eagle has been a protected species, this is in part due to a dwindling what?
+Answer:
+A: nest
+B: everglades
+C: high places
+D: in washington
+E: ","The bald eagle has been a protected species, this is in () due to a dwindling what?",part
+14,172,e99da2b1d9ec4be89c2b42407aa5a15f,What could you add a line to?,line,"['bus stop', 'graph', 'post office', 'grass', 'play']",B,"A: bus stop
+B: graph
+C: post office
+D: grass
+E: play",graph,"['bus stop', 'graph', '', 'grass', 'play']",['post office'],"Question: What could you add a line to?
+Answer:
+A: bus stop
+B: graph
+C: 
+D: grass
+E: play",What could you add a () to?,line
+15,6039,557237ba0b61f9a69ec696bdbb00743d,Going in an air conditioned room to cool off is a good way to get what from hot weather?,cool off,"['rest', 'go swimming', 'relief', 'calm down', 'change']",C,"A: rest
+B: go swimming
+C: relief
+D: calm down
+E: change",relief,"['rest', 'go swimming', 'relief', 'calm down', '']",['change'],"Question: Going in an air conditioned room to cool off is a good way to get what from hot weather?
+Answer:
+A: rest
+B: go swimming
+C: relief
+D: calm down
+E: ",Going in an air conditioned room to cool off is a good () to get what from hot weather?,way
+16,7233,91ffbe8c9cbcaa04e4ed41ba2d8f998f,Where might a snake drop from?,snake,"['tree', 'pet shops', 'feild', 'tropical forest', 'cage']",A,"A: tree
+B: pet shops
+C: feild
+D: tropical forest
+E: cage",tree,"['tree', 'pet shops', 'feild', '', 'cage']",['tropical forest'],"Question: Where might a snake drop from?
+Answer:
+A: tree
+B: pet shops
+C: feild
+D: 
+E: cage",Where might a () drop from?,snake
+17,5643,120a6af76efd75ec095c053287a6c937,"Sam treasured his freedom.  When he became a POW, he tried to escape from what?",freedom,"['communism', 'oppression', 'slavery', 'bad marriage', 'captivity']",E,"A: communism
+B: oppression
+C: slavery
+D: bad marriage
+E: captivity",captivity,"['communism', 'oppression', 'slavery', 'bad marriage', '']",['captivity'],"Question: Sam treasured his freedom.  When he became a POW, he tried to escape from what?
+Answer:
+A: communism
+B: oppression
+C: slavery
+D: bad marriage
+E: ","Sam treasured his freedom.  When he became a (), he tried to escape from what?",POW
+18,236,c3b6280d05a9f9c5b031fcbeaa0ce695,"Though nearby, an apple from an apple tree where would be an imported product to the USA?",apple tree,"['ohio', 'washington state', 'alaska', 'canada', 'flowers']",D,"A: ohio
+B: washington state
+C: alaska
+D: canada
+E: flowers",canada,"['ohio', '', 'alaska', 'canada', 'flowers']",['washington state'],"Question: Though nearby, an apple from an apple tree where would be an imported product to the USA?
+Answer:
+A: ohio
+B: 
+C: alaska
+D: canada
+E: flowers","Though nearby, an () from an () tree where would be an imported product to the USA?",apple
+19,3350,daf313b39a95084a099ea8706f803061,"If a cottage is above the cloud line, where is it?",cottage,"['village', 'rural area', 'mountains', 'fairy story', 'valley']",C,"A: village
+B: rural area
+C: mountains
+D: fairy story
+E: valley",mountains,"['village', '', 'mountains', 'fairy story', 'valley']",['rural area'],"Question: If a cottage is above the cloud line, where is it?
+Answer:
+A: village
+B: 
+C: mountains
+D: fairy story
+E: valley","If a cottage is above the () line, where is it?",cloud
+20,5254,bfaff48744a77de1fd5e91f809d86656,What do most people hope to achieve when playing sports?,playing sports,"['an mbe', 'running', 'winning', 'have fun', 'cheat']",C,"A: an mbe
+B: running
+C: winning
+D: have fun
+E: cheat",winning,"['an mbe', '', 'winning', 'have fun', 'cheat']",['running'],"Question: What do most people hope to achieve when playing sports?
+Answer:
+A: an mbe
+B: 
+C: winning
+D: have fun
+E: cheat",What do most people hope to achieve when playing ()?,sports
+21,6087,3835b21ecc2c5c9317ea73aa57a5bc1c,When you haven't seen someone since they were young and years have passed what has happened to them?,young,"['senior', 'grow', 'mature', 'old', 'aged']",E,"A: senior
+B: grow
+C: mature
+D: old
+E: aged",aged,"['senior', 'grow', '', 'old', 'aged']",['mature'],"Question: When you haven't seen someone since they were young and years have passed what has happened to them?
+Answer:
+A: senior
+B: grow
+C: 
+D: old
+E: aged",When you haven't seen someone since they were young and () have passed what has happened to them?,years
+22,8071,cf34c4f1f58776ea0ab49b91a35ca02c,"The man wanted a new ottoman, so where did he look?",ottoman,"['basement', 'furniture store', 'decoration', 'parlor', 'couch outlet']",B,"A: basement
+B: furniture store
+C: decoration
+D: parlor
+E: couch outlet",furniturestore,"['basement', 'furniture store', 'decoration', '', 'couch outlet']",['parlor'],"Question: The man wanted a new ottoman, so where did he look?
+Answer:
+A: basement
+B: furniture store
+C: decoration
+D: 
+E: couch outlet","The man wanted a new (), so where did he look?",ottoman
+23,181,442dd2d372228b9942f55d761ef961a3,Where are there more telephone booths?,telephone booth,"['gas stations', 'city', 'london', 'train station', 'airport']",B,"A: gas stations
+B: city
+C: london
+D: train station
+E: airport",city,"['gas stations', 'city', 'london', '', 'airport']",['train station'],"Question: Where are there more telephone booths?
+Answer:
+A: gas stations
+B: city
+C: london
+D: 
+E: airport",Where are there more telephone ()?,booths
+24,1973,876a2b6510b536f4f1aac16d59ff882c,Where does a car belong?,car,"['air port', 'repair shop', 'road', 'race track', 'freeway']",C,"A: air port
+B: repair shop
+C: road
+D: race track
+E: freeway",road,"['air port', 'repair shop', 'road', '', 'freeway']",['race track'],"Question: Where does a car belong?
+Answer:
+A: air port
+B: repair shop
+C: road
+D: 
+E: freeway",Where does a () belong?,car
+25,8412,b17ba07ad5bb352166d409f33a69bbde,Where do most birds put eggs?,bird,"['nest', 'forest', 'cage', 'store', 'sky']",A,"A: nest
+B: forest
+C: cage
+D: store
+E: sky",nest,"['nest', 'forest', '', 'store', 'sky']",['cage'],"Question: Where do most birds put eggs?
+Answer:
+A: nest
+B: forest
+C: 
+D: store
+E: sky",Where do most birds put ()?,eggs
+26,8285,697879acd78b80cb873af2643294f032,"Playing tennis requires at least one opponent, a ball, and a what?",playing tennis,"['skill', 'big money', 'time', 'tennis racket', 'legs']",D,"A: skill
+B: big money
+C: time
+D: tennis racket
+E: legs",tennisracket,"['skill', '', 'time', 'tennis racket', 'legs']",['big money'],"Question: Playing tennis requires at least one opponent, a ball, and a what?
+Answer:
+A: skill
+B: 
+C: time
+D: tennis racket
+E: legs","Playing tennis requires at least one (), a ball, and a what?",opponent
+27,2983,c42d4a2a31a4442832074cd3c697a2cc,What would you be doing if you are having lunch?,having lunch,"['eating', 'hunger', 'burp', 'laughing', 'food']",A,"A: eating
+B: hunger
+C: burp
+D: laughing
+E: food",eating,"['eating', 'hunger', 'burp', 'laughing', '']",['food'],"Question: What would you be doing if you are having lunch?
+Answer:
+A: eating
+B: hunger
+C: burp
+D: laughing
+E: ",What would you be doing if you are having ()?,lunch
+28,1061,87f8bfdea382f440c65027372991fc99,A hinged door is not always found in which room of the house?,hinged door,"['jamb', 'own house', 'building', 'kitchen', 'washing machine']",D,"A: jamb
+B: own house
+C: building
+D: kitchen
+E: washing machine",kitchen,"['jamb', 'own house', '', 'kitchen', 'washing machine']",['building'],"Question: A hinged door is not always found in which room of the house?
+Answer:
+A: jamb
+B: own house
+C: 
+D: kitchen
+E: washing machine",A hinged door is not always found in which room of the ()?,house
+29,3770,d1e02be9922ae8f52cef4a7dca8fa331,Why could someone fall down after eating lunch?,eating lunch,"['drowsiness', 'late for work', 'feel full', 'lethargy', 'feel sleepy']",E,"A: drowsiness
+B: late for work
+C: feel full
+D: lethargy
+E: feel sleepy",feelsleepy,"['', 'late for work', 'feel full', 'lethargy', 'feel sleepy']",['drowsiness'],"Question: Why could someone fall down after eating lunch?
+Answer:
+A: 
+B: late for work
+C: feel full
+D: lethargy
+E: feel sleepy",Why could someone fall down after eating ()?,lunch
+30,7165,5556bf1702075d307fe639156412e042,What is the opposite of ambiguous?,ambiguous,"['clear', 'certain', 'distinct', 'blurry', 'explicit']",A,"A: clear
+B: certain
+C: distinct
+D: blurry
+E: explicit",clear,"['clear', '', 'distinct', 'blurry', 'explicit']",['certain'],"Question: What is the opposite of ambiguous?
+Answer:
+A: clear
+B: 
+C: distinct
+D: blurry
+E: explicit",What is the () of ambiguous?,opposite
+31,4446,e7fd320d1b0935f833e378f9b7aea2a9,What do people feel when something good happens?,people,"['experience joy', 'believe in god', 'sadness', 'get sick', 'ask questions']",A,"A: experience joy
+B: believe in god
+C: sadness
+D: get sick
+E: ask questions",experiencejoy,"['experience joy', 'believe in god', 'sadness', '', 'ask questions']",['get sick'],"Question: What do people feel when something good happens?
+Answer:
+A: experience joy
+B: believe in god
+C: sadness
+D: 
+E: ask questions",What do () feel when something good happens?,people
+32,6404,15a0a893bb90661d44ebe6fbc04a09d1,A modern farmer needs many skills common for who in order to manage finances and increase sales?,farmer,"['harvesting', 'business man', 'city dweller', 'farm land', 'industrial']",B,"A: harvesting
+B: business man
+C: city dweller
+D: farm land
+E: industrial",businessman,"['harvesting', 'business man', '', 'farm land', 'industrial']",['city dweller'],"Question: A modern farmer needs many skills common for who in order to manage finances and increase sales?
+Answer:
+A: harvesting
+B: business man
+C: 
+D: farm land
+E: industrial",A modern farmer needs many skills common for who in order to manage finances and increase ()?,sales
+33,9087,cf6dd9e9b603b02049f80202ef537383,Where in your office would you store a highlight that you don't use often?,highlighter,"['office supply store', 'case', 'desk drawer', 'campus book store', 'lamp']",C,"A: office supply store
+B: case
+C: desk drawer
+D: campus book store
+E: lamp",deskdrawer,"['office supply store', 'case', 'desk drawer', '', 'lamp']",['campus book store'],"Question: Where in your office would you store a highlight that you don't use often?
+Answer:
+A: office supply store
+B: case
+C: desk drawer
+D: 
+E: lamp",Where in your office would you store a () that you don't use often?,highlight
+34,2933,4adaae09787113aacf58028c3ca97948,"She loved the music so much, how did she describe it?",music,"['silent', 'express emotion', 'beautifull', 'irritate', 'quiet mind']",C,"A: silent
+B: express emotion
+C: beautifull
+D: irritate
+E: quiet mind",beautifull,"['', 'express emotion', 'beautifull', 'irritate', 'quiet mind']",['silent'],"Question: She loved the music so much, how did she describe it?
+Answer:
+A: 
+B: express emotion
+C: beautifull
+D: irritate
+E: quiet mind","She loved the () so much, how did she describe it?",music
+35,5124,9785f452c949c6db50a7162aea120437,Where would you store potato chips in their home?,chips,"['supermarket', 'toilet', 'pantry', 'bar', 'motherboard']",C,"A: supermarket
+B: toilet
+C: pantry
+D: bar
+E: motherboard",pantry,"['supermarket', '', 'pantry', 'bar', 'motherboard']",['toilet'],"Question: Where would you store potato chips in their home?
+Answer:
+A: supermarket
+B: 
+C: pantry
+D: bar
+E: motherboard",Where would you store potato chips in their ()?,home
+36,4930,c127dc0a6c2701ff59e20c7070fbce8c,Why do people want to swim in the heat?,swim,"['wear bathing suit', 'fun', 'excercise', 'cool down', 'exercise']",D,"A: wear bathing suit
+B: fun
+C: excercise
+D: cool down
+E: exercise",cooldown,"['wear bathing suit', '', 'excercise', 'cool down', 'exercise']",['fun'],"Question: Why do people want to swim in the heat?
+Answer:
+A: wear bathing suit
+B: 
+C: excercise
+D: cool down
+E: exercise",Why do () want to swim in the heat?,people
+37,1599,866deeda79fe257ffcfc08c674962894,"A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?",snake,"['nature', 'pet shop', 'georgia', 'tropical forest', 'france']",A,"A: nature
+B: pet shop
+C: georgia
+D: tropical forest
+E: france",nature,"['nature', '', 'georgia', 'tropical forest', 'france']",['pet shop'],"Question: A snake is not something you want to come across on a plane, but it's most likely to happen while out in mother what?
+Answer:
+A: nature
+B: 
+C: georgia
+D: tropical forest
+E: france","A snake is not something you want to come across on a plane, but it's most likely to happen while out in () what?",mother
+38,3246,3baeaad2a086a01163a3843487ea1039,Where is known for powerful storms from the ocean?,storm,"['rain', 'weather report', 'tropics', 'summer', 'america']",C,"A: rain
+B: weather report
+C: tropics
+D: summer
+E: america",tropics,"['rain', 'weather report', 'tropics', 'summer', '']",['america'],"Question: Where is known for powerful storms from the ocean?
+Answer:
+A: rain
+B: weather report
+C: tropics
+D: summer
+E: ",Where is known for powerful () from the ocean?,storms
+39,1879,f8172664e106f16aea64ee4fccb3e0c7,Thousands of companies and a rosebush call what place home?,rosebush,"['lawn', 'rose parade', 'backyard', 'delaware', 'planting']",D,"A: lawn
+B: rose parade
+C: backyard
+D: delaware
+E: planting",delaware,"['lawn', 'rose parade', 'backyard', 'delaware', '']",['planting'],"Question: Thousands of companies and a rosebush call what place home?
+Answer:
+A: lawn
+B: rose parade
+C: backyard
+D: delaware
+E: ",() of companies and a rosebush call what place home?,Thousands
+40,73,58c3817107e323fdd7d70c4014990626,Where could you see an advertisement while reading news?,advertisement,"['television', 'bus', 'email', 'web page', 'la ville']",D,"A: television
+B: bus
+C: email
+D: web page
+E: la ville",webpage,"['television', '', 'email', 'web page', 'la ville']",['bus'],"Question: Where could you see an advertisement while reading news?
+Answer:
+A: television
+B: 
+C: email
+D: web page
+E: la ville",Where could you see an advertisement while reading ()?,news
+41,2314,73f3f34462fc60d229b194580e7d1744,Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?,most people,"['lie', 'set table', 'think', 'read books', 'not speak']",A,"A: lie
+B: set table
+C: think
+D: read books
+E: not speak",lie,"['lie', 'set table', '', 'read books', 'not speak']",['think'],"Question: Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your brain if you want to understand.    What do most people due sometimes?
+Answer:
+A: lie
+B: set table
+C: 
+D: read books
+E: not speak",Most people won't always say what they mean.   They're twisty like that.  They want to avoid conflict. You have to use your () if you want to understand.    What do most people due sometimes?,brain
+42,1155,ee9a374176ae07c14ab7c0b2adc02b7b,"The children were going to play, the parents encouraged it hoping it resulted in what?",going to play,"['being entertained', 'spending money', 'intermission', 'weight loss', 'sleepiness']",E,"A: being entertained
+B: spending money
+C: intermission
+D: weight loss
+E: sleepiness",sleepiness,"['being entertained', 'spending money', '', 'weight loss', 'sleepiness']",['intermission'],"Question: The children were going to play, the parents encouraged it hoping it resulted in what?
+Answer:
+A: being entertained
+B: spending money
+C: 
+D: weight loss
+E: sleepiness","The children were going to play, the () encouraged it hoping it resulted in what?",parents
+43,4814,f0de70cdbcc02782af3870228ad133de,If you entire body is experiencing fatigue what would you do at the end of the day?,fatigue,"['sleep', 'sit down', 'sit on chair', 'have rest', 'lie on floor']",A,"A: sleep
+B: sit down
+C: sit on chair
+D: have rest
+E: lie on floor",sleep,"['sleep', 'sit down', 'sit on chair', '', 'lie on floor']",['have rest'],"Question: If you entire body is experiencing fatigue what would you do at the end of the day?
+Answer:
+A: sleep
+B: sit down
+C: sit on chair
+D: 
+E: lie on floor",If you entire body is experiencing fatigue what would you do at the () of the day?,end
+44,5943,9e8abd6ed99d6d0125a7a7cdbb272e1c,"if you cogitate on something for a long time, you can get this feeling?",cogitating,"['might understand', 'enjoy', 'sit comfortably', 'think about things', 'get irritated']",A,"A: might understand
+B: enjoy
+C: sit comfortably
+D: think about things
+E: get irritated",mightunderstand,"['might understand', 'enjoy', 'sit comfortably', 'think about things', '']",['get irritated'],"Question: if you cogitate on something for a long time, you can get this feeling?
+Answer:
+A: might understand
+B: enjoy
+C: sit comfortably
+D: think about things
+E: ","if you cogitate on something for a long (), you can get this feeling?",time
+45,4099,a7312907b6a6c487508ecbc8b70ff863,"After answering questions from the press for hours, what did the police chief feel?",answering questions,"['irritation', 'sadness', 'polite', 'teaching', 'detective']",A,"A: irritation
+B: sadness
+C: polite
+D: teaching
+E: detective",irritation,"['irritation', 'sadness', '', 'teaching', 'detective']",['polite'],"Question: After answering questions from the press for hours, what did the police chief feel?
+Answer:
+A: irritation
+B: sadness
+C: 
+D: teaching
+E: detective","After answering questions from the press for hours, what did the () chief feel?",police
+46,9121,221c93c7b7850d527692934dbeaf7156,"A lawyer is taking care of proposals, what are they trying to do?",taking care of proposals,"['paperwork', 'getting work done', 'results', 'finishing up', 'marriage']",B,"A: paperwork
+B: getting work done
+C: results
+D: finishing up
+E: marriage",gettingworkdone,"['paperwork', 'getting work done', 'results', 'finishing up', '']",['marriage'],"Question: A lawyer is taking care of proposals, what are they trying to do?
+Answer:
+A: paperwork
+B: getting work done
+C: results
+D: finishing up
+E: ","A lawyer is taking () of proposals, what are they trying to do?",care
+47,3866,58713467ef9b426cc1e6033bcf7bef62,"When you want to go to bed with a pretty girl and want to get warm, what do you need to do?",go to bed,"['pull up covers', 'fall asleep', 'brush teeth', 'remove the covers', 'get laid']",A,"A: pull up covers
+B: fall asleep
+C: brush teeth
+D: remove the covers
+E: get laid",pullupcovers,"['pull up covers', 'fall asleep', 'brush teeth', 'remove the covers', '']",['get laid'],"Question: When you want to go to bed with a pretty girl and want to get warm, what do you need to do?
+Answer:
+A: pull up covers
+B: fall asleep
+C: brush teeth
+D: remove the covers
+E: ","When you want to go to bed with a pretty () and want to get warm, what do you need to do?",girl
+48,1132,1154f4c7b861d66ca531bef6ec873e1c,"It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do?",commit to memory,"['make tape', 'memorize', 'never forget', 'concentrate', 'learn']",E,"A: make tape
+B: memorize
+C: never forget
+D: concentrate
+E: learn",learn,"['', 'memorize', 'never forget', 'concentrate', 'learn']",['make tape'],"Question: It is a teachers job to help students commit to memory new skills, what is the teachers main job in the classroom to help students do?
+Answer:
+A: 
+B: memorize
+C: never forget
+D: concentrate
+E: learn","It is a () job to help students commit to memory new skills, what is the () main job in the classroom to help students do?",teachers
+49,6826,79d2e1d7f876bd676a3f8abf1dd051b0,Where is aberdeen in the US located?,aberdeen,"['washington', 'europe', 'scotland', 'maryland', 'south dakota']",A,"A: washington
+B: europe
+C: scotland
+D: maryland
+E: south dakota",washington,"['washington', '', 'scotland', 'maryland', 'south dakota']",['europe'],"Question: Where is aberdeen in the US located?
+Answer:
+A: washington
+B: 
+C: scotland
+D: maryland
+E: south dakota",Where is aberdeen in the US located?,
+50,7115,c830d821e857afb10fb3895859c47557,Where do students stick gum in school?,gum,"['books', 'sidewalk', 'water fountain', 'shelf', 'movies']",C,"A: books
+B: sidewalk
+C: water fountain
+D: shelf
+E: movies",waterfountain,"['', 'sidewalk', 'water fountain', 'shelf', 'movies']",['books'],"Question: Where do students stick gum in school?
+Answer:
+A: 
+B: sidewalk
+C: water fountain
+D: shelf
+E: movies",Where do students stick () in school?,gum
+51,4878,7e51b17fac83325b74b4923607f82fce,What is a method expressing yourself while making an object of lasting beauty?,expressing yourself,"['understood', 'being slapped', 'people will understand', 'pain', 'creation of art']",E,"A: understood
+B: being slapped
+C: people will understand
+D: pain
+E: creation of art",creationofart,"['understood', 'being slapped', 'people will understand', 'pain', '']",['creation of art'],"Question: What is a method expressing yourself while making an object of lasting beauty?
+Answer:
+A: understood
+B: being slapped
+C: people will understand
+D: pain
+E: ",What is a method expressing yourself while making an object of lasting ()?,beauty
+52,2649,c41b829944815e18e945ba30f2f1ff2d,James was dedicated to contemplating things.  What did he seek?,contemplating,"['revelations', 'hesitation', 'lessons', 'new insights', 'enlightenment']",E,"A: revelations
+B: hesitation
+C: lessons
+D: new insights
+E: enlightenment",enlightenment,"['revelations', '', 'lessons', 'new insights', 'enlightenment']",['hesitation'],"Question: James was dedicated to contemplating things.  What did he seek?
+Answer:
+A: revelations
+B: 
+C: lessons
+D: new insights
+E: enlightenment",James was dedicated to contemplating ().  What did he seek?,things
+53,6642,29dbe400236f47f534b89f903dfa713b,Where could I buy some chocolate?,chocolate,"['restaurant', 'hotel', 'mouth', 'box', 'supermarket']",E,"A: restaurant
+B: hotel
+C: mouth
+D: box
+E: supermarket",supermarket,"['', 'hotel', 'mouth', 'box', 'supermarket']",['restaurant'],"Question: Where could I buy some chocolate?
+Answer:
+A: 
+B: hotel
+C: mouth
+D: box
+E: supermarket",Where could I buy some ()?,chocolate
+54,3391,2add47b0fb30af6f0c53e9e37fde334d_1,"The police saw the moving car, what did they know the suspect was doing?",moving car,"['driving', 'breathing', 'getting tired', 'ticket', 'accidents']",A,"A: driving
+B: breathing
+C: getting tired
+D: ticket
+E: accidents",driving,"['driving', '', 'getting tired', 'ticket', 'accidents']",['breathing'],"Question: The police saw the moving car, what did they know the suspect was doing?
+Answer:
+A: driving
+B: 
+C: getting tired
+D: ticket
+E: accidents","The () saw the moving car, what did they know the suspect was doing?",police
+55,6542,f273f70b5f783466931555d5a391e161,Where are you normally when you take a bath?,bath,"['greece', 'hotel room', 'clothing store', 'own home', 'house']",D,"A: greece
+B: hotel room
+C: clothing store
+D: own home
+E: house",ownhome,"['greece', '', 'clothing store', 'own home', 'house']",['hotel room'],"Question: Where are you normally when you take a bath?
+Answer:
+A: greece
+B: 
+C: clothing store
+D: own home
+E: house",Where are you normally when you take a ()?,bath
+56,9190,e74b768a33f0f591af80fe4d8ef8f304,where can someone get a new chess set?,chess set,"['kitchen', 'toy store', 'michigan', 'cupboard', 'dorm']",B,"A: kitchen
+B: toy store
+C: michigan
+D: cupboard
+E: dorm",toystore,"['kitchen', 'toy store', 'michigan', 'cupboard', '']",['dorm'],"Question: where can someone get a new chess set?
+Answer:
+A: kitchen
+B: toy store
+C: michigan
+D: cupboard
+E: ",where can someone get a new chess ()?,set
+57,358,846a368a6c74259556f8df1a31db77cb,"When he was a small child he called the giraffe mascot a cow, it was a fond memory of the now defunct what?",cow,"['toy store', 'story book', 'great outdoors', 'countryside', 'wildlife refuge']",A,"A: toy store
+B: story book
+C: great outdoors
+D: countryside
+E: wildlife refuge",toystore,"['toy store', 'story book', 'great outdoors', '', 'wildlife refuge']",['countryside'],"Question: When he was a small child he called the giraffe mascot a cow, it was a fond memory of the now defunct what?
+Answer:
+A: toy store
+B: story book
+C: great outdoors
+D: 
+E: wildlife refuge","When he was a small () he called the giraffe mascot a cow, it was a fond memory of the now defunct what?",child
+58,3906,7cc82a88e4b85df5b78ca37ca58362fa,Where do lizards like to sun themselves?,lizard,"['garden', 'jazz club', 'tropical rainforest', 'rocky places', 'tanning bed']",D,"A: garden
+B: jazz club
+C: tropical rainforest
+D: rocky places
+E: tanning bed",rockyplaces,"['garden', '', 'tropical rainforest', 'rocky places', 'tanning bed']",['jazz club'],"Question: Where do lizards like to sun themselves?
+Answer:
+A: garden
+B: 
+C: tropical rainforest
+D: rocky places
+E: tanning bed",Where do () like to sun themselves?,lizards
+59,6102,f4875cde564c06795dff317449b855f1,Which state are you in if you're at a tennis court in a mitten-shaped state?,tennis court,"['town', 'country club', 'health club', 'florida', 'michigan']",E,"A: town
+B: country club
+C: health club
+D: florida
+E: michigan",michigan,"['', 'country club', 'health club', 'florida', 'michigan']",['town'],"Question: Which state are you in if you're at a tennis court in a mitten-shaped state?
+Answer:
+A: 
+B: country club
+C: health club
+D: florida
+E: michigan",Which () are you in if you're at a tennis court in a mitten-shaped ()?,state
+60,533,bb3c158fe3d9c54d18fcb178caf8b070,Where are you if your reading magazines while waiting for a vehicle on rails?,magazines,"['vegetables', 'market', 'doctor', 'train station', 'bookstore']",D,"A: vegetables
+B: market
+C: doctor
+D: train station
+E: bookstore",trainstation,"['vegetables', 'market', '', 'train station', 'bookstore']",['doctor'],"Question: Where are you if your reading magazines while waiting for a vehicle on rails?
+Answer:
+A: vegetables
+B: market
+C: 
+D: train station
+E: bookstore",Where are you if your () magazines while waiting for a vehicle on rails?,reading
+61,9404,1098d6e38f549550bfd5ded1ccaa73e1,Where might a bureau be in charge?,bureau,"['french government', 'home office', 'office building', 'parliament', 'bedroom']",A,"A: french government
+B: home office
+C: office building
+D: parliament
+E: bedroom",frenchgovernment,"['french government', '', 'office building', 'parliament', 'bedroom']",['home office'],"Question: Where might a bureau be in charge?
+Answer:
+A: french government
+B: 
+C: office building
+D: parliament
+E: bedroom",Where might a () be in charge?,bureau
+62,9282,10ce9f17e72c70bde21544edbe5b9591,What kind of leave did the manager assign all nonessential personnel?,nonessential,"['mandatory', 'shall', 'necessary', 'essential', 'required']",A,"A: mandatory
+B: shall
+C: necessary
+D: essential
+E: required",mandatory,"['mandatory', 'shall', '', 'essential', 'required']",['necessary'],"Question: What kind of leave did the manager assign all nonessential personnel?
+Answer:
+A: mandatory
+B: shall
+C: 
+D: essential
+E: required",What kind of () did the manager assign all nonessential personnel?,leave
+63,8142,98bbe0d300f5f0d7983d0081ed187b4d,When you meet interesting people your contacts list is likely to do what?,meet interesting people,"['remember names', 'grow', 'friendly', 'cordial', 'friendship']",B,"A: remember names
+B: grow
+C: friendly
+D: cordial
+E: friendship",grow,"['remember names', 'grow', '', 'cordial', 'friendship']",['friendly'],"Question: When you meet interesting people your contacts list is likely to do what?
+Answer:
+A: remember names
+B: grow
+C: 
+D: cordial
+E: friendship",When you meet interesting () your contacts list is likely to do what?,people
+64,8910,d7c8377953e0175ef57d59f3a8e63a8e,What place could have one back garden?,back garden,"['police station', 'city', 'town', 'england', 'house']",E,"A: police station
+B: city
+C: town
+D: england
+E: house",house,"['', 'city', 'town', 'england', 'house']",['police station'],"Question: What place could have one back garden?
+Answer:
+A: 
+B: city
+C: town
+D: england
+E: house",What () could have one back garden?,place
+65,3857,3c06db0a2abf67151514d6c568eb66b5,Where does a cast act?,cast,"['perform', 'stage', 'cast net', 'film', 'broken leg']",B,"A: perform
+B: stage
+C: cast net
+D: film
+E: broken leg",stage,"['perform', 'stage', 'cast net', '', 'broken leg']",['film'],"Question: Where does a cast act?
+Answer:
+A: perform
+B: stage
+C: cast net
+D: 
+E: broken leg",Where does a () act?,cast
+66,6523,5d31ff30918b50af03e6eca3f7b7967e,"Bill wants to make a fortune while sailing in the Caribbean, what should he look for?",fortune,"['bank', 'stock market', 'treasure chest', 'bag of cash', 'real estate']",C,"A: bank
+B: stock market
+C: treasure chest
+D: bag of cash
+E: real estate",treasurechest,"['', 'stock market', 'treasure chest', 'bag of cash', 'real estate']",['bank'],"Question: Bill wants to make a fortune while sailing in the Caribbean, what should he look for?
+Answer:
+A: 
+B: stock market
+C: treasure chest
+D: bag of cash
+E: real estate","Bill wants to make a () while sailing in the Caribbean, what should he look for?",fortune
+67,3808,5bab8120c2814c3a66fa4262f7500fba,If you have plenty to eat when you have lunch you'll do what?,have lunch,"['eath', 'pouring coffee', 'feel empty', 'get full', 'getting in line']",D,"A: eath
+B: pouring coffee
+C: feel empty
+D: get full
+E: getting in line",getfull,"['eath', 'pouring coffee', '', 'get full', 'getting in line']",['feel empty'],"Question: If you have plenty to eat when you have lunch you'll do what?
+Answer:
+A: eath
+B: pouring coffee
+C: 
+D: get full
+E: getting in line",If you have plenty to eat when you have () you'll do what?,lunch
+68,5586,31b7eb91c8e4c9bfa936ce979f5a4ca8,James was an American horse. He thought his home was too hot.  Where might he have lived?,horse,"['arizona', 'farm yard', 'south', 'michigan', 'western movie']",A,"A: arizona
+B: farm yard
+C: south
+D: michigan
+E: western movie",arizona,"['arizona', 'farm yard', '', 'michigan', 'western movie']",['south'],"Question: James was an American horse. He thought his home was too hot.  Where might he have lived?
+Answer:
+A: arizona
+B: farm yard
+C: 
+D: michigan
+E: western movie",James was an American (). He thought his home was too hot.  Where might he have lived?,horse
+69,7576,4dd40d984b5779ac7b2089212061a772,"The person was glad that his father had helped him.   If his father wasn't there, he'd have been what?",glad,"['regretful', 'hatred', 'downcast', 'unhappy', 'disappointed']",E,"A: regretful
+B: hatred
+C: downcast
+D: unhappy
+E: disappointed",disappointed,"['', 'hatred', 'downcast', 'unhappy', 'disappointed']",['regretful'],"Question: The person was glad that his father had helped him.   If his father wasn't there, he'd have been what?
+Answer:
+A: 
+B: hatred
+C: downcast
+D: unhappy
+E: disappointed","The () was glad that his father had helped him.   If his father wasn't there, he'd have been what?",person
+70,9310,8c2c17b50f2f10e4f3004c30dbfccc19,What does the D in DRC stand for?,republic,"['dictatorship', 'democracy', 'democracy', 'state', 'democratic']",E,"A: dictatorship
+B: democracy
+C: democracy
+D: state
+E: democratic",democratic,"['dictatorship', 'democracy', '', 'state', 'democratic']",['democracy'],"Question: What does the D in DRC stand for?
+Answer:
+A: dictatorship
+B: democracy
+C: 
+D: state
+E: democratic",What does the D in DRC stand for?,
+71,2046,8959f7fd535adcbfa7028dc13af3dcb2,After a long day of teaching and an afternoon of grading homework the teacher was hungry so she began to what?,teacher,"['evaluate progress', 'include examples', 'time test', 'prepare dinner', 'eat children']",D,"A: evaluate progress
+B: include examples
+C: time test
+D: prepare dinner
+E: eat children",preparedinner,"['evaluate progress', 'include examples', 'time test', 'prepare dinner', '']",['eat children'],"Question: After a long day of teaching and an afternoon of grading homework the teacher was hungry so she began to what?
+Answer:
+A: evaluate progress
+B: include examples
+C: time test
+D: prepare dinner
+E: ",After a long day of teaching and an afternoon of grading homework the () was hungry so she began to what?,teacher
+72,4439,068ce575c1fe83c0c19afc43e2b23169,"James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",cottage,"['mountains', 'dense areas', 'village', 'countryside', 'painting']",E,"A: mountains
+B: dense areas
+C: village
+D: countryside
+E: painting",painting,"['', 'dense areas', 'village', 'countryside', 'painting']",['mountains'],"Question: James spent his days at his cottage trying to capture the beauty of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?
+Answer:
+A: 
+B: dense areas
+C: village
+D: countryside
+E: painting","James spent his days at his cottage trying to capture the () of the landscape, but he wasn't good at it. He was never good at it.  What isn't he good at?",beauty
+73,4692,4bb828a8c61988957739eed4f8518332,Where is a good place for a safabed to be so it can also be used for seating?,sofabed,"['garage', 'sitting room', 'spare room', 'livingroom', 'dinning roam']",B,"A: garage
+B: sitting room
+C: spare room
+D: livingroom
+E: dinning roam",sittingroom,"['garage', 'sitting room', 'spare room', '', 'dinning roam']",['livingroom'],"Question: Where is a good place for a safabed to be so it can also be used for seating?
+Answer:
+A: garage
+B: sitting room
+C: spare room
+D: 
+E: dinning roam",Where is a good place for a safabed to be so it can also be used for ()?,seating
+74,4201,5dffd7d4ae870d46e62928bbb9c9d2a7,Where are things sometimes organized by a card catalog?,card catalog,"['store', 'recipe book', 'kitchen', 'easy browsing', 'library']",E,"A: store
+B: recipe book
+C: kitchen
+D: easy browsing
+E: library",library,"['store', '', 'kitchen', 'easy browsing', 'library']",['recipe book'],"Question: Where are things sometimes organized by a card catalog?
+Answer:
+A: store
+B: 
+C: kitchen
+D: easy browsing
+E: library",Where are things sometimes organized by a card ()?,catalog
+75,4832,4a038540c439a347ad60b361c1cf1e62,Where are you when an employee brings you cooked potatoes?,potatoes,"['bathroom', 'cellar', 'countryside', 'restaurant', 'plate']",D,"A: bathroom
+B: cellar
+C: countryside
+D: restaurant
+E: plate",restaurant,"['', 'cellar', 'countryside', 'restaurant', 'plate']",['bathroom'],"Question: Where are you when an employee brings you cooked potatoes?
+Answer:
+A: 
+B: cellar
+C: countryside
+D: restaurant
+E: plate",Where are you when an () brings you cooked potatoes?,employee
+76,1970,c277775dce20e98575156b8b983c258c,"Jeremy is mastering a music scale, where should he find books on the matter?",scale,"['post office', 'music store', 'assay office', 'butcher shop', ""doctor's office""]",B,"A: post office
+B: music store
+C: assay office
+D: butcher shop
+E: doctor's office",musicstore,"['post office', 'music store', '', 'butcher shop', ""doctor's office""]",['assay office'],"Question: Jeremy is mastering a music scale, where should he find books on the matter?
+Answer:
+A: post office
+B: music store
+C: 
+D: butcher shop
+E: doctor's office","Jeremy is mastering a music scale, where should he find () on the matter?",books
+77,861,ed4685a26e896a7a6d37e8c8f787729f,What would a person do to help someone that is not able to speak coherently?,person,"['sign language', 'complete sentence', 'drink tea', 'feel angry', 'cross street']",B,"A: sign language
+B: complete sentence
+C: drink tea
+D: feel angry
+E: cross street",completesentence,"['sign language', 'complete sentence', '', 'feel angry', 'cross street']",['drink tea'],"Question: What would a person do to help someone that is not able to speak coherently?
+Answer:
+A: sign language
+B: complete sentence
+C: 
+D: feel angry
+E: cross street",What would a () do to help someone that is not able to speak coherently?,person
+78,7900,e5dcb0e9ce9d020ff021e6892885292a,What would you put a spoon into after you finish eating?,spoon,"['dishwasher', 'bowl of soup', 'washing machine', 'serving dish', 'dinner']",A,"A: dishwasher
+B: bowl of soup
+C: washing machine
+D: serving dish
+E: dinner",dishwasher,"['dishwasher', 'bowl of soup', '', 'serving dish', 'dinner']",['washing machine'],"Question: What would you put a spoon into after you finish eating?
+Answer:
+A: dishwasher
+B: bowl of soup
+C: 
+D: serving dish
+E: dinner",What would you put a () into after you finish eating?,spoon
+79,5156,cd9ee2d4be94cf10c244eebc689b8f77,Where does something get weighed on a scale in order to determine a price?,scale,"['music store', 'bathroom', 'post office', 'craft store', ""doctor's office""]",C,"A: music store
+B: bathroom
+C: post office
+D: craft store
+E: doctor's office",postoffice,"['music store', 'bathroom', 'post office', 'craft store', '']","[""doctor's office""]","Question: Where does something get weighed on a scale in order to determine a price?
+Answer:
+A: music store
+B: bathroom
+C: post office
+D: craft store
+E: ",Where does something get weighed on a scale in () to determine a price?,order
+80,5866,dce47167b8dab9cf3ef1834e2b1e88dd,If the though of performing makes you anxious what do you suffer from?,performing,"['being appreciated', 'get attention', 'terror', 'stage fright', 'fear']",D,"A: being appreciated
+B: get attention
+C: terror
+D: stage fright
+E: fear",stagefright,"['being appreciated', '', 'terror', 'stage fright', 'fear']",['get attention'],"Question: If the though of performing makes you anxious what do you suffer from?
+Answer:
+A: being appreciated
+B: 
+C: terror
+D: stage fright
+E: fear",If the though of performing makes you () what do you suffer from?,anxious
+81,3477,63ecae5ec728ad57ab0907229484fdd5,What is a reason to pay your television bill?,television,"['informative', 'dead', 'legal', 'entertaining', 'obsolete']",C,"A: informative
+B: dead
+C: legal
+D: entertaining
+E: obsolete",legal,"['informative', 'dead', 'legal', '', 'obsolete']",['entertaining'],"Question: What is a reason to pay your television bill?
+Answer:
+A: informative
+B: dead
+C: legal
+D: 
+E: obsolete",What is a () to pay your television bill?,reason
+82,9658,19eee9caa52e736b12c192071c4046f3,"If a couple is having financial issues, buying products can lead to what?",buying products,"['economic boom', 'being able to use', 'disagreements', 'spending money', 'joy']",C,"A: economic boom
+B: being able to use
+C: disagreements
+D: spending money
+E: joy",disagreements,"['economic boom', 'being able to use', 'disagreements', 'spending money', '']",['joy'],"Question: If a couple is having financial issues, buying products can lead to what?
+Answer:
+A: economic boom
+B: being able to use
+C: disagreements
+D: spending money
+E: ","If a () is having financial issues, buying products can lead to what?",couple
+83,505,15c68e50e58319ae935c8076cdaf48d3,"After the guilty verdict in the killing the judge gave a speech, he told the murderer he was pure what?",killing,"['wrong', 'death of', 'bad', 'negative', 'evil']",E,"A: wrong
+B: death of
+C: bad
+D: negative
+E: evil",evil,"['wrong', 'death of', 'bad', '', 'evil']",['negative'],"Question: After the guilty verdict in the killing the judge gave a speech, he told the murderer he was pure what?
+Answer:
+A: wrong
+B: death of
+C: bad
+D: 
+E: evil","After the guilty verdict in the killing the judge gave a (), he told the murderer he was pure what?",speech
+84,1485,08635abd9b1b2fbe1bd3a23f03ceff63,"Matt had issues controlling his anger, what did he do when someone set him off?",anger,"['destroy enemy', 'punch', 'cool off', 'write letter', 'illustrate point']",B,"A: destroy enemy
+B: punch
+C: cool off
+D: write letter
+E: illustrate point",punch,"['destroy enemy', 'punch', '', 'write letter', 'illustrate point']",['cool off'],"Question: Matt had issues controlling his anger, what did he do when someone set him off?
+Answer:
+A: destroy enemy
+B: punch
+C: 
+D: write letter
+E: illustrate point","Matt had () controlling his anger, what did he do when someone set him off?",issues
+85,1690,5cd7f44bbf730dfae5ef2a362d2e5149,What can help you with an illness?,illness,"['elderly person', 'sick person', 'hospital', ""doctor's office"", 'stomach']",D,"A: elderly person
+B: sick person
+C: hospital
+D: doctor's office
+E: stomach",doctor'soffice,"['elderly person', '', 'hospital', ""doctor's office"", 'stomach']",['sick person'],"Question: What can help you with an illness?
+Answer:
+A: elderly person
+B: 
+C: hospital
+D: doctor's office
+E: stomach",What can help you with an ()?,illness
+86,297,390eef19c5f2b7fbd42f56cf036e1fd3,Where will a bullet projectile be found during a war?,projectile,"['battle field', 'museum', 'weapon', 'canon', 'tornado']",A,"A: battle field
+B: museum
+C: weapon
+D: canon
+E: tornado",battlefield,"['battle field', 'museum', 'weapon', '', 'tornado']",['canon'],"Question: Where will a bullet projectile be found during a war?
+Answer:
+A: battle field
+B: museum
+C: weapon
+D: 
+E: tornado",Where will a bullet () be found during a war?,projectile
+87,4977,bf1116612abf1a5948e2e3ba94bff3ae,"She was playing violin with the hope of recording it someday, what did she want to do with her talent?",play violin,"['calluses', 'playing wrong note', 'audition', 'making music', 'read music']",D,"A: calluses
+B: playing wrong note
+C: audition
+D: making music
+E: read music",makingmusic,"['calluses', '', 'audition', 'making music', 'read music']",['playing wrong note'],"Question: She was playing violin with the hope of recording it someday, what did she want to do with her talent?
+Answer:
+A: calluses
+B: 
+C: audition
+D: making music
+E: read music","She was playing violin with the hope of recording it someday, what did she want to do with her ()?",talent
+88,47,c428412a660f34965772a7389ce58e0a,What might be the result of a season of successful skiing?,skiing,"['finish line', 'broken bones', 'broken legs', 'chapped lips', 'healthy body']",E,"A: finish line
+B: broken bones
+C: broken legs
+D: chapped lips
+E: healthy body",healthybody,"['finish line', '', 'broken legs', 'chapped lips', 'healthy body']",['broken bones'],"Question: What might be the result of a season of successful skiing?
+Answer:
+A: finish line
+B: 
+C: broken legs
+D: chapped lips
+E: healthy body",What might be the () of a season of successful skiing?,result
+89,1086,bd9b81f43baf042635fee3b20c98e705,"Working in the vegetable garden everyday is good for you, you get to spend time where?",vegetable garden,"['backyard', 'outside', 'amusement park', 'eating', 'back yard']",B,"A: backyard
+B: outside
+C: amusement park
+D: eating
+E: back yard",outside,"['backyard', 'outside', 'amusement park', '', 'back yard']",['eating'],"Question: Working in the vegetable garden everyday is good for you, you get to spend time where?
+Answer:
+A: backyard
+B: outside
+C: amusement park
+D: 
+E: back yard","Working in the vegetable () everyday is good for you, you get to spend time where?",garden
+90,726,a1b81a0188d5ee00088a166e3aea5446,What type of water transportation is human powered?,human,"['turn away', 'let down', 'have to sleep', 'run', 'row boat']",E,"A: turn away
+B: let down
+C: have to sleep
+D: run
+E: row boat",rowboat,"['turn away', '', 'have to sleep', 'run', 'row boat']",['let down'],"Question: What type of water transportation is human powered?
+Answer:
+A: turn away
+B: 
+C: have to sleep
+D: run
+E: row boat",What type of water () is human powered?,transportation
+91,3418,144d734404d15d00e048ec209eb8ed92,"If you saw a fish break the surface of the water and flap its fins in the air, you might think it is doing what?",fish,"['school together', 'pets', 'attempt to fly', 'find food', 'hatred']",C,"A: school together
+B: pets
+C: attempt to fly
+D: find food
+E: hatred",attempttofly,"['', 'pets', 'attempt to fly', 'find food', 'hatred']",['school together'],"Question: If you saw a fish break the surface of the water and flap its fins in the air, you might think it is doing what?
+Answer:
+A: 
+B: pets
+C: attempt to fly
+D: find food
+E: hatred","If you saw a () break the surface of the water and flap its fins in the air, you might think it is doing what?",fish
+92,1039,f85b6ec6ad784b0664935f21877003cd,Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along?,computer user,"['school', 'hell', 'internet cafe', 'office building', 'despair']",C,"A: school
+B: hell
+C: internet cafe
+D: office building
+E: despair",internetcafe,"['school', 'hell', 'internet cafe', '', 'despair']",['office building'],"Question: Where might you find a computer user that is visiting a foreign city and didn't bring their own computer along?
+Answer:
+A: school
+B: hell
+C: internet cafe
+D: 
+E: despair",Where might you find a computer () that is visiting a foreign city and didn't bring their own computer along?,user
+93,1974,0abf342a1e79ad512937a194474480ed,When you're getting drunk and stumbling what might you be feeling?,getting drunk,"['stumbling', 'nausea', 'fights', 'death', 'your head hit the ground']",B,"A: stumbling
+B: nausea
+C: fights
+D: death
+E: your head hit the ground",nausea,"['stumbling', 'nausea', 'fights', 'death', '']",['your head hit the ground'],"Question: When you're getting drunk and stumbling what might you be feeling?
+Answer:
+A: stumbling
+B: nausea
+C: fights
+D: death
+E: ",When you're getting () and stumbling what might you be feeling?,drunk
+94,4723,28a6d37816be84e77ac79bef5a12b433,"The man was sick of secular consumerism, what life did he seek instead?",secular,"['eternal', 'married life', 'religious', 'monastic', 'unpredictable']",D,"A: eternal
+B: married life
+C: religious
+D: monastic
+E: unpredictable",monastic,"['eternal', 'married life', '', 'monastic', 'unpredictable']",['religious'],"Question: The man was sick of secular consumerism, what life did he seek instead?
+Answer:
+A: eternal
+B: married life
+C: 
+D: monastic
+E: unpredictable","The man was sick of secular consumerism, what () did he seek instead?",life
+95,4263,18c43c58a0e0472084ad630d4d0c1093,Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?,relaxing,"['feeling good', 'deep breathing', 'sleeping', 'taking a bath', 'fall asleep']",B,"A: feeling good
+B: deep breathing
+C: sleeping
+D: taking a bath
+E: fall asleep",deepbreathing,"['feeling good', 'deep breathing', '', 'taking a bath', 'fall asleep']",['sleeping'],"Question: Joe learned some relaxing exercises from his therapist.  They all centered around what sort of action?
+Answer:
+A: feeling good
+B: deep breathing
+C: 
+D: taking a bath
+E: fall asleep",Joe learned some relaxing exercises from his therapist.  They all centered around what () of action?,sort
+96,7001,80138b9cea63d347acdacdba0c5ed16b,James turned on his computer and the monitor lit on the room.  What might his body do as he stands there?,computer,"['see a ghost', 'become sensible', 'make decisions', 'crash', 'cast shadow']",E,"A: see a ghost
+B: become sensible
+C: make decisions
+D: crash
+E: cast shadow",castshadow,"['', 'become sensible', 'make decisions', 'crash', 'cast shadow']",['see a ghost'],"Question: James turned on his computer and the monitor lit on the room.  What might his body do as he stands there?
+Answer:
+A: 
+B: become sensible
+C: make decisions
+D: crash
+E: cast shadow",James turned on his () and the monitor lit on the room.  What might his body do as he stands there?,computer
+97,6268,d683040f7fb16669504f36845cee5cae,If an insurance adjuster finds your claim incorrect they will do what?,claim,"['forgive', 'disown reject', 'relinquish', 'deny', 'give back']",D,"A: forgive
+B: disown reject
+C: relinquish
+D: deny
+E: give back",deny,"['forgive', 'disown reject', 'relinquish', 'deny', '']",['give back'],"Question: If an insurance adjuster finds your claim incorrect they will do what?
+Answer:
+A: forgive
+B: disown reject
+C: relinquish
+D: deny
+E: ",If an () adjuster finds your claim incorrect they will do what?,insurance
+98,2989,fe780c1e09eb8ddeace179db3b3667fa,Bill loved riding his bike and did it all the time.  He had trouble going up hills and sometimes pushed himself to the point of what?,riding bike,"['falling down', 'give up', 'exhaustion', 'travelling', 'going somewhere']",C,"A: falling down
+B: give up
+C: exhaustion
+D: travelling
+E: going somewhere",exhaustion,"['falling down', '', 'exhaustion', 'travelling', 'going somewhere']",['give up'],"Question: Bill loved riding his bike and did it all the time.  He had trouble going up hills and sometimes pushed himself to the point of what?
+Answer:
+A: falling down
+B: 
+C: exhaustion
+D: travelling
+E: going somewhere",Bill loved riding his bike and did it all the ().  He had trouble going up hills and some()s pushed himself to the point of what?,time
+99,3262,4940cfa669ed367ebdb9c4143cf5d60e,"After I urinate and flush the toilet and wash my hands, what should I do next?",urinate,"['flush toilet', 'dry hands', 'zip pants', 'eat', 'wash hands']",D,"A: flush toilet
+B: dry hands
+C: zip pants
+D: eat
+E: wash hands",eat,"['flush toilet', 'dry hands', '', 'eat', 'wash hands']",['zip pants'],"Question: After I urinate and flush the toilet and wash my hands, what should I do next?
+Answer:
+A: flush toilet
+B: dry hands
+C: 
+D: eat
+E: wash hands","After I urinate and flush the () and wash my hands, what should I do next?",toilet
